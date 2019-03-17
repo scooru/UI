@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="10px" viewBox="0 0 21 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>↳ Tab Text Color &amp; Style</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.25" line-spacing="16">
+        <g id="Top-App-Bars" transform="translate(-368.000000, -1482.000000)" fill="#FFFFFF">
+            <g id="Contextual-Nav-/-Fixed-Tabs-/-Text-Labels-Only-/-Raised" transform="translate(79.000000, 1464.000000)">
+                <g id="TAB-3" transform="translate(240.000000, 0.000000)">
+                    <g id="✱-/-Text-/-Button-/-Selected-/-On-Primary-/-High-Emphasis-/-Center" transform="translate(0.000000, 15.000000)">
+                        <text id="Button-Text">
+                            <tspan x="41.684082" y="13.1728516">ME</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
