@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Notifications</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,21.5 C13.1,21.5 14,20.6 14,19.5 L10,19.5 C10,20.6 10.89,21.5 12,21.5 Z M18,15.5 L18,10.5 C18,7.43 16.36,4.86 13.5,4.18 L13.5,3.5 C13.5,2.67 12.83,2 12,2 C11.17,2 10.5,2.67 10.5,3.5 L10.5,4.18 C7.63,4.86 6,7.42 6,10.5 L6,15.5 L4,17.5 L4,18.5 L20,18.5 L20,17.5 L18,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Top-App-Bars" transform="translate(-403.000000, -1435.000000)">
+            <g id="Top-Nav-/-Elements-/-Icons-On-Primary-/-Positioned-Right-/-3-Up-with-Menu" transform="translate(79.000000, 1425.000000)">
+                <g id="Scooru-/-Notifications-/-Filled" transform="translate(320.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Notification" fill-rule="nonzero"></g>
+                    <g id="✱-/-Color-/-Icons-/-Selected-/-On-Primary-/-Active-" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Rectangle-3" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
