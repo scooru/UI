@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="32px" viewBox="0 0 144 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button / Follow / Outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,0 L140,0 C142.209139,-4.05812251e-16 144,1.790861 144,4 L144,28 C144,30.209139 142.209139,32 140,32 L4,32 C1.790861,32 2.705415e-16,30.209139 0,28 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-1"></path>
+        <polygon id="path-3" points="11 2 11 8 5 8 5 10 11 10 11 16 13 16 13 10 19 10 19 8 13 8 13 2"></polygon>
+    </defs>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buttons" transform="translate(-232.000000, -1272.000000)">
+            <g id="Buttons-/-Outlined-/-with-Icon-/-Disabled" transform="translate(232.000000, 1272.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <path stroke-opacity="0.12" stroke="#000000" stroke-width="1" d="M4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,28 C0.5,29.9329966 2.06700338,31.5 4,31.5 L140,31.5 C141.932997,31.5 143.5,29.9329966 143.5,28 L143.5,4 C143.5,2.06700338 141.932997,0.5 140,0.5 L4,0.5 Z"></path>
+                <g id="✱-/-Text-/-Button-/-Black-/-Disabled-/-Center" stroke="#979797" stroke-width="1" mask="url(#mask-2)" fill-opacity="0.38" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.25" line-spacing="16">
+                    <g transform="translate(40.000000, 8.000000)" id="Button" stroke="none">
+                        <text>
+                            <tspan x="6.12841797" y="13.1728516" fill="#000000">FOLLOW</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Icon-/-Add-/-Filled" mask="url(#mask-2)">
+                    <g transform="translate(14.163934, 7.111111)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Mask" stroke="none" fill="none"></g>
+                        <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" stroke="none" fill="none" mask="url(#mask-4)" fill-opacity="0.38" fill-rule="evenodd">
+                            <rect id="Rectangle" fill="#000000" x="0" y="0" width="24" height="18"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

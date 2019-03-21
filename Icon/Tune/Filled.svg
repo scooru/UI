@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Tune / Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,17 L3,19 L9,19 L9,17 L3,17 Z M3,5 L3,7 L13,7 L13,5 L3,5 Z M13,21 L13,19 L21,19 L21,17 L13,17 L13,15 L11,15 L11,21 L13,21 Z M7,9 L7,11 L3,11 L3,13 L7,13 L7,15 L9,15 L9,9 L7,9 Z M21,13 L21,11 L11,11 L11,13 L21,13 Z M15,9 L17,9 L17,7 L21,7 L21,5 L17,5 L17,3 L15,3 L15,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Material-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System-Icons" transform="translate(-191.000000, -1395.000000)">
+            <g id="Icon-/-Tune-/-Filled" transform="translate(188.000000, 1392.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Shape" fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" mask="url(#mask-2)" fill="#414141" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

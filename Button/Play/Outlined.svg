@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="32px" viewBox="0 0 144 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Button / Play / Outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,0 L140,0 C142.209139,-4.05812251e-16 144,1.790861 144,4 L144,28 C144,30.209139 142.209139,32 140,32 L4,32 C1.790861,32 2.705415e-16,30.209139 0,28 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-1"></path>
+        <path d="M18,12.06 C17.24,12.06 16.56,12.285 16.04,12.6375 L8.91,9.525 C8.96,9.3525 9,9.18 9,9 C9,8.82 8.96,8.6475 8.91,8.475 L15.96,5.3925 C16.5,5.7675 17.21,6 18,6 C19.66,6 21,4.995 21,3.75 C21,2.505 19.66,1.5 18,1.5 C16.34,1.5 15,2.505 15,3.75 C15,3.93 15.04,4.1025 15.09,4.275 L8.04,7.3575 C7.5,6.9825 6.79,6.75 6,6.75 C4.34,6.75 3,7.755 3,9 C3,10.245 4.34,11.25 6,11.25 C6.79,11.25 7.5,11.0175 8.04,10.6425 L15.16,13.7625 C15.11,13.92 15.08,14.085 15.08,14.25 C15.08,15.4575 16.39,16.44 18,16.44 C19.61,16.44 20.92,15.4575 20.92,14.25 C20.92,13.0425 19.61,12.06 18,12.06 Z M18,3 C18.55,3 19,3.3375 19,3.75 C19,4.1625 18.55,4.5 18,4.5 C17.45,4.5 17,4.1625 17,3.75 C17,3.3375 17.45,3 18,3 Z M6,9.75 C5.45,9.75 5,9.4125 5,9 C5,8.5875 5.45,8.25 6,8.25 C6.55,8.25 7,8.5875 7,9 C7,9.4125 6.55,9.75 6,9.75 Z M18,15.015 C17.45,15.015 17,14.6775 17,14.265 C17,13.8525 17.45,13.515 18,13.515 C18.55,13.515 19,13.8525 19,14.265 C19,14.6775 18.55,15.015 18,15.015 Z" id="path-3"></path>
+    </defs>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buttons" transform="translate(-76.000000, -1318.000000)">
+            <g id="Buttons-/-Outlined-/-with-Icon-/-Disabled" transform="translate(76.000000, 1318.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <path stroke-opacity="0.12" stroke="#000000" stroke-width="1" d="M4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,28 C0.5,29.9329966 2.06700338,31.5 4,31.5 L140,31.5 C141.932997,31.5 143.5,29.9329966 143.5,28 L143.5,4 C143.5,2.06700338 141.932997,0.5 140,0.5 L4,0.5 Z"></path>
+                <g id="✱-/-Text-/-Button-/-Black-/-Disabled-/-Center" stroke="#979797" stroke-width="1" mask="url(#mask-2)" fill-opacity="0.38" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.25" line-spacing="16">
+                    <g transform="translate(40.000000, 8.000000)" id="Button" stroke="none">
+                        <text>
+                            <tspan x="17.3930664" y="13.1728516" fill="#000000">PLAY</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Scooru-/-Match" mask="url(#mask-2)">
+                    <g transform="translate(14.163934, 7.111111)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Mask" stroke="none" fill="none" fill-rule="nonzero" transform="translate(12.000000, 8.970000) scale(-1, 1) translate(-12.000000, -8.970000) "></g>
+                        <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" stroke="none" fill="none" mask="url(#mask-4)" fill-opacity="0.54" fill-rule="evenodd">
+                            <rect id="Rectangle" fill="#414141" x="0" y="0" width="24" height="18"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

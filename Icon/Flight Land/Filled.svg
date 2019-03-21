@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Flight Land / Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.5,19 L21.5,19 L21.5,21 L2.5,21 L2.5,19 Z M9.68,13.27 L14.03,14.43 L19.34,15.85 C20.14,16.06 20.96,15.59 21.18,14.79 C21.39,13.99 20.92,13.17 20.12,12.95 L14.81,11.53 L12.05,2.51 L10.12,2 L10.12,10.28 L5.15,8.95 L4.22,6.63 L2.77,6.24 L2.77,11.41 L4.37,11.84 L9.68,13.27 Z" id="path-1"></path>
+    </defs>
+    <g id="Material-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System-Icons" transform="translate(-622.000000, -1394.000000)">
+            <g id="Icon-/-Flight-Land-/-Filled" transform="translate(620.000000, 1392.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" mask="url(#mask-2)" fill="#414141" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

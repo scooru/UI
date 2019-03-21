@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="7px" viewBox="0 0 22 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / LIVE / Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.2,9 L2.74711087,9 L2.74711087,14.4254567 L6.09975263,14.4254567 L6.09975263,15.6861918 L1.2,15.6861918 L1.2,9 Z M7.12797793,9 L8.6750888,9 L8.6750888,15.6861918 L7.12797793,15.6861918 L7.12797793,9 Z M16.8115692,9 L13.9171286,15.6861918 L12.3884276,15.6861918 L9.50421477,9 L11.1754218,9 L13.2093714,13.7756565 L15.2719586,9 L16.8115692,9 Z M22.7,14.4445484 L22.7,15.6861918 L17.5234175,15.6861918 L17.5234175,9 L22.5759038,9 L22.5759038,10.2416434 L19.0609825,10.2416434 L19.0609825,11.6932957 L22.1647501,11.6932957 L22.1647501,12.8974375 L19.0609825,12.8974375 L19.0609825,14.4445484 L22.7,14.4445484 Z" id="path-1"></path>
+    </defs>
+    <g id="Material-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System-Icons" transform="translate(-1197.000000, -1402.000000)">
+            <g id="Scooru-/-LIVE-/-Filled" transform="translate(1196.000000, 1393.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="LIVE" fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" mask="url(#mask-2)" fill="#414141" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

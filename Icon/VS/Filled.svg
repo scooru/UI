@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / VS / Filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.2567525,6.68541351 L8.59947234,17.4437856 L6.14082336,17.4437856 L1.5,6.68541351 L4.18904446,6.68541351 L7.46285461,14.3696515 L10.7816467,6.68541351 L13.2567525,6.68541351 Z M13.5562667,16.3828692 L14.4021472,14.5078888 C15.3083695,15.169453 16.6611201,15.6291469 17.9513348,15.6291469 C19.4269631,15.6291469 20.0270884,15.1376365 20.0270884,14.4771694 C20.0270884,12.4639517 13.7723996,13.8474218 13.7723996,9.85060864 C13.7723996,8.02170733 15.2469307,6.5 18.305705,6.5 C19.6573585,6.5 21.0408286,6.82255368 22.039209,7.45339846 L21.2712241,9.34373857 C20.2728436,8.77433258 19.2426467,8.497858 18.2892482,8.497858 C16.8147171,8.497858 16.2464082,9.05080717 16.2464082,9.72663393 C16.2464082,11.7102294 22.5,10.342119 22.5,14.2917559 C22.5,16.0899378 21.0112063,17.6259077 17.9359751,17.6259077 C16.2310485,17.628102 14.5096651,17.1212319 13.5562667,16.3828692 Z" id="path-1"></path>
+    </defs>
+    <g id="Material-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="System-Icons" transform="translate(-1051.000000, -1399.000000)">
+            <g id="Scooru-/-VS-/-Filled" transform="translate(1050.000000, 1393.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="VS" fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" mask="url(#mask-2)" fill="#414141" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
