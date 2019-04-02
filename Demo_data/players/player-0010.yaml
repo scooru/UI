@@ -1,0 +1,111 @@
+---
+player_id: 0010
+sname: siamak
+full_name: Siamak Yaghmaei
+short_name: Siamak Y.
+loc: Dubai
+dob: 1979-12-29
+likes: 378
+sports: football badminton
+
+categories:
+  - cat: Indoor
+    pos: Attacking midfield
+
+stats:
+  goals: 58
+  assists: 126
+  saves: 150
+  games: 273
+  hours: 887
+
+teams:
+  - sname: awfc
+    pos: Centre forward
+
+games:
+  - date: 08/23/2015 05:11 AM
+    loc: Quezon City
+    visitor: Al-Wasl F.C.
+    home: FC Venice 89
+  - date: 07/21/2012 12:42 AM
+    loc: Fuzhou
+    visitor: Al-Wasl F.C.
+    home: Mozambique F.C.
+  - date: 09/20/2005 09:27 PM
+    loc: Busan
+    visitor: Al-Wasl F.C.
+    home: Hiawatha
+  - date: 09/24/2009 09:23 PM
+    loc: Mandalay
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+  - date: 09/24/2007 09:28 PM
+    loc: Mandalay
+    visitor: Al-Wasl F.C.
+    home: Long Island
+  - date: 11/04/2007 03:05 AM
+    loc: Tabriz
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+
+followers:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+
+following:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+
+profpic:
+  - url: /player-prof-005.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-001.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg

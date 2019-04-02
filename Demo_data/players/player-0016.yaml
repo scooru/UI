@@ -1,0 +1,103 @@
+---
+player_id: 0016
+sname: josehey
+full_name: José Hamada Barros
+short_name: Jose H.B.
+loc: Sao Paulo
+dob: 1984-03-04
+likes: 693
+sports: football golf baseball
+
+categories:
+  - cat: Association
+    pos: Forward
+
+stats:
+  goals: 69
+  assists: 55
+  saves: 74
+  games: 149
+  hours: 1483
+
+teams:
+  - sname: palm
+    pos: Wing-back
+
+games:
+  - date: 03/10/2017 12:22 AM
+    loc: Córdoba
+    home: Palmeiras
+    visitor: Hiawatha
+  - date: 06/11/2001 05:10 PM
+    loc: Tabriz
+    visitor: Palmeiras
+    home: Kungsholmens FC
+  - date: 08/09/2010 01:14 AM
+    loc: Cairo
+    home: Palmeiras
+    visitor: Tahiti Untd
+  - date: 02/01/2005 11:16 PM
+    loc: Quanzhou
+    visitor: Palmeiras
+    home: Long Island
+  - date: 12/23/2001 05:52 PM
+    loc: Mandalay
+    home: Palmeiras
+    visitor: Maui Pilots FC
+  - date: 01/09/2009 09:27 AM
+    loc: Madrid
+    home: Palmeiras
+    visitor: Long Island
+
+followers:
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+
+following:
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+
+profpic:
+  - url: /player-prof-018.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-002.jpg
+  - url: /random-009.jpg
+  - url: /random-001.jpg

@@ -1,0 +1,114 @@
+---
+player_id: 0003
+sname: hasan
+full_name: Hasan el-Matin
+short_name: Hasan el-M.
+loc: Dubai
+dob: 1976-09-14
+likes: 117
+sports: football cricket basketball
+
+categories:
+  - cat: Paralympic
+    pos: Wing-back
+
+stats:
+  goals: 131
+  assists: 44
+  saves: 73
+  games: 276
+  hours: 1807
+
+teams:
+  - sname: awfc
+    pos: Sweeper
+
+games:
+  - date: 08/02/2015 12:18 AM
+    loc: Bengaluru
+    visitor: Al-Wasl F.C.
+    home: Hiawatha
+  - date: 10/30/2000 06:36 PM
+    loc: Mandalay
+    home: Al-Wasl F.C.
+    visitor: Kungsholmens FC
+  - date: 01/17/2015 03:52 AM
+    loc: Fuzhou
+    visitor: Al-Wasl F.C.
+    home: Mozambique F.C.
+  - date: 12/16/2013 01:37 PM
+    loc: Beijing
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+  - date: 01/12/2016 07:38 PM
+    loc: Fuzhou
+    visitor: Al-Wasl F.C.
+    home: Long Island
+
+followers:
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+
+following:
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+
+profpic:
+  - url: /player-prof-001.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg

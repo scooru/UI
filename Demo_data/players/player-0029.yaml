@@ -1,0 +1,106 @@
+---
+player_id: 0029
+sname: imgirma
+full_name: Girma Natnael Kaleb
+short_name: Girma K.
+loc: Addis Ababa
+dob: 1977-04-06
+likes: 655
+sports: football baseball cricket field-hockey
+
+categories:
+  - cat: Association
+    pos: Second striker
+
+stats:
+  goals: 41
+  assists: 141
+  saves: 117
+  games: 178
+  hours: 1840
+
+teams:
+  - sname: enft
+    pos: Defensive midfield
+
+games:
+  - date: 06/12/2013 05:41 PM
+    loc: London
+    home: Ethiopian FT
+    visitor: Long Island
+  - date: 11/16/2012 10:18 AM
+    loc: Mexico City
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 09/07/2008 12:16 AM
+    loc: Kawasaki
+    home: Ethiopian FT
+    visitor: FC Venice 89
+  - date: 08/26/2008 03:21 PM
+    loc: Beijing
+    visitor: Ethiopian FT
+    home: FC Venice 89
+
+followers:
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+
+following:
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+
+profpic:
+  - url: /player-prof-031.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-002.jpg
+  - url: /random-007.jpg

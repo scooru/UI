@@ -1,0 +1,105 @@
+---
+player_id: 0037
+sname: pierrelv
+full_name: Pierre-Louis Verninac
+short_name: PV Verninac
+loc: Paris
+dob: 1983-07-20
+likes: 696
+sports: football basketball table-tennis
+
+categories:
+  - cat: Indoor
+    pos: Centre forward
+
+stats:
+  goals: 86
+  assists: 193
+  saves: 119
+  games: 133
+  hours: 641
+
+teams:
+  - sname: fm91
+    pos: Full-back
+
+games:
+  - date: 12/13/2010 12:54 PM
+    loc: Mexico City
+    visitor: FC Fleury 91
+    home: Tahiti Untd
+  - date: 06/26/2004 10:44 AM
+    loc: London
+    home: FC Fleury 91
+    visitor: Maui Pilots FC
+  - date: 06/22/2000 02:35 PM
+    loc: Isfahan
+    visitor: FC Fleury 91
+    home: Seattle F.C.
+  - date: 04/23/2001 03:23 PM
+    loc: Mandalay
+    home: FC Fleury 91
+    visitor: Portland F.C.
+
+followers:
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+
+following:
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+
+profpic:
+  - url: /player-prof-036.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-009.jpg

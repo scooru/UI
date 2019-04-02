@@ -1,0 +1,122 @@
+---
+player_id: 0062
+sname: banthornn
+full_name: Banthorn Noppachorn
+short_name: Banthorn N.
+loc: Bangkok
+dob: 1986-06-04
+likes: 526
+sports: football badminton volleyball field-hockey tennis
+
+categories:
+  - cat: Association
+    pos: Midfielder
+
+stats:
+  goals: 135
+  assists: 189
+  saves: 99
+  games: 191
+  hours: 1348
+
+teams:
+  - sname: pxfc
+    pos: Defensive midfield
+
+games:
+  - date: 08/16/2008 04:41 PM
+    loc: Córdoba
+    visitor: Phoenix F.C.
+    home: Kungsholmens FC
+  - date: 02/12/2005 07:22 AM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: Seattle F.C.
+  - date: 08/08/2001 10:35 PM
+    loc: Beijing
+    visitor: Phoenix F.C.
+    home: Hiawatha
+  - date: 01/23/2011 03:04 PM
+    loc: Kawasaki
+    home: Phoenix F.C.
+    visitor: Portland F.C.
+
+followers:
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+
+following:
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+
+profpic:
+  - url: /player-prof-065.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-010.jpg
+  - url: /random-007.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg

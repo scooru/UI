@@ -1,0 +1,112 @@
+---
+player_id: 0007
+sname: arzhang
+full_name: Arzhang Moshiri
+short_name: Arzhang M.
+loc: Dubai
+dob: 1978-06-28
+likes: 811
+sports: football table-tennis golf
+
+categories:
+  - cat: Association
+    pos: Centre forward
+
+stats:
+  goals: 118
+  assists: 99
+  saves: 124
+  games: 173
+  hours: 1140
+
+teams:
+  - sname: awfc
+    pos: Defensive midfield
+
+games:
+  - date: 12/29/2002 03:39 PM
+    loc: Quanzhou
+    visitor: Al-Wasl F.C.
+    home: Osaka FT
+  - date: 06/30/2013 10:48 AM
+    loc: Mexico City
+    home: Al-Wasl F.C.
+    visitor: Osaka FT
+  - date: 11/25/2008 12:17 AM
+    loc: Bengaluru
+    home: Al-Wasl F.C.
+    visitor: Kungsholmens FC
+  - date: 08/09/2015 01:29 PM
+    loc: Havana
+    home: Al-Wasl F.C.
+    visitor: Kungsholmens FC
+  - date: 01/29/2005 07:51 AM
+    loc: Havana
+    visitor: Al-Wasl F.C.
+    home: Tahiti Untd
+
+followers:
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+
+following:
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+
+profpic:
+  - url: /player-prof-003.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-003.jpg

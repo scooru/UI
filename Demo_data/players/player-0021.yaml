@@ -1,0 +1,118 @@
+---
+player_id: 0021
+sname: vfds
+full_name: Vinicius Ferraz de Souza
+short_name: Vinicius FdS
+loc: Sao Paulo
+dob: 1987-12-10
+likes: 411
+sports: football field-hockey baseball badminton
+
+categories:
+  - cat: Beach
+    pos: Defensive midfield
+
+stats:
+  goals: 137
+  assists: 135
+  saves: 109
+  games: 216
+  hours: 1913
+
+teams:
+  - sname: palm
+    pos: Centre forward
+
+games:
+  - date: 01/14/2000 04:26 AM
+    loc: Fuzhou
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 03/10/2010 08:12 PM
+    loc: London
+    home: Palmeiras
+    visitor: Hiawatha
+  - date: 10/05/2009 03:59 PM
+    loc: Isfahan
+    home: Palmeiras
+    visitor: Kungsholmens FC
+  - date: 12/05/2004 12:16 PM
+    loc: Madrid
+    visitor: Palmeiras
+    home: FC Venice 89
+  - date: 01/20/2009 02:26 AM
+    loc: Cairo
+    visitor: Palmeiras
+    home: FC Venice 89
+  - date: 04/09/2010 08:34 PM
+    loc: Córdoba
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 12/30/2007 09:59 PM
+    loc: Fuzhou
+    visitor: Palmeiras
+    home: Maui Pilots FC
+
+followers:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+
+following:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+profpic:
+  - url: /player-prof-021.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg

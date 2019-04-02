@@ -1,0 +1,96 @@
+---
+player_id: 0001
+sname: musad
+full_name: Musaddiq al-Pirani
+short_name: Musaddiq A.P.
+loc: Dubai
+dob: 1975-08-09
+likes: 534
+sports: football volleyball baseball
+
+categories:
+  - cat: Futsal
+    pos: Second striker
+
+stats:
+  goals: 65
+  assists: 98
+  saves: 54
+  games: 257
+  hours: 898
+
+teams:
+  - sname: awfc
+    pos: Goalkeeper
+
+games:
+  - date: 02/08/2000 04:41 PM
+    loc: Bengaluru
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 01/24/2003 11:39 AM
+    loc: Kawasaki
+    home: Al-Wasl F.C.
+    visitor: Long Island
+  - date: 11/17/2008 07:36 PM
+    loc: São Paulo
+    home: Al-Wasl F.C.
+    visitor: Long Island
+  - date: 09/10/2015 05:37 AM
+    loc: Oran
+    home: Al-Wasl F.C.
+    visitor: FC Venice 89
+
+followers:
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+
+following:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+
+profpic:
+  - url: /player-prof-011.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-001.jpg

@@ -1,0 +1,110 @@
+---
+player_id: 0015
+sname: sidneife
+full_name: Sidnei Amaral Ferraz
+short_name: Sidnei Ama.
+loc: Sao Paulo
+dob: 1983-06-15
+likes: 891
+sports: football tennis
+
+categories:
+  - cat: Paralympic
+    pos: Winger
+
+stats:
+  goals: 90
+  assists: 124
+  saves: 89
+  games: 236
+  hours: 532
+
+teams:
+  - sname: palm
+    pos: Full-back
+
+games:
+  - date: 10/25/2004 10:18 AM
+    loc: Kawasaki
+    visitor: Palmeiras
+    home: Osaka FT
+  - date: 10/15/2003 12:36 AM
+    loc: Quanzhou
+    home: Palmeiras
+    visitor: Kungsholmens FC
+  - date: 10/05/2008 08:22 AM
+    loc: Havana
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 02/03/2006 04:12 PM
+    loc: Fuzhou
+    visitor: Palmeiras
+    home: Osaka FT
+  - date: 04/05/2010 10:32 AM
+    loc: London
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 07/16/2006 08:19 PM
+    loc: Quanzhou
+    home: Palmeiras
+    visitor: Maui Pilots FC
+
+followers:
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+
+following:
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+
+profpic:
+  - url: /player-prof-016.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg
+  - url: /random-004.jpg
+  - url: /random-008.jpg

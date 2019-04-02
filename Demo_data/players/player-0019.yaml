@@ -1,0 +1,110 @@
+---
+player_id: 0019
+sname: bernarcool
+full_name: Bernardo Maia Álvarez
+short_name: Bernardo M.
+loc: Sao Paulo
+dob: 1986-10-13
+likes: 379
+sports: football golf
+
+categories:
+  - cat: Indoor
+    pos: Midfielder
+
+stats:
+  goals: 117
+  assists: 72
+  saves: 86
+  games: 284
+  hours: 1534
+
+teams:
+  - sname: palm
+    pos: Attacking midfield
+
+games:
+  - date: 05/01/2004 08:16 PM
+    loc: Quanzhou
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 07/12/2006 08:22 AM
+    loc: Mandalay
+    home: Palmeiras
+    visitor: Maui Pilots FC
+  - date: 05/19/2009 10:51 AM
+    loc: Isfahan
+    visitor: Palmeiras
+    home: Long Island
+  - date: 07/23/2003 01:51 PM
+    loc: Bengaluru
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 06/16/2001 05:08 PM
+    loc: Córdoba
+    home: Palmeiras
+    visitor: Portland F.C.
+
+followers:
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+
+following:
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+
+profpic:
+  - url: /player-prof-019.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-006.jpg

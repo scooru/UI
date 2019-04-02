@@ -1,0 +1,120 @@
+---
+player_id: 0023
+sname: alemu1
+full_name: Alemu Bekele Yitay
+short_name: Alemu Y.
+loc: Addis Ababa
+dob: 1990-01-06
+likes: 338
+sports: football
+
+categories:
+  - cat: Beach
+    pos: Second striker
+
+stats:
+  goals: 90
+  assists: 120
+  saves: 121
+  games: 90
+  hours: 1758
+
+teams:
+  - sname: enft
+    pos: Goalkeeper
+
+games:
+  - date: 07/10/2016 09:11 PM
+    loc: Quezon City
+    visitor: Ethiopian FT
+    home: Maui Pilots FC
+  - date: 02/07/2015 06:23 PM
+    loc: Kawasaki
+    visitor: Ethiopian FT
+    home: Kungsholmens FC
+  - date: 09/08/2001 06:04 AM
+    loc: Fuzhou
+    visitor: Ethiopian FT
+    home: Maui Pilots FC
+  - date: 11/10/2005 11:12 PM
+    loc: Córdoba
+    visitor: Ethiopian FT
+    home: Hiawatha
+  - date: 12/16/2012 09:24 PM
+    loc: Oran
+    visitor: Ethiopian FT
+    home: Tahiti Untd
+
+followers:
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+following:
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+
+profpic:
+  - url: /player-prof-024.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-009.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-002.jpg

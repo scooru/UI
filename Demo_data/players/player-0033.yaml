@@ -1,0 +1,111 @@
+---
+player_id: 0033
+sname: jeneve
+full_name: Jeneve Dessalegne Tessema
+short_name: Jeneve T.
+loc: Addis Ababa
+dob: 1982-06-19
+likes: 260
+sports: football table-tennis basketball golf volleyball
+
+categories:
+  - cat: Street
+    pos: Attacking midfield
+
+stats:
+  goals: 48
+  assists: 170
+  saves: 99
+  games: 106
+  hours: 939
+
+teams:
+  - sname: enft
+    pos: Second striker
+
+games:
+  - date: 02/13/2009 04:10 AM
+    loc: Mexico City
+    visitor: Ethiopian FT
+    home: Hiawatha
+  - date: 02/25/2010 04:51 PM
+    loc: Kawasaki
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 04/24/2012 09:38 PM
+    loc: Oran
+    home: Ethiopian FT
+    visitor: Tahiti Untd
+  - date: 12/03/2007 05:33 AM
+    loc: Buenos Aires
+    visitor: Ethiopian FT
+    home: Hiawatha
+
+followers:
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+
+following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+
+profpic:
+  - url: /player-prof-030.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-006.jpg
+  - url: /random-004.jpg
+  - url: /random-005.jpg
+  - url: /random-010.jpg
+  - url: /random-007.jpg

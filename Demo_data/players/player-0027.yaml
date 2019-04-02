@@ -1,0 +1,95 @@
+---
+player_id: 0027
+sname: brekime
+full_name: Brehan Kidane Meles
+short_name: Brehan M.
+loc: Addis Ababa
+dob: 1976-04-13
+likes: 32
+sports: football basketball tennis golf
+
+categories:
+  - cat: Beach
+    pos: Goalkeeper
+
+stats:
+  goals: 57
+  assists: 142
+  saves: 140
+  games: 80
+  hours: 1075
+
+teams:
+  - sname: enft
+    pos: Wing-back
+
+games:
+  - date: 06/18/2014 02:02 PM
+    loc: Cairo
+    home: Ethiopian FT
+    visitor: Maui Pilots FC
+  - date: 09/14/2008 06:20 PM
+    loc: São Paulo
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 03/07/2003 11:11 AM
+    loc: Quanzhou
+    home: Ethiopian FT
+    visitor: Portland F.C.
+  - date: 10/14/2016 03:40 PM
+    loc: Havana
+    home: Ethiopian FT
+    visitor: Kungsholmens FC
+
+followers:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+
+following:
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+
+profpic:
+  - url: /player-prof-032.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-005.jpg

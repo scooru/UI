@@ -1,0 +1,119 @@
+---
+player_id: 0006
+sname: mahdaviB
+full_name: Behzad Mahdavi
+short_name: Behzad M
+loc: Dubai
+dob: 1977-07-26
+likes: 396
+sports: football
+
+categories:
+  - cat: Beach
+    pos: Sweeper
+
+stats:
+  goals: 124
+  assists: 167
+  saves: 100
+  games: 101
+  hours: 587
+
+teams:
+  - sname: awfc
+    pos: Centre midfield
+
+games:
+  - date: 08/04/2004 05:33 AM
+    loc: Tabriz
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+  - date: 01/03/2017 04:37 AM
+    loc: Buenos Aires
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+  - date: 07/11/2011 03:37 PM
+    loc: Córdoba
+    visitor: Al-Wasl F.C.
+    home: Long Island
+  - date: 02/24/2013 07:30 PM
+    loc: Córdoba
+    home: Al-Wasl F.C.
+    visitor: Mozambique F.C.
+  - date: 04/13/2012 02:23 AM
+    loc: Isfahan
+    visitor: Al-Wasl F.C.
+    home: Mozambique F.C.
+  - date: 02/03/2009 11:02 AM
+    loc: Oran
+    visitor: Al-Wasl F.C.
+    home: Tahiti Untd
+
+followers:
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+
+following:
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+profpic:
+  - url: /player-prof-007.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-008.jpg
+  - url: /random-002.jpg

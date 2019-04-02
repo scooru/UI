@@ -1,0 +1,116 @@
+---
+player_id: 0009
+sname: dibadiba
+full_name: Abbas Diba
+short_name: Abbas D.
+loc: Dubai
+dob: 1979-11-03
+likes: 725
+sports: football cricket tennis baseball
+
+categories:
+  - cat: Paralympic
+    pos: Defender
+
+stats:
+  goals: 41
+  assists: 196
+  saves: 126
+  games: 281
+  hours: 523
+
+teams:
+  - sname: awfc
+    pos: Wide midfield
+
+games:
+  - date: 06/26/2000 11:08 AM
+    loc: London
+    home: Al-Wasl F.C.
+    visitor: Osaka FT
+  - date: 10/07/2016 05:03 PM
+    loc: London
+    visitor: Al-Wasl F.C.
+    home: Hiawatha
+  - date: 02/28/2007 07:44 PM
+    loc: Quanzhou
+    home: Al-Wasl F.C.
+    visitor: Tahiti Untd
+  - date: 12/18/2011 05:17 PM
+    loc: Busan
+    visitor: Al-Wasl F.C.
+    home: Tahiti Untd
+  - date: 09/14/2013 02:36 AM
+    loc: Tabriz
+    home: Al-Wasl F.C.
+    visitor: Kungsholmens FC
+  - date: 03/20/2014 09:45 AM
+    loc: Fuzhou
+    visitor: Al-Wasl F.C.
+    home: FC Venice 89
+
+followers:
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+
+following:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+
+profpic:
+  - url: /player-prof-004.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg
+  - url: /random-003.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg

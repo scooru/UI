@@ -1,0 +1,127 @@
+---
+player_id: 0061
+sname: duchan
+full_name: Duchanee Srisati
+short_name: Duchanee S.
+loc: Bangkok
+dob: 1985-12-23
+likes: 987
+sports: football badminton basketball
+
+categories:
+  - cat: Paralympic
+    pos: Centre forward
+
+stats:
+  goals: 106
+  assists: 60
+  saves: 131
+  games: 212
+  hours: 1390
+
+teams:
+  - sname: pxfc
+    pos: Centre midfield
+
+games:
+  - date: 09/05/2016 01:48 PM
+    loc: Havana
+    home: Phoenix F.C.
+    visitor: Seattle F.C.
+  - date: 09/21/2009 12:18 AM
+    loc: Mandalay
+    visitor: Phoenix F.C.
+    home: Seattle F.C.
+  - date: 12/25/2010 01:00 PM
+    loc: Kawasaki
+    home: Phoenix F.C.
+    visitor: Tahiti Untd
+  - date: 07/16/2010 08:53 PM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: FC Venice 89
+  - date: 01/03/2009 06:32 PM
+    loc: Cairo
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+
+followers:
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+
+following:
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+
+profpic:
+  - url: /player-prof-063.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-003.jpg
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-010.jpg

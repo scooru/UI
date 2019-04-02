@@ -1,0 +1,120 @@
+---
+player_id: 0013
+sname: marcionf
+full_name: Márcio Nascimento Furtado
+short_name: Marcio Nasc
+loc: Sao Paulo
+dob: 1982-05-04
+likes: 561
+sports: football
+
+categories:
+  - cat: Association
+    pos: Attacking midfield
+
+stats:
+  goals: 123
+  assists: 74
+  saves: 57
+  games: 292
+  hours: 1251
+
+teams:
+  - sname: palm
+    pos: Centre-back
+
+games:
+  - date: 09/08/2017 03:25 PM
+    loc: Beijing
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 10/22/2015 07:19 PM
+    loc: Mexico City
+    home: Palmeiras
+    visitor: Osaka FT
+  - date: 11/15/2011 08:12 PM
+    loc: Cairo
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 04/10/2001 10:00 PM
+    loc: Havana
+    visitor: Palmeiras
+    home: Osaka FT
+  - date: 09/28/2015 04:53 PM
+    loc: Madrid
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 04/03/2004 02:50 PM
+    loc: Quanzhou
+    home: Palmeiras
+    visitor: Portland F.C.
+
+followers:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+
+following:
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+
+profpic:
+  - url: /player-prof-014.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg

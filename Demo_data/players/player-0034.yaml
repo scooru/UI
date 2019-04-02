@@ -1,0 +1,103 @@
+---
+player_id: 0034
+sname: lexrox
+full_name: Alexis Gaubert
+short_name: Alexis G.
+loc: Paris
+dob: 1982-11-14
+likes: 635
+sports: football
+
+categories:
+  - cat: Paralympic
+    pos: Centre midfield
+
+stats:
+  goals: 45
+  assists: 195
+  saves: 78
+  games: 121
+  hours: 1726
+
+teams:
+  - sname: fm91
+    pos: Goalkeeper
+
+games:
+  - date: 04/14/2000 09:52 AM
+    loc: São Paulo
+    visitor: FC Fleury 91
+    home: Mozambique F.C.
+  - date: 03/30/2000 01:03 AM
+    loc: Madrid
+    home: FC Fleury 91
+    visitor: Portland F.C.
+  - date: 04/03/2007 11:19 PM
+    loc: Mandalay
+    home: FC Fleury 91
+    visitor: Mozambique F.C.
+  - date: 08/13/2012 12:17 PM
+    loc: Tabriz
+    home: FC Fleury 91
+    visitor: Seattle F.C.
+
+followers:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+
+following:
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+
+profpic:
+  - url: /player-prof-034.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg

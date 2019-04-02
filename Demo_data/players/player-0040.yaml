@@ -1,0 +1,120 @@
+---
+player_id: 0040
+sname: mettepast
+full_name: Guillemette Pasteur
+short_name: Guillemette
+loc: Paris
+dob: 1984-05-15
+likes: 502
+sports: football baseball volleyball
+
+categories:
+  - cat: Futsal
+    pos: Centre midfield
+
+stats:
+  goals: 112
+  assists: 99
+  saves: 107
+  games: 228
+  hours: 1899
+
+teams:
+  - sname: fm91
+    pos: Defensive midfield
+
+games:
+  - date: 12/10/2014 01:21 PM
+    loc: Bengaluru
+    home: FC Fleury 91
+    visitor: Kungsholmens FC
+  - date: 12/01/2017 05:15 PM
+    loc: Cairo
+    home: FC Fleury 91
+    visitor: Long Island
+  - date: 02/09/2001 03:32 AM
+    loc: Mexico City
+    home: FC Fleury 91
+    visitor: Osaka FT
+  - date: 10/01/2016 05:51 PM
+    loc: Córdoba
+    visitor: FC Fleury 91
+    home: Seattle F.C.
+
+followers:
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+
+following:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+
+profpic:
+  - url: /player-prof-038.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg

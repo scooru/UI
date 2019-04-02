@@ -1,0 +1,100 @@
+---
+player_id: 0055
+sname: fjohanss
+full_name: Fia Johannesson
+short_name: Fia JHS
+loc: Stockholm
+dob: 1980-07-07
+likes: 389
+sports: football baseball
+
+categories:
+  - cat: Indoor
+    pos: Wing-back
+
+stats:
+  goals: 51
+  assists: 113
+  saves: 98
+  games: 234
+  hours: 1017
+
+teams:
+  - sname: lhfc
+    pos: Second striker
+
+games:
+  - date: 09/30/2005 04:10 PM
+    loc: Bengaluru
+    visitor: Långholmens FC
+    home: Long Island
+  - date: 08/23/2001 09:54 AM
+    loc: Madrid
+    visitor: Långholmens FC
+    home: Long Island
+  - date: 08/26/2011 06:44 PM
+    loc: Havana
+    visitor: Långholmens FC
+    home: Portland F.C.
+  - date: 12/16/2016 06:45 AM
+    loc: Cairo
+    visitor: Långholmens FC
+    home: Hiawatha
+  - date: 08/06/2008 09:31 AM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: Seattle F.C.
+
+followers:
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+
+following:
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+
+profpic:
+  - url: /player-prof-052.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-004.jpg

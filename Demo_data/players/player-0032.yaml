@@ -1,0 +1,120 @@
+---
+player_id: 0032
+sname: chirkobi
+full_name: Chirkos Abimelech Eleazar
+short_name: Chirkos E.
+loc: Addis Ababa
+dob: 1980-11-10
+likes: 78
+sports: football badminton
+
+categories:
+  - cat: Beach
+    pos: Midfielder
+
+stats:
+  goals: 118
+  assists: 141
+  saves: 146
+  games: 212
+  hours: 1742
+
+teams:
+  - sname: enft
+    pos: Centre forward
+
+games:
+  - date: 08/15/2007 03:06 AM
+    loc: Beijing
+    visitor: Ethiopian FT
+    home: Tahiti Untd
+  - date: 04/23/2010 03:37 PM
+    loc: Quanzhou
+    home: Ethiopian FT
+    visitor: Maui Pilots FC
+  - date: 07/12/2014 11:43 AM
+    loc: Busan
+    visitor: Ethiopian FT
+    home: Maui Pilots FC
+  - date: 06/11/2016 11:21 PM
+    loc: Havana
+    home: Ethiopian FT
+    visitor: FC Venice 89
+  - date: 10/11/2014 02:35 PM
+    loc: Oran
+    home: Ethiopian FT
+    visitor: Long Island
+  - date: 04/13/2003 09:17 PM
+    loc: Havana
+    home: Ethiopian FT
+    visitor: Tahiti Untd
+
+followers:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+
+following:
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+
+profpic:
+  - url: /player-prof-029.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-005.jpg
+  - url: /random-003.jpg
+  - url: /random-007.jpg

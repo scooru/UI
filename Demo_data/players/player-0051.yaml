@@ -1,0 +1,124 @@
+---
+player_id: 0051
+sname: stefilot
+full_name: Stefan Lötvall
+short_name: Stefani L.
+loc: Stockholm
+dob: 1975-10-21
+likes: 526
+sports: football
+
+categories:
+  - cat: Beach
+    pos: Centre midfield
+
+stats:
+  goals: 119
+  assists: 74
+  saves: 121
+  games: 196
+  hours: 589
+
+teams:
+  - sname: lhfc
+    pos: Defensive midfield
+
+games:
+  - date: 05/19/2010 07:39 AM
+    loc: Cairo
+    home: Långholmens FC
+    visitor: Osaka FT
+  - date: 01/20/2006 05:18 PM
+    loc: São Paulo
+    visitor: Långholmens FC
+    home: Hiawatha
+  - date: 03/03/2007 03:47 AM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: Hiawatha
+  - date: 09/20/2004 10:43 PM
+    loc: Bengaluru
+    visitor: Långholmens FC
+    home: FC Venice 89
+  - date: 03/10/2009 04:39 PM
+    loc: Tabriz
+    home: Långholmens FC
+    visitor: Maui Pilots FC
+
+followers:
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+
+following:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+profpic:
+  - url: /player-prof-054.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg
+  - url: /random-007.jpg
+  - url: /random-003.jpg
+  - url: /random-001.jpg

@@ -1,0 +1,114 @@
+---
+player_id: 0024
+sname: gulemaym
+full_name: Gulema Yihun Mihret
+short_name: Gulema Y.M.
+loc: Addis Ababa
+dob: 1990-04-04
+likes: 406
+sports: football cricket golf table-tennis baseball
+
+categories:
+  - cat: Association
+    pos: Wide midfield
+
+stats:
+  goals: 144
+  assists: 152
+  saves: 113
+  games: 296
+  hours: 1130
+
+teams:
+  - sname: enft
+    pos: Centre-back
+
+games:
+  - date: 11/15/2009 02:25 AM
+    loc: Buenos Aires
+    home: Ethiopian FT
+    visitor: Seattle F.C.
+  - date: 02/24/2014 07:56 PM
+    loc: Quanzhou
+    home: Ethiopian FT
+    visitor: Portland F.C.
+  - date: 05/30/2017 11:30 AM
+    loc: Mandalay
+    home: Ethiopian FT
+    visitor: Long Island
+  - date: 10/05/2017 06:48 PM
+    loc: Oran
+    visitor: Ethiopian FT
+    home: Tahiti Untd
+  - date: 03/17/2007 01:07 AM
+    loc: São Paulo
+    visitor: Ethiopian FT
+    home: Long Island
+
+followers:
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+
+following:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+
+profpic:
+  - url: /player-prof-025.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg

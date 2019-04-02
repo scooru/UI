@@ -1,0 +1,106 @@
+---
+player_id: 0036
+sname: memman
+full_name: Marcel Emmanuelli
+short_name: Marcel E.
+loc: Paris
+dob: 1983-03-13
+likes: 571
+sports: football tennis table-tennis volleyball badminton
+
+categories:
+  - cat: Street
+    pos: Defensive midfield
+
+stats:
+  goals: 94
+  assists: 180
+  saves: 138
+  games: 214
+  hours: 766
+
+teams:
+  - sname: fm91
+    pos: Sweeper
+
+games:
+  - date: 07/04/2006 08:39 PM
+    loc: Cairo
+    visitor: FC Fleury 91
+    home: Mozambique F.C.
+  - date: 10/23/2013 05:39 PM
+    loc: Kawasaki
+    home: FC Fleury 91
+    visitor: Tahiti Untd
+  - date: 01/12/2008 11:04 PM
+    loc: Oran
+    home: FC Fleury 91
+    visitor: Mozambique F.C.
+  - date: 06/28/2012 11:28 PM
+    loc: Havana
+    visitor: FC Fleury 91
+    home: Osaka FT
+  - date: 06/15/2015 09:55 PM
+    loc: Bengaluru
+    visitor: FC Fleury 91
+    home: Portland F.C.
+  - date: 01/02/2002 08:53 AM
+    loc: Bengaluru
+    visitor: FC Fleury 91
+    home: Maui Pilots FC
+
+followers:
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+
+following:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+
+profpic:
+  - url: /player-prof-039.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg

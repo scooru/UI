@@ -1,0 +1,117 @@
+---
+player_id: 0026
+sname: afewer
+full_name: Afewerek Eyoel Abimelech
+short_name: Afewerek E.A.
+loc: Addis Ababa
+dob: 1976-01-11
+likes: 318
+sports: football field-hockey tennis
+
+categories:
+  - cat: Beach
+    pos: Midfielder
+
+stats:
+  goals: 47
+  assists: 42
+  saves: 147
+  games: 232
+  hours: 1942
+
+teams:
+  - sname: enft
+    pos: Full-back
+
+games:
+  - date: 12/25/2015 04:39 AM
+    loc: Beijing
+    visitor: Ethiopian FT
+    home: Hiawatha
+  - date: 12/19/2006 07:30 PM
+    loc: Córdoba
+    visitor: Ethiopian FT
+    home: Hiawatha
+  - date: 07/24/2009 10:47 AM
+    loc: Cairo
+    visitor: Ethiopian FT
+    home: Mozambique F.C.
+  - date: 06/21/2008 08:05 AM
+    loc: Mandalay
+    home: Ethiopian FT
+    visitor: Long Island
+  - date: 01/17/2007 11:33 AM
+    loc: Cairo
+    visitor: Ethiopian FT
+    home: Portland F.C.
+  - date: 02/10/2014 01:14 AM
+    loc: Oran
+    home: Ethiopian FT
+    visitor: Long Island
+
+followers:
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+
+following:
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+
+profpic:
+  - url: /player-prof-026.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-009.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg

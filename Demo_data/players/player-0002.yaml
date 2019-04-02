@@ -1,0 +1,120 @@
+---
+player_id: 0002
+sname: HeFaroo
+full_name: Husni el-Farooqui
+short_name: H. el-Farooqui
+loc: Dubai
+dob: 1975-08-10
+likes: 321
+sports: football basketball
+
+categories:
+  - cat: Beach
+    pos: Centre-back
+
+stats:
+  goals: 61
+  assists: 84
+  saves: 87
+  games: 103
+  hours: 1294
+
+teams:
+  - sname: awfc
+    pos: Centre-back
+
+games:
+  - date: 11/15/2008 03:44 AM
+    loc: Tabriz
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 04/17/2006 11:12 AM
+    loc: São Paulo
+    visitor: Al-Wasl F.C.
+    home: Mozambique F.C.
+  - date: 08/10/2017 12:37 AM
+    loc: Buenos Aires
+    visitor: Al-Wasl F.C.
+    home: Long Island
+  - date: 07/22/2002 06:40 PM
+    loc: Isfahan
+    home: Al-Wasl F.C.
+    visitor: Tahiti Untd
+  - date: 07/15/2003 03:09 PM
+    loc: Isfahan
+    visitor: Al-Wasl F.C.
+    home: Osaka FT
+
+followers:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+following:
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+
+profpic:
+  - url: /player-prof-008.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg

@@ -1,0 +1,114 @@
+---
+player_id: 0054
+sname: pipifri
+full_name: Pia Frisk
+short_name: Pia Frisk
+loc: Stockholm
+dob: 1979-09-17
+likes: 134
+sports: football
+
+categories:
+  - cat: Futsal
+    pos: Forward
+
+stats:
+  goals: 138
+  assists: 135
+  saves: 103
+  games: 187
+  hours: 618
+
+teams:
+  - sname: lhfc
+    pos: Centre forward
+
+games:
+  - date: 08/31/2009 06:59 AM
+    loc: Fuzhou
+    home: Långholmens FC
+    visitor: Portland F.C.
+  - date: 01/19/2016 07:31 PM
+    loc: Quanzhou
+    visitor: Långholmens FC
+    home: Long Island
+  - date: 11/07/2017 06:18 AM
+    loc: Beijing
+    home: Långholmens FC
+    visitor: Mozambique F.C.
+  - date: 11/23/2004 06:26 AM
+    loc: Busan
+    visitor: Långholmens FC
+    home: Tahiti Untd
+  - date: 10/29/2017 10:50 PM
+    loc: Mexico City
+    home: Långholmens FC
+    visitor: Maui Pilots FC
+  - date: 01/25/2008 03:29 PM
+    loc: Oran
+    home: Långholmens FC
+    visitor: Mozambique F.C.
+
+followers:
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+
+following:
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+
+profpic:
+  - url: /player-prof-051.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-005.jpg

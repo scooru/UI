@@ -1,0 +1,112 @@
+---
+player_id: 0057
+sname: ahongha
+full_name: Akkanee Honghannarong
+short_name: Akkanee H.
+loc: Bangkok
+dob: 1981-05-21
+likes: 186
+sports: football volleyball basketball field-hockey golf
+
+categories:
+  - cat: Futsal
+    pos: Centre forward
+
+stats:
+  goals: 126
+  assists: 49
+  saves: 122
+  games: 140
+  hours: 1965
+
+teams:
+  - sname: pxfc
+    pos: Centre-back
+
+games:
+  - date: 09/23/2009 07:45 AM
+    loc: Quanzhou
+    home: Phoenix F.C.
+    visitor: Maui Pilots FC
+  - date: 03/17/2007 11:33 AM
+    loc: Cairo
+    visitor: Phoenix F.C.
+    home: Hiawatha
+  - date: 10/31/2004 08:30 PM
+    loc: Mexico City
+    visitor: Phoenix F.C.
+    home: FC Venice 89
+  - date: 01/18/2009 01:53 PM
+    loc: Beijing
+    visitor: Phoenix F.C.
+    home: Tahiti Untd
+
+followers:
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+
+following:
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+
+profpic:
+  - url: /player-prof-067.jpg
+
+pics:
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-010.jpg
+  - url: /random-004.jpg

@@ -1,0 +1,110 @@
+---
+player_id: 0052
+sname: ojonss
+full_name: Ögge Jönsson
+short_name: Ogge J.
+loc: Stockholm
+dob: 1976-09-14
+likes: 674
+sports: football badminton table-tennis
+
+categories:
+  - cat: Futsal
+    pos: Second striker
+
+stats:
+  goals: 103
+  assists: 145
+  saves: 48
+  games: 137
+  hours: 994
+
+teams:
+  - sname: lhfc
+    pos: Attacking midfield
+
+games:
+  - date: 11/26/2000 03:08 PM
+    loc: Bengaluru
+    visitor: Långholmens FC
+    home: Seattle F.C.
+  - date: 11/22/2011 06:36 AM
+    loc: Havana
+    visitor: Långholmens FC
+    home: FC Venice 89
+  - date: 08/02/2012 08:06 AM
+    loc: Busan
+    visitor: Långholmens FC
+    home: Kungsholmens FC
+  - date: 01/09/2001 09:09 PM
+    loc: São Paulo
+    visitor: Långholmens FC
+    home: Hiawatha
+  - date: 04/27/2009 06:55 AM
+    loc: Fuzhou
+    visitor: Långholmens FC
+    home: Long Island
+  - date: 02/04/2001 02:09 PM
+    loc: Madrid
+    home: Långholmens FC
+    visitor: Osaka FT
+
+followers:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+
+following:
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+
+profpic:
+  - url: /player-prof-050.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-005.jpg

@@ -1,0 +1,107 @@
+---
+player_id: 0056
+sname: surinw
+full_name: Surin () Wattanasin
+short_name: Surin W.
+loc: Bangkok
+dob: 1981-02-14
+likes: 467
+sports: football basketball volleyball table-tennis badminton
+
+categories:
+  - cat: Beach
+    pos: Winger
+
+stats:
+  goals: 96
+  assists: 61
+  saves: 125
+  games: 234
+  hours: 1124
+
+teams:
+  - sname: pxfc
+    pos: Goalkeeper
+
+games:
+  - date: 10/16/2001 02:58 AM
+    loc: London
+    home: Phoenix F.C.
+    visitor: Hiawatha
+  - date: 09/27/2017 04:07 AM
+    loc: Madrid
+    home: Phoenix F.C.
+    visitor: Mozambique F.C.
+  - date: 03/03/2004 12:12 PM
+    loc: São Paulo
+    visitor: Phoenix F.C.
+    home: Osaka FT
+  - date: 04/18/2003 05:50 PM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 06/06/2008 05:40 PM
+    loc: Mexico City
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 05/03/2009 05:21 AM
+    loc: London
+    home: Phoenix F.C.
+    visitor: Hiawatha
+  - date: 05/14/2011 07:59 AM
+    loc: São Paulo
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+
+followers:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+
+profpic:
+  - url: /player-prof-062.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg

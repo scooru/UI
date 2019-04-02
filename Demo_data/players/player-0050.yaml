@@ -1,0 +1,121 @@
+---
+player_id: 0050
+sname: tomburg
+full_name: Thomas Borg
+short_name: Thomas B.
+loc: Stockholm
+dob: 1989-09-05
+likes: 474
+sports: football baseball basketball
+
+categories:
+  - cat: Street
+    pos: Full-back
+
+stats:
+  goals: 68
+  assists: 83
+  saves: 143
+  games: 97
+  hours: 1014
+
+teams:
+  - sname: lhfc
+    pos: Centre midfield
+
+games:
+  - date: 01/27/2012 12:52 AM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: FC Venice 89
+  - date: 05/21/2000 02:46 AM
+    loc: Córdoba
+    visitor: Långholmens FC
+    home: Osaka FT
+  - date: 10/09/2014 03:31 AM
+    loc: Havana
+    home: Långholmens FC
+    visitor: Hiawatha
+  - date: 06/10/2003 11:35 PM
+    loc: Oran
+    home: Långholmens FC
+    visitor: Maui Pilots FC
+  - date: 07/11/2007 07:46 PM
+    loc: Mandalay
+    visitor: Långholmens FC
+    home: FC Venice 89
+
+followers:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+
+following:
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+
+profpic:
+  - url: /player-prof-049.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-010.jpg
+  - url: /random-006.jpg
+  - url: /random-008.jpg
+  - url: /random-009.jpg
+  - url: /random-002.jpg

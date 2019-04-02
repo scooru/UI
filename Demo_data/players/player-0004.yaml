@@ -1,0 +1,116 @@
+---
+player_id: 0004
+sname: Naseeb
+full_name: Naseeba al-Yousuf
+short_name: N. el-Yousuf
+loc: Dubai
+dob: 1977-05-01
+likes: 416
+sports: football
+
+categories:
+  - cat: Futsal
+    pos: Defensive midfield
+
+stats:
+  goals: 71
+  assists: 170
+  saves: 56
+  games: 274
+  hours: 1970
+
+teams:
+  - sname: awfc
+    pos: Full-back
+
+games:
+  - date: 05/28/2013 04:49 AM
+    loc: Kawasaki
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+  - date: 06/10/2001 10:01 AM
+    loc: Isfahan
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+  - date: 04/28/2013 02:31 PM
+    loc: Kawasaki
+    visitor: Al-Wasl F.C.
+    home: Long Island
+  - date: 07/18/2002 12:34 AM
+    loc: London
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 02/22/2014 03:06 AM
+    loc: Oran
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+
+followers:
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+
+following:
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+
+profpic:
+  - url: /player-prof-002.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-005.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg

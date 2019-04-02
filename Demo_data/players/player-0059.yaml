@@ -1,0 +1,108 @@
+---
+player_id: 0059
+sname: hanuman
+full_name: Hanuman Klinpraneet
+short_name: Hanuman K.
+loc: Bangkok
+dob: 1983-03-19
+likes: 860
+sports: football basketball field-hockey baseball golf
+
+categories:
+  - cat: Association
+    pos: Full-back
+
+stats:
+  goals: 125
+  assists: 147
+  saves: 126
+  games: 173
+  hours: 1467
+
+teams:
+  - sname: pxfc
+    pos: Full-back
+
+games:
+  - date: 05/18/2006 11:07 PM
+    loc: Beijing
+    visitor: Phoenix F.C.
+    home: Hiawatha
+  - date: 04/08/2000 04:37 PM
+    loc: Madrid
+    visitor: Phoenix F.C.
+    home: FC Venice 89
+  - date: 01/18/2017 04:37 AM
+    loc: London
+    home: Phoenix F.C.
+    visitor: Tahiti Untd
+  - date: 01/06/2006 03:11 PM
+    loc: Mexico City
+    visitor: Phoenix F.C.
+    home: Seattle F.C.
+  - date: 08/08/2009 11:01 AM
+    loc: Fuzhou
+    home: Phoenix F.C.
+    visitor: Mozambique F.C.
+  - date: 10/27/2008 10:52 AM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 08/02/2003 07:45 PM
+    loc: Oran
+    home: Phoenix F.C.
+    visitor: Portland F.C.
+
+followers:
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+
+following:
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+
+profpic:
+  - url: /player-prof-066.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg

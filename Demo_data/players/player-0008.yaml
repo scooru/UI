@@ -1,0 +1,96 @@
+---
+player_id: 0008
+sname: MrTaheri
+full_name: Taghi Taheri
+short_name: Taghi Taheri
+loc: Dubai
+dob: 1978-12-19
+likes: 270
+sports: football table-tennis field-hockey tennis basketball
+
+categories:
+  - cat: Indoor
+    pos: Defender
+
+stats:
+  goals: 74
+  assists: 74
+  saves: 46
+  games: 190
+  hours: 795
+
+teams:
+  - sname: awfc
+    pos: Attacking midfield
+
+games:
+  - date: 11/04/2014 08:04 PM
+    loc: Mandalay
+    home: Al-Wasl F.C.
+    visitor: Maui Pilots FC
+  - date: 01/19/2001 10:18 AM
+    loc: Kawasaki
+    home: Al-Wasl F.C.
+    visitor: Long Island
+  - date: 11/07/2006 07:15 PM
+    loc: Quanzhou
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 10/13/2001 02:49 AM
+    loc: Quezon City
+    home: Al-Wasl F.C.
+    visitor: FC Venice 89
+
+followers:
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+
+following:
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+
+profpic:
+  - url: /player-prof-010.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-010.jpg
+  - url: /random-002.jpg
+  - url: /random-001.jpg

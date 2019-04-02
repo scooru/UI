@@ -1,0 +1,108 @@
+---
+player_id: 0041
+sname: baptistea
+full_name: Baptiste Alard
+short_name: Baptiste A.
+loc: Paris
+dob: 1985-01-05
+likes: 653
+sports: football volleyball golf
+
+categories:
+  - cat: Beach
+    pos: Centre forward
+
+stats:
+  goals: 54
+  assists: 44
+  saves: 146
+  games: 299
+  hours: 991
+
+teams:
+  - sname: fm91
+    pos: Attacking midfield
+
+games:
+  - date: 05/02/2011 05:07 AM
+    loc: Fuzhou
+    visitor: FC Fleury 91
+    home: Osaka FT
+  - date: 04/18/2000 03:11 AM
+    loc: Fuzhou
+    visitor: FC Fleury 91
+    home: Portland F.C.
+  - date: 06/09/2017 03:14 PM
+    loc: Buenos Aires
+    visitor: FC Fleury 91
+    home: Portland F.C.
+  - date: 09/08/2010 11:39 PM
+    loc: London
+    home: FC Fleury 91
+    visitor: FC Venice 89
+
+followers:
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: False
+
+following:
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+
+profpic:
+  - url: /player-prof-043.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg
+  - url: /random-005.jpg
+  - url: /random-001.jpg
+  - url: /random-007.jpg

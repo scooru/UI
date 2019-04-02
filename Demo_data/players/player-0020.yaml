@@ -1,0 +1,97 @@
+---
+player_id: 0020
+sname: leandac
+full_name: Leandro Antunes Couto
+short_name: Leandro
+loc: Sao Paulo
+dob: 1987-07-14
+likes: 538
+sports: football volleyball baseball
+
+categories:
+  - cat: Indoor
+    pos: Second striker
+
+stats:
+  goals: 42
+  assists: 163
+  saves: 52
+  games: 250
+  hours: 1164
+
+teams:
+  - sname: palm
+    pos: Wide midfield
+
+games:
+  - date: 11/03/2005 03:30 AM
+    loc: Buenos Aires
+    home: Palmeiras
+    visitor: Portland F.C.
+  - date: 01/15/2000 07:38 PM
+    loc: Tabriz
+    home: Palmeiras
+    visitor: FC Venice 89
+  - date: 11/07/2004 09:35 AM
+    loc: Tabriz
+    home: Palmeiras
+    visitor: Kungsholmens FC
+  - date: 11/22/2003 05:08 AM
+    loc: Buenos Aires
+    visitor: Palmeiras
+    home: Kungsholmens FC
+  - date: 12/13/2016 09:50 AM
+    loc: Córdoba
+    visitor: Palmeiras
+    home: Portland F.C.
+
+followers:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+
+following:
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+
+profpic:
+  - url: /player-prof-022.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg

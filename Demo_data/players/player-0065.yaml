@@ -1,0 +1,129 @@
+---
+player_id: 0065
+sname: piyachar
+full_name: Piyapat Charanachitta
+short_name: Piyapat C.
+loc: Bangkok
+dob: 1986-10-08
+likes: 817
+sports: football volleyball
+
+categories:
+  - cat: Beach
+    pos: Centre forward
+
+stats:
+  goals: 54
+  assists: 79
+  saves: 114
+  games: 112
+  hours: 1587
+
+teams:
+  - sname: pxfc
+    pos: Centre forward
+
+games:
+  - date: 01/24/2014 04:34 PM
+    loc: Cairo
+    home: Phoenix F.C.
+    visitor: Seattle F.C.
+  - date: 03/18/2017 04:47 PM
+    loc: Tabriz
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 06/10/2006 08:12 AM
+    loc: São Paulo
+    visitor: Phoenix F.C.
+    home: Seattle F.C.
+  - date: 01/14/2001 04:19 AM
+    loc: Isfahan
+    visitor: Phoenix F.C.
+    home: Seattle F.C.
+  - date: 04/15/2016 10:34 PM
+    loc: Fuzhou
+    home: Phoenix F.C.
+    visitor: Mozambique F.C.
+  - date: 01/21/2014 08:56 AM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: FC Venice 89
+  - date: 03/24/2010 01:29 PM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: FC Venice 89
+
+followers:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+
+following:
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+
+profpic:
+  - url: /player-prof-056.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-006.jpg
+  - url: /random-002.jpg
+  - url: /random-005.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg

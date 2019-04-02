@@ -1,0 +1,123 @@
+---
+player_id: 0063
+sname: nopjira
+full_name: Nopjira Gaysorn
+short_name: Nopjira G.
+loc: Bangkok
+dob: 1986-06-11
+likes: 632
+sports: football table-tennis basketball golf
+
+categories:
+  - cat: Street
+    pos: Centre forward
+
+stats:
+  goals: 95
+  assists: 82
+  saves: 117
+  games: 145
+  hours: 1539
+
+teams:
+  - sname: pxfc
+    pos: Attacking midfield
+
+games:
+  - date: 09/17/2017 02:07 AM
+    loc: Mexico City
+    visitor: Phoenix F.C.
+    home: Osaka FT
+  - date: 05/30/2006 04:02 AM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: Maui Pilots FC
+  - date: 07/02/2003 06:56 AM
+    loc: São Paulo
+    visitor: Phoenix F.C.
+    home: Tahiti Untd
+  - date: 08/09/2012 10:35 PM
+    loc: Cairo
+    visitor: Phoenix F.C.
+    home: FC Venice 89
+  - date: 08/04/2003 05:55 AM
+    loc: Havana
+    visitor: Phoenix F.C.
+    home: Maui Pilots FC
+
+followers:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: False
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+
+following:
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+
+profpic:
+  - url: /player-prof-060.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-010.jpg
+  - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg

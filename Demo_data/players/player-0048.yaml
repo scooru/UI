@@ -1,0 +1,121 @@
+---
+player_id: 0048
+sname: joelle
+full_name: Joel Lennartsson
+short_name: Joel L.
+loc: Stockholm
+dob: 1988-12-13
+likes: 252
+sports: football baseball cricket badminton
+
+categories:
+  - cat: Paralympic
+    pos: Sweeper
+
+stats:
+  goals: 139
+  assists: 69
+  saves: 124
+  games: 97
+  hours: 954
+
+teams:
+  - sname: lhfc
+    pos: Full-back
+
+games:
+  - date: 11/04/2011 06:58 AM
+    loc: Busan
+    home: Långholmens FC
+    visitor: Long Island
+  - date: 12/12/2016 07:11 AM
+    loc: Kawasaki
+    visitor: Långholmens FC
+    home: Mozambique F.C.
+  - date: 04/17/2003 06:30 PM
+    loc: Havana
+    visitor: Långholmens FC
+    home: Long Island
+  - date: 11/21/2008 08:52 PM
+    loc: Bengaluru
+    visitor: Långholmens FC
+    home: Maui Pilots FC
+  - date: 09/30/2002 10:59 AM
+    loc: Oran
+    home: Långholmens FC
+    visitor: Hiawatha
+
+followers:
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+
+following:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+
+profpic:
+  - url: /player-prof-046.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg

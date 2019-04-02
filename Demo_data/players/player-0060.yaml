@@ -1,0 +1,128 @@
+---
+player_id: 0060
+sname: ruangri
+full_name: Ruangrit Srisati
+short_name: Ruangrit S.
+loc: Bangkok
+dob: 1985-02-25
+likes: 369
+sports: football volleyball tennis
+
+categories:
+  - cat: Beach
+    pos: Centre-back
+
+stats:
+  goals: 109
+  assists: 96
+  saves: 44
+  games: 115
+  hours: 830
+
+teams:
+  - sname: pxfc
+    pos: Wing-back
+
+games:
+  - date: 05/03/2001 01:07 PM
+    loc: Mandalay
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 09/07/2004 06:23 AM
+    loc: Quezon City
+    home: Phoenix F.C.
+    visitor: Maui Pilots FC
+  - date: 07/11/2009 09:08 PM
+    loc: Kawasaki
+    visitor: Phoenix F.C.
+    home: Kungsholmens FC
+  - date: 08/06/2004 05:11 PM
+    loc: Córdoba
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 08/01/2007 11:01 AM
+    loc: Buenos Aires
+    home: Phoenix F.C.
+    visitor: Long Island
+
+followers:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+
+following:
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+
+profpic:
+  - url: /player-prof-057.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-007.jpg
+  - url: /random-010.jpg
+  - url: /random-001.jpg

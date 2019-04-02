@@ -1,0 +1,105 @@
+---
+player_id: 0045
+sname: hildrd
+full_name: Hildr Dalin
+short_name: Hildr D.
+loc: Stockholm
+dob: 1988-02-06
+likes: 768
+sports: football tennis baseball cricket field-hockey
+
+categories:
+  - cat: Indoor
+    pos: Wing-back
+
+stats:
+  goals: 85
+  assists: 71
+  saves: 123
+  games: 133
+  hours: 794
+
+teams:
+  - sname: lhfc
+    pos: Goalkeeper
+
+games:
+  - date: 08/16/2004 08:16 PM
+    loc: Quezon City
+    home: Långholmens FC
+    visitor: Portland F.C.
+  - date: 09/07/2002 08:10 PM
+    loc: Mandalay
+    visitor: Långholmens FC
+    home: Tahiti Untd
+  - date: 12/24/2005 02:42 PM
+    loc: Cairo
+    visitor: Långholmens FC
+    home: FC Venice 89
+  - date: 01/13/2000 06:42 PM
+    loc: Fuzhou
+    home: Långholmens FC
+    visitor: Maui Pilots FC
+  - date: 01/23/2009 03:15 AM
+    loc: Isfahan
+    visitor: Långholmens FC
+    home: Kungsholmens FC
+  - date: 01/17/2005 03:02 PM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: Mozambique F.C.
+
+followers:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+
+profpic:
+  - url: /player-prof-053.jpg
+
+pics:
+  - url: /random-002.jpg
+  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-006.jpg

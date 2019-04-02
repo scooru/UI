@@ -1,0 +1,124 @@
+---
+player_id: 0014
+sname: iabellu
+full_name: Iago Martins Belluci
+short_name: Iago M.B.
+loc: Sao Paulo
+dob: 1983-03-25
+likes: 636
+sports: football basketball golf
+
+categories:
+  - cat: Street
+    pos: Attacking midfield
+
+stats:
+  goals: 94
+  assists: 152
+  saves: 81
+  games: 234
+  hours: 1886
+
+teams:
+  - sname: palm
+    pos: Sweeper
+
+games:
+  - date: 12/12/2007 01:55 AM
+    loc: Quanzhou
+    visitor: Palmeiras
+    home: Mozambique F.C.
+  - date: 01/27/2013 10:31 AM
+    loc: Cairo
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 07/02/2002 07:54 PM
+    loc: Cairo
+    visitor: Palmeiras
+    home: Seattle F.C.
+  - date: 02/24/2015 04:52 PM
+    loc: Córdoba
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 06/22/2014 06:04 AM
+    loc: Tabriz
+    home: Palmeiras
+    visitor: Osaka FT
+
+followers:
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+
+following:
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+
+profpic:
+  - url: /player-prof-017.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-005.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-004.jpg

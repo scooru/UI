@@ -1,0 +1,129 @@
+---
+player_id: 0064
+sname: bossjira
+full_name: Jirasak Srichure
+short_name: Jirasak S.
+loc: Bangkok
+dob: 1986-08-15
+likes: 948
+sports: football field-hockey cricket table-tennis
+
+categories:
+  - cat: Paralympic
+    pos: Wing-back
+
+stats:
+  goals: 119
+  assists: 168
+  saves: 106
+  games: 179
+  hours: 1197
+
+teams:
+  - sname: pxfc
+    pos: Wide midfield
+
+games:
+  - date: 07/23/2015 12:46 PM
+    loc: Mandalay
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 10/05/2003 06:39 AM
+    loc: Córdoba
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+  - date: 09/02/2014 01:31 PM
+    loc: Fuzhou
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 10/12/2012 02:53 PM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: Hiawatha
+  - date: 03/26/2010 03:02 AM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 09/07/2006 05:54 PM
+    loc: Mandalay
+    home: Phoenix F.C.
+    visitor: Long Island
+
+followers:
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+following:
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+
+profpic:
+  - url: /player-prof-061.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg
+  - url: /random-010.jpg

@@ -1,0 +1,108 @@
+---
+player_id: 0038
+sname: aymchill
+full_name: Aymeric Chéreau
+short_name: Aymeric C.
+loc: Paris
+dob: 1983-09-04
+likes: 197
+sports: football cricket
+
+categories:
+  - cat: Paralympic
+    pos: Winger
+
+stats:
+  goals: 105
+  assists: 53
+  saves: 78
+  games: 155
+  hours: 1771
+
+teams:
+  - sname: fm91
+    pos: Wing-back
+
+games:
+  - date: 04/07/2000 09:40 PM
+    loc: Córdoba
+    home: FC Fleury 91
+    visitor: FC Venice 89
+  - date: 04/19/2003 11:50 AM
+    loc: London
+    visitor: FC Fleury 91
+    home: Long Island
+  - date: 05/31/2009 02:29 PM
+    loc: Beijing
+    visitor: FC Fleury 91
+    home: Kungsholmens FC
+  - date: 04/12/2014 02:12 PM
+    loc: Havana
+    home: FC Fleury 91
+    visitor: Kungsholmens FC
+  - date: 03/28/2006 12:14 AM
+    loc: Tabriz
+    visitor: FC Fleury 91
+    home: Maui Pilots FC
+
+followers:
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+
+following:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+
+profpic:
+  - url: /player-prof-044.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg

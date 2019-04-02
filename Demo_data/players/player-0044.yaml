@@ -1,0 +1,107 @@
+---
+player_id: 0044
+sname: angelmoi
+full_name: Angélique Ardouin
+short_name: Angel Ard
+loc: Paris
+dob: 1987-04-08
+likes: 81
+sports: football basketball badminton
+
+categories:
+  - cat: Futsal
+    pos: Goalkeeper
+
+stats:
+  goals: 107
+  assists: 60
+  saves: 93
+  games: 199
+  hours: 1999
+
+teams:
+  - sname: fm91
+    pos: Second striker
+
+games:
+  - date: 05/17/2000 12:46 PM
+    loc: London
+    visitor: FC Fleury 91
+    home: Hiawatha
+  - date: 05/05/2017 09:18 PM
+    loc: Quanzhou
+    visitor: FC Fleury 91
+    home: Mozambique F.C.
+  - date: 01/06/2009 02:35 PM
+    loc: Mexico City
+    home: FC Fleury 91
+    visitor: Portland F.C.
+  - date: 04/16/2001 03:17 AM
+    loc: Bengaluru
+    home: FC Fleury 91
+    visitor: Mozambique F.C.
+  - date: 10/14/2003 02:22 AM
+    loc: Isfahan
+    visitor: FC Fleury 91
+    home: Tahiti Untd
+  - date: 11/04/2014 02:44 AM
+    loc: Beijing
+    home: FC Fleury 91
+    visitor: Osaka FT
+
+followers:
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+
+profpic:
+  - url: /player-prof-041.jpg
+
+pics:
+  - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg

@@ -1,0 +1,114 @@
+---
+player_id: 0018
+sname: ddeduardo
+full_name: Eduardo Damasceno Delgado
+short_name: Eduardo D.
+loc: Sao Paulo
+dob: 1986-03-06
+likes: 691
+sports: football volleyball
+
+categories:
+  - cat: Beach
+    pos: Centre-back
+
+stats:
+  goals: 111
+  assists: 51
+  saves: 45
+  games: 228
+  hours: 837
+
+teams:
+  - sname: palm
+    pos: Defensive midfield
+
+games:
+  - date: 07/02/2015 10:39 PM
+    loc: Bengaluru
+    visitor: Palmeiras
+    home: Portland F.C.
+  - date: 02/21/2009 09:46 PM
+    loc: Tabriz
+    visitor: Palmeiras
+    home: Portland F.C.
+  - date: 07/04/2013 04:21 AM
+    loc: São Paulo
+    visitor: Palmeiras
+    home: FC Venice 89
+  - date: 06/25/2007 09:05 PM
+    loc: Córdoba
+    visitor: Palmeiras
+    home: Portland F.C.
+
+followers:
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: False
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+
+following:
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+
+profpic:
+  - url: /player-prof-020.jpg
+
+pics:
+  - url: /random-004.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-010.jpg

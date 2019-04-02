@@ -1,0 +1,121 @@
+---
+player_id: 0030
+sname: wolitna
+full_name: Wolitigna Adugna Mesay
+short_name: Wolitigna M.
+loc: Addis Ababa
+dob: 1978-10-22
+likes: 842
+sports: football table-tennis golf
+
+categories:
+  - cat: Futsal
+    pos: Full-back
+
+stats:
+  goals: 113
+  assists: 155
+  saves: 61
+  games: 194
+  hours: 1789
+
+teams:
+  - sname: enft
+    pos: Attacking midfield
+
+games:
+  - date: 11/24/2013 11:00 PM
+    loc: Bengaluru
+    home: Ethiopian FT
+    visitor: FC Venice 89
+  - date: 11/09/2016 05:31 AM
+    loc: Tabriz
+    visitor: Ethiopian FT
+    home: Portland F.C.
+  - date: 06/17/2015 02:07 AM
+    loc: Mexico City
+    visitor: Ethiopian FT
+    home: Hiawatha
+  - date: 02/22/2009 09:48 AM
+    loc: Beijing
+    home: Ethiopian FT
+    visitor: Osaka FT
+  - date: 09/03/2008 05:03 AM
+    loc: Quanzhou
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 08/15/2004 10:19 PM
+    loc: Buenos Aires
+    home: Ethiopian FT
+    visitor: Tahiti Untd
+
+followers:
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+
+following:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+
+profpic:
+  - url: /player-prof-033.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

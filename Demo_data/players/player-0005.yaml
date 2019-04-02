@@ -1,0 +1,130 @@
+---
+player_id: 0005
+sname: Safwa
+full_name: Safwaan el-Koroma
+short_name: Safwaan A.Y.
+loc: Dubai
+dob: 1977-05-17
+likes: 279
+sports: football volleyball
+
+categories:
+  - cat: Association
+    pos: Wide midfield
+
+stats:
+  goals: 95
+  assists: 162
+  saves: 95
+  games: 278
+  hours: 705
+
+teams:
+  - sname: awfc
+    pos: Wing-back
+
+games:
+  - date: 05/07/2001 02:44 PM
+    loc: Beijing
+    home: Al-Wasl F.C.
+    visitor: Maui Pilots FC
+  - date: 06/14/2004 10:56 AM
+    loc: Oran
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+  - date: 10/11/2006 10:25 PM
+    loc: Córdoba
+    home: Al-Wasl F.C.
+    visitor: Portland F.C.
+  - date: 10/09/2010 11:13 AM
+    loc: Busan
+    visitor: Al-Wasl F.C.
+    home: Maui Pilots FC
+  - date: 10/07/2013 10:14 AM
+    loc: Kawasaki
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+
+followers:
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+following:
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+
+profpic:
+  - url: /player-prof-006.jpg
+
+pics:
+  - url: /random-003.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg

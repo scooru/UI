@@ -1,0 +1,135 @@
+---
+player_id: 0046
+sname: tronblom
+full_name: Tron Blomquist
+short_name: Tron Blom
+loc: Stockholm
+dob: 1988-02-17
+likes: 683
+sports: football table-tennis golf cricket tennis
+
+categories:
+  - cat: Futsal
+    pos: Centre midfield
+
+stats:
+  goals: 49
+  assists: 190
+  saves: 84
+  games: 217
+  hours: 1194
+
+teams:
+  - sname: lhfc
+    pos: Centre-back
+
+games:
+  - date: 05/11/2000 01:21 AM
+    loc: Bengaluru
+    visitor: Långholmens FC
+    home: Osaka FT
+  - date: 08/25/2007 05:09 PM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: FC Venice 89
+  - date: 06/21/2016 11:04 AM
+    loc: Oran
+    visitor: Långholmens FC
+    home: Osaka FT
+  - date: 05/18/2012 08:19 PM
+    loc: Oran
+    visitor: Långholmens FC
+    home: Hiawatha
+  - date: 04/29/2010 03:25 AM
+    loc: Bengaluru
+    home: Långholmens FC
+    visitor: Mozambique F.C.
+  - date: 02/11/2001 04:41 AM
+    loc: Madrid
+    visitor: Långholmens FC
+    home: FC Venice 89
+  - date: 08/19/2012 06:46 AM
+    loc: London
+    visitor: Långholmens FC
+    home: Osaka FT
+
+followers:
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: False
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+
+following:
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+
+profpic:
+  - url: /player-prof-048.jpg
+
+pics:
+  - url: /random-006.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg
+  - url: /random-003.jpg

@@ -1,0 +1,99 @@
+---
+player_id: 0017
+sname: francieg
+full_name: Francine Gonçalves Caetano
+short_name: Francine C.
+loc: Sao Paulo
+dob: 1985-03-22
+likes: 551
+sports: football cricket table-tennis basketball baseball
+
+categories:
+  - cat: Beach
+    pos: Sweeper
+
+stats:
+  goals: 127
+  assists: 104
+  saves: 130
+  games: 227
+  hours: 1335
+
+teams:
+  - sname: palm
+    pos: Centre midfield
+
+games:
+  - date: 01/13/2013 11:09 AM
+    loc: Tabriz
+    home: Palmeiras
+    visitor: Tahiti Untd
+  - date: 03/28/2013 03:11 AM
+    loc: Bengaluru
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 12/23/2000 03:55 PM
+    loc: Cairo
+    home: Palmeiras
+    visitor: Tahiti Untd
+  - date: 08/25/2009 11:15 PM
+    loc: Mandalay
+    visitor: Palmeiras
+    home: FC Venice 89
+
+followers:
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+following:
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+
+profpic:
+  - url: /player-prof-012.jpg
+
+pics:
+  - url: /random-001.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-008.jpg
+  - url: /random-009.jpg
+  - url: /random-005.jpg

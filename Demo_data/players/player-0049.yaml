@@ -1,0 +1,101 @@
+---
+player_id: 0049
+sname: nicholas
+full_name: Nicholas Lundholm
+short_name: Nick Lundh.
+loc: Stockholm
+dob: 1989-04-21
+likes: 304
+sports: football baseball volleyball cricket table-tennis
+
+categories:
+  - cat: Association
+    pos: Sweeper
+
+stats:
+  goals: 128
+  assists: 134
+  saves: 119
+  games: 255
+  hours: 1993
+
+teams:
+  - sname: lhfc
+    pos: Wing-back
+
+games:
+  - date: 05/13/2012 03:29 PM
+    loc: Quanzhou
+    home: Långholmens FC
+    visitor: Hiawatha
+  - date: 03/19/2017 06:15 AM
+    loc: Isfahan
+    visitor: Långholmens FC
+    home: Seattle F.C.
+  - date: 05/21/2005 02:22 PM
+    loc: Busan
+    visitor: Långholmens FC
+    home: Kungsholmens FC
+  - date: 09/24/2014 10:55 AM
+    loc: Quanzhou
+    home: Långholmens FC
+    visitor: Osaka FT
+  - date: 11/19/2004 07:09 AM
+    loc: Busan
+    home: Långholmens FC
+    visitor: Tahiti Untd
+  - date: 06/25/2005 04:58 PM
+    loc: London
+    home: Långholmens FC
+    visitor: Tahiti Untd
+
+followers:
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+
+following:
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+
+profpic:
+  - url: /player-prof-048.jpg
+
+pics:
+  - url: /random-005.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

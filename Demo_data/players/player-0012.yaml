@@ -1,0 +1,131 @@
+---
+player_id: 0012
+sname: tuuliioo
+full_name: Túlio Amorim Morais
+short_name: Tulio A.M.
+loc: Sao Paulo
+dob: 1981-01-08
+likes: 531
+sports: football table-tennis basketball
+
+categories:
+  - cat: Futsal
+    pos: Centre-back
+
+stats:
+  goals: 145
+  assists: 137
+  saves: 112
+  games: 278
+  hours: 945
+
+teams:
+  - sname: palm
+    pos: Goalkeeper
+
+games:
+  - date: 01/23/2006 02:08 AM
+    loc: Buenos Aires
+    home: Palmeiras
+    visitor: Hiawatha
+  - date: 06/09/2014 05:31 AM
+    loc: Beijing
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 06/29/2000 04:47 AM
+    loc: Cairo
+    home: Palmeiras
+    visitor: Hiawatha
+  - date: 03/21/2008 03:37 PM
+    loc: Isfahan
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 07/14/2006 02:46 AM
+    loc: Oran
+    visitor: Palmeiras
+    home: Osaka FT
+  - date: 05/13/2000 01:27 AM
+    loc: Tabriz
+    visitor: Palmeiras
+    home: Long Island
+
+followers:
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: False
+
+following:
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+
+profpic:
+  - url: /player-prof-013.jpg
+
+pics:
+  - url: /random-007.jpg
+  - url: /random-004.jpg
+  - url: /random-009.jpg
+  - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-001.jpg
