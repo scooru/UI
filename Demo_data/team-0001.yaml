@@ -16,12 +16,12 @@ about: >
   Al Wasl Football Club is a Football League club based in Dubai. Diego Maradona was the manager of the club in 2011 to 2012.
 
 stats:
-  games: 580
-  possessions: 67%
-  goals: 448
-  saves: 256
-  win: 261:44%
-  loss: 124:59%
+  games: 227
+  possessions: 69%
+  goals: 445
+  saves: 598
+  win: 106:53%
+  loss: 287:44%
 
 players:
     - sname: musad
@@ -63,69 +63,76 @@ profpic:
   - url: /AlWasl.png
 
 pics:
-  - url: /random-006.jpg
-    - url: /random-006.jpg
-    - url: /random-009.jpg
-    - url: /random-002.jpg
-    - url: /random-010.jpg
+  - url: /random-001.jpg
+    - url: /random-004.jpg
+    - url: /random-007.jpg
     
 
 games:
-  - date: 07/29/2005 07:08 PM
-        loc: London
+  - date: 12/19/2013 09:36 PM
+        loc: Tabriz
         visitor: FC Venice 89   
-      - date: 03/24/2013 03:26 AM
-        loc: Córdoba
-        visitor: Portland F.C.   
-      - date: 02/24/2015 05:01 PM
-        loc: Quezon City
-        visitor: Portland F.C.   
-      - date: 04/14/2003 07:28 AM
-        loc: Kawasaki
-        visitor: FC Venice 89   
-      - date: 08/24/2015 05:10 AM
-        loc: Mandalay
+      - date: 08/15/2014 03:22 PM
+        loc: Madrid
+        visitor: Tahiti Untd   
+      - date: 10/27/2010 12:01 AM
+        loc: Bengaluru
         visitor: Hiawatha   
-      - date: 01/01/2003 08:34 PM
-        loc: Córdoba
+      - date: 03/02/2006 07:57 AM
+        loc: Mexico City
         visitor: Hiawatha   
-      - date: 11/15/2011 02:28 AM
-        loc: Cairo
-        visitor: Mozambique F.C.   
+      - date: 02/27/2017 01:10 AM
+        loc: Madrid
+        visitor: Hiawatha   
+      - date: 02/14/2013 03:25 AM
+        loc: Tabriz
+        visitor: Hiawatha   
+      - date: 08/17/2008 07:05 PM
+        loc: Tabriz
+        visitor: Hiawatha   
     
 
 followers:
-  - sname: maliwanc
-        full_name: Maliwan Chaiprasit
-        following: True   
-      - sname: Naseeb
-        full_name: Naseeba al-Yousuf
-        following: True   
-      - sname: gulemaym
-        full_name: Gulema Yihun Mihret
-        following: True   
-      - sname: arzhang
-        full_name: Arzhang Moshiri
-        following: True   
-      - sname: Naseeb
-        full_name: Naseeba al-Yousuf
-        following: False   
-      - sname: duchan
+  - sname: duchan
         full_name: Duchanee Srisati
+        following: True   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: True   
+      - sname: georgess
+        full_name: Georges Solé
+        following: False   
+      - sname: josehey
+        full_name: José Hamada Barros
+        following: True   
+      - sname: tronblom
+        full_name: Tron Blomquist
+        following: False   
+      - sname: marcionf
+        full_name: Márcio Nascimento Furtado
+        following: False   
+      - sname: piyachar
+        full_name: Piyapat Charanachitta
+        following: False   
+      - sname: angelmoi
+        full_name: Angélique Ardouin
         following: True   
       - sname: HeFaroo
         full_name: Husni el-Farooqui
         following: False   
-      - sname: aymchill
-        full_name: Aymeric Chéreau
+      - sname: leandac
+        full_name: Leandro Antunes Couto
         following: True   
-      - sname: hasan
-        full_name: Hasan el-Matin
+      - sname: bossjira
+        full_name: Jirasak Srichure
         following: False   
-      - sname: alemu1
-        full_name: Alemu Bekele Yitay
+      - sname: gulemaym
+        full_name: Gulema Yihun Mihret
         following: False   
       - sname: nopjira
         full_name: Nopjira Gaysorn
-        following: False   
+        following: True   
+      - sname: lexrox
+        full_name: Alexis Gaubert
+        following: True   
     

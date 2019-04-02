@@ -16,12 +16,12 @@ about: >
   We’re a football club based in São Paulo, Brazil. The club was founded as Palestra Italia, but changed to the current name on September 14, 1942.
 
 stats:
-  games: 234
-  possessions: 47%
-  goals: 380
-  saves: 578
-  win: 250:47%
-  loss: 107:57%
+  games: 341
+  possessions: 46%
+  goals: 578
+  saves: 324
+  win: 185:57%
+  loss: 154:43%
 
 players:
     - sname: tuuliioo
@@ -63,75 +63,78 @@ profpic:
   - url: /Palmeiras.png
 
 pics:
-  - url: /random-007.jpg
-    - url: /random-009.jpg
-    - url: /random-001.jpg
+  - url: /random-010.jpg
     - url: /random-008.jpg
-    - url: /random-007.jpg
+    - url: /random-002.jpg
+    - url: /random-006.jpg
+    - url: /random-003.jpg
     
 
 games:
-  - date: 02/09/2011 09:44 AM
-        loc: Cairo
+  - date: 12/19/2009 02:54 PM
+        loc: Beijing
         visitor: FC Venice 89   
-      - date: 05/22/2006 06:20 AM
+      - date: 09/03/2013 04:36 AM
+        loc: London
+        visitor: Long Island   
+      - date: 05/30/2005 08:08 PM
         loc: Quanzhou
         visitor: Hiawatha   
-      - date: 04/26/2003 03:04 PM
-        loc: Mandalay
-        visitor: Portland F.C.   
-      - date: 07/13/2015 08:22 AM
-        loc: Buenos Aires
+      - date: 12/28/2015 05:20 PM
+        loc: Quanzhou
         visitor: Mozambique F.C.   
-      - date: 07/06/2005 10:55 PM
-        loc: Bengaluru
-        visitor: Long Island   
-      - date: 10/24/2008 12:58 PM
-        loc: Kawasaki
+      - date: 02/01/2014 05:31 PM
+        loc: Busan
+        visitor: Maui Pilots FC   
+      - date: 08/09/2000 05:05 AM
+        loc: Havana
+        visitor: Maui Pilots FC   
+      - date: 11/27/2003 12:47 PM
+        loc: São Paulo
         visitor: Kungsholmens FC   
-      - date: 06/20/2005 06:51 PM
-        loc: Mexico City
+      - date: 09/30/2013 10:50 AM
+        loc: Buenos Aires
+        visitor: Osaka FT   
+      - date: 02/07/2002 02:34 AM
+        loc: London
         visitor: Long Island   
     
 
 followers:
-  - sname: afewer
-        full_name: Afewerek Eyoel Abimelech
+  - sname: joelljs
+        full_name: Joel Liljeström
         following: True   
-      - sname: ragnarlin
-        full_name: Ragnar Lindgren
-        following: False   
-      - sname: HeFaroo
-        full_name: Husni el-Farooqui
-        following: False   
-      - sname: memman
-        full_name: Marcel Emmanuelli
-        following: False   
-      - sname: robertam
-        full_name: Roberta Medeiros Menezes
+      - sname: alemu1
+        full_name: Alemu Bekele Yitay
         following: True   
-      - sname: ahongha
-        full_name: Akkanee Honghannarong
+      - sname: Safwa
+        full_name: Safwaan el-Koroma
         following: True   
-      - sname: bernarcool
-        full_name: Bernardo Maia Álvarez
+      - sname: gulemaym
+        full_name: Gulema Yihun Mihret
         following: False   
-      - sname: brekime
-        full_name: Brehan Kidane Meles
+      - sname: MrTaheri
+        full_name: Taghi Taheri
         following: False   
-      - sname: brekime
-        full_name: Brehan Kidane Meles
+      - sname: nicholas
+        full_name: Nicholas Lundholm
         following: True   
-      - sname: banthornn
-        full_name: Banthorn Noppachorn
-        following: False   
-      - sname: HeFaroo
-        full_name: Husni el-Farooqui
-        following: False   
-      - sname: dibadiba
-        full_name: Abbas Diba
-        following: False   
-      - sname: ragnarlin
-        full_name: Ragnar Lindgren
+      - sname: iabellu
+        full_name: Iago Martins Belluci
         following: True   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: True   
+      - sname: asamenzg
+        full_name: Asamenew Zewedu Gorfu
+        following: False   
+      - sname: arthits
+        full_name: Arthit Sansurin
+        following: False   
+      - sname: bossjira
+        full_name: Jirasak Srichure
+        following: True   
+      - sname: siamak
+        full_name: Siamak Yaghmaei
+        following: False   
     

@@ -16,12 +16,12 @@ about: >
   Långholmen Football club was founded in 1943 and is now an important part of the sporting and social life of the extraterrestrial community in Stockholm.
 
 stats:
-  games: 515
-  possessions: 46%
-  goals: 247
-  saves: 200
-  win: 133:40%
-  loss: 149:41%
+  games: 618
+  possessions: 51%
+  goals: 253
+  saves: 510
+  win: 243:45%
+  loss: 136:57%
 
 players:
     - sname: hildrd
@@ -63,69 +63,79 @@ profpic:
   - url: /Långholmen.png
 
 pics:
-  - url: /random-010.jpg
-    - url: /random-005.jpg
-    - url: /random-005.jpg
+  - url: /random-006.jpg
     - url: /random-010.jpg
-    - url: /random-010.jpg
+    - url: /random-003.jpg
     
 
 games:
-  - date: 02/21/2008 08:56 AM
+  - date: 04/22/2000 03:24 PM
         loc: Quezon City
-        visitor: Kungsholmens FC   
-      - date: 05/09/2013 11:55 PM
-        loc: Quanzhou
-        visitor: Kungsholmens FC   
-      - date: 10/05/2015 05:08 AM
-        loc: Mandalay
-        visitor: FC Venice 89   
-      - date: 11/09/2004 02:46 AM
-        loc: London
+        visitor: Maui Pilots FC   
+      - date: 05/24/2000 09:56 PM
+        loc: Kawasaki
+        visitor: Osaka FT   
+      - date: 04/30/2002 04:23 AM
+        loc: Bengaluru
         visitor: Long Island   
-      - date: 10/27/2000 05:43 AM
-        loc: Beijing
+      - date: 09/26/2010 06:50 PM
+        loc: Mexico City
+        visitor: Long Island   
+      - date: 02/06/2016 12:11 PM
+        loc: Bengaluru
         visitor: Portland F.C.   
-      - date: 06/17/2013 01:23 PM
-        loc: Quezon City
-        visitor: Seattle F.C.   
-      - date: 10/04/2017 07:45 PM
-        loc: Quezon City
-        visitor: Tahiti Untd   
+      - date: 10/04/2012 05:21 PM
+        loc: Quanzhou
+        visitor: Portland F.C.   
+      - date: 12/24/2008 04:54 PM
+        loc: Busan
+        visitor: Kungsholmens FC   
+      - date: 09/16/2000 03:13 PM
+        loc: Fuzhou
+        visitor: Mozambique F.C.   
+      - date: 10/13/2012 08:18 PM
+        loc: Kawasaki
+        visitor: FC Venice 89   
     
 
 followers:
-  - sname: angelmoi
+  - sname: baptistea
+        full_name: Baptiste Alard
+        following: False   
+      - sname: angelmoi
         full_name: Angélique Ardouin
         following: True   
-      - sname: sidneife
-        full_name: Sidnei Amaral Ferraz
+      - sname: banthornn
+        full_name: Banthorn Noppachorn
         following: True   
-      - sname: ojonss
-        full_name: Ögge Jönsson
-        following: False   
       - sname: bossjira
         full_name: Jirasak Srichure
         following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: True   
+      - sname: alemu1
+        full_name: Alemu Bekele Yitay
+        following: False   
       - sname: duchan
         full_name: Duchanee Srisati
+        following: False   
+      - sname: arthits
+        full_name: Arthit Sansurin
         following: True   
-      - sname: pierrelv
-        full_name: Pierre-Louis Verninac
-        following: False   
-      - sname: banthornn
-        full_name: Banthorn Noppachorn
-        following: False   
-      - sname: francieg
-        full_name: Francine Gonçalves Caetano
+      - sname: vfds
+        full_name: Vinicius Ferraz de Souza
         following: True   
-      - sname: memman
-        full_name: Marcel Emmanuelli
-        following: False   
-      - sname: danjacq
-        full_name: Dany Jacquard
+      - sname: mirabe
+        full_name: Mirabe Nahum Selassie
+        following: True   
+      - sname: piyachar
+        full_name: Piyapat Charanachitta
         following: False   
       - sname: Naseeb
         full_name: Naseeba al-Yousuf
-        following: False   
+        following: True   
+      - sname: zewdster
+        full_name: Zewdnesh Tesfa Galawdeyos
+        following: True   
     

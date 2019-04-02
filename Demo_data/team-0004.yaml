@@ -16,12 +16,12 @@ about: >
   FC Fleury 91 is a French amateur association football club based in Fleury-Mérogis competing in the Championnat National 2.
 
 stats:
-  games: 318
-  possessions: 40%
-  goals: 499
-  saves: 662
-  win: 105:53%
-  loss: 159:53%
+  games: 389
+  possessions: 45%
+  goals: 571
+  saves: 564
+  win: 142:58%
+  loss: 139:53%
 
 players:
     - sname: lexrox
@@ -63,68 +63,67 @@ profpic:
   - url: /fleury.png
 
 pics:
-  - url: /random-005.jpg
-    - url: /random-003.jpg
-    - url: /random-007.jpg
+  - url: /random-006.jpg
     - url: /random-009.jpg
+    - url: /random-008.jpg
     
 
 games:
-  - date: 05/27/2013 05:53 AM
+  - date: 04/26/2000 09:04 PM
         loc: Beijing
-        visitor: Long Island   
-      - date: 09/14/2015 02:47 AM
-        loc: Havana
-        visitor: Maui Pilots FC   
-      - date: 08/13/2014 12:20 PM
-        loc: Tabriz
         visitor: Kungsholmens FC   
-      - date: 12/01/2013 06:08 AM
-        loc: London
+      - date: 04/15/2003 10:50 PM
+        loc: Beijing
+        visitor: Hiawatha   
+      - date: 09/26/2003 06:38 AM
+        loc: Tabriz
+        visitor: Tahiti Untd   
+      - date: 03/17/2011 05:57 PM
+        loc: Cairo
+        visitor: Tahiti Untd   
+      - date: 02/15/2014 04:53 AM
+        loc: Oran
+        visitor: Mozambique F.C.   
+      - date: 12/26/2013 01:52 PM
+        loc: Buenos Aires
         visitor: Portland F.C.   
-      - date: 01/03/2006 04:45 AM
-        loc: Busan
-        visitor: Seattle F.C.   
-      - date: 10/27/2005 02:47 PM
-        loc: Madrid
-        visitor: Portland F.C.   
-      - date: 05/23/2013 01:44 PM
-        loc: Isfahan
-        visitor: Maui Pilots FC   
+      - date: 04/16/2006 06:20 AM
+        loc: Bengaluru
+        visitor: Kungsholmens FC   
+      - date: 08/20/2004 09:04 PM
+        loc: Cairo
+        visitor: FC Venice 89   
     
 
 followers:
-  - sname: hasan
-        full_name: Hasan el-Matin
-        following: True   
-      - sname: ahongha
-        full_name: Akkanee Honghannarong
-        following: False   
-      - sname: francieg
-        full_name: Francine Gonçalves Caetano
-        following: True   
-      - sname: alemu1
-        full_name: Alemu Bekele Yitay
-        following: False   
-      - sname: piyachar
-        full_name: Piyapat Charanachitta
-        following: False   
-      - sname: robertam
-        full_name: Roberta Medeiros Menezes
-        following: True   
-      - sname: mahdaviB
-        full_name: Behzad Mahdavi
-        following: True   
-      - sname: gulemaym
-        full_name: Gulema Yihun Mihret
+  - sname: iabellu
+        full_name: Iago Martins Belluci
         following: True   
       - sname: hildrd
         full_name: Hildr Dalin
         following: False   
-      - sname: nopjira
-        full_name: Nopjira Gaysorn
+      - sname: tronblom
+        full_name: Tron Blomquist
+        following: False   
+      - sname: ruangri
+        full_name: Ruangrit Srisati
+        following: False   
+      - sname: duchan
+        full_name: Duchanee Srisati
+        following: False   
+      - sname: gulemaym
+        full_name: Gulema Yihun Mihret
+        following: False   
+      - sname: pipifri
+        full_name: Pia Frisk
         following: True   
-      - sname: joelle
-        full_name: Joel Lennartsson
+      - sname: zewdster
+        full_name: Zewdnesh Tesfa Galawdeyos
         following: True   
+      - sname: jeanpp
+        full_name: Jean-Philippe Paquin
+        following: True   
+      - sname: sidneife
+        full_name: Sidnei Amaral Ferraz
+        following: False   
     

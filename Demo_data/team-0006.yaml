@@ -16,12 +16,12 @@ about: >
   Members of the Bangkok Casual Football League Division 2.
 
 stats:
-  games: 739
+  games: 698
   possessions: 63%
-  goals: 402
-  saves: 423
-  win: 213:48%
-  loss: 226:47%
+  goals: 586
+  saves: 616
+  win: 234:56%
+  loss: 278:58%
 
 players:
     - sname: surinw
@@ -63,72 +63,72 @@ profpic:
   - url: /phoenix.jpg
 
 pics:
-  - url: /random-006.jpg
-    - url: /random-002.jpg
-    - url: /random-008.jpg
-    - url: /random-005.jpg
-    - url: /random-005.jpg
+  - url: /random-008.jpg
+    - url: /random-001.jpg
+    - url: /random-007.jpg
+    - url: /random-009.jpg
+    - url: /random-006.jpg
     
 
 games:
-  - date: 11/06/2000 03:49 AM
-        loc: Bengaluru
-        visitor: Osaka FT   
-      - date: 03/19/2008 07:03 PM
-        loc: Bengaluru
+  - date: 01/29/2005 03:20 AM
+        loc: Mexico City
         visitor: Hiawatha   
-      - date: 06/25/2015 11:10 AM
-        loc: Quanzhou
-        visitor: Mozambique F.C.   
-      - date: 05/17/2014 08:41 PM
+      - date: 08/28/2013 01:53 PM
+        loc: Quezon City
+        visitor: Hiawatha   
+      - date: 10/09/2003 07:48 AM
+        loc: Isfahan
+        visitor: Osaka FT   
+      - date: 05/11/2017 09:22 PM
         loc: Cairo
-        visitor: Hiawatha   
-      - date: 01/15/2002 07:55 PM
-        loc: Tabriz
-        visitor: Tahiti Untd   
-      - date: 08/29/2001 01:56 PM
-        loc: Tabriz
+        visitor: Mozambique F.C.   
+      - date: 09/18/2013 01:38 PM
+        loc: Quanzhou
         visitor: FC Venice 89   
-      - date: 12/07/2017 06:46 PM
+      - date: 10/15/2004 04:28 AM
+        loc: Havana
+        visitor: Mozambique F.C.   
+      - date: 07/07/2012 11:21 PM
+        loc: London
+        visitor: Hiawatha   
+      - date: 02/19/2014 02:03 PM
         loc: Beijing
-        visitor: Osaka FT   
+        visitor: Tahiti Untd   
     
 
 followers:
-  - sname: danjacq
-        full_name: Dany Jacquard
-        following: True   
-      - sname: bernarcool
-        full_name: Bernardo Maia Álvarez
+  - sname: musad
+        full_name: Musaddiq al-Pirani
         following: False   
+      - sname: samana
+        full_name: Saman Arabnia
+        following: True   
       - sname: surinw
         full_name: Surin () Wattanasin
         following: False   
-      - sname: nopjira
-        full_name: Nopjira Gaysorn
+      - sname: ralarie
+        full_name: Raoul Alarie
         following: False   
-      - sname: arthits
-        full_name: Arthit Sansurin
-        following: False   
-      - sname: wolitna
-        full_name: Wolitigna Adugna Mesay
+      - sname: Safwa
+        full_name: Safwaan el-Koroma
         following: True   
       - sname: ahongha
         full_name: Akkanee Honghannarong
         following: False   
-      - sname: arthits
-        full_name: Arthit Sansurin
+      - sname: dibadiba
+        full_name: Abbas Diba
         following: True   
-      - sname: asamenzg
-        full_name: Asamenew Zewedu Gorfu
-        following: True   
-      - sname: georgess
-        full_name: Georges Solé
-        following: True   
-      - sname: mirabe
-        full_name: Mirabe Nahum Selassie
+      - sname: ojonss
+        full_name: Ögge Jönsson
         following: False   
-      - sname: robertam
-        full_name: Roberta Medeiros Menezes
+      - sname: baptistea
+        full_name: Baptiste Alard
+        following: True   
+      - sname: pipifri
+        full_name: Pia Frisk
+        following: True   
+      - sname: siamak
+        full_name: Siamak Yaghmaei
         following: True   
     

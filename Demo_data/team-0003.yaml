@@ -16,12 +16,12 @@ about: >
   The Ethiopia national football team—nicknamed "Walias," after the Walia ibex, represents Ethiopia and is presided over by the Ethiopian Football Federation.
 
 stats:
-  games: 611
+  games: 322
   possessions: 41%
-  goals: 621
-  saves: 495
-  win: 116:51%
-  loss: 292:59%
+  goals: 684
+  saves: 442
+  win: 182:49%
+  loss: 169:59%
 
 players:
     - sname: alemu1
@@ -63,72 +63,80 @@ profpic:
   - url: /Ethiopian.png
 
 pics:
-  - url: /random-003.jpg
-    - url: /random-007.jpg
+  - url: /random-002.jpg
+    - url: /random-005.jpg
+    - url: /random-004.jpg
     - url: /random-008.jpg
-    - url: /random-003.jpg
-    - url: /random-007.jpg
     
 
 games:
-  - date: 08/31/2016 05:00 PM
-        loc: Buenos Aires
+  - date: 11/17/2000 01:59 AM
+        loc: Busan
         visitor: Tahiti Untd   
-      - date: 08/03/2017 02:20 AM
-        loc: Isfahan
-        visitor: Long Island   
-      - date: 05/02/2015 12:57 PM
-        loc: Tabriz
-        visitor: Mozambique F.C.   
-      - date: 10/30/2007 08:54 PM
-        loc: Tabriz
-        visitor: Long Island   
-      - date: 03/29/2000 06:20 AM
-        loc: Isfahan
-        visitor: Seattle F.C.   
-      - date: 12/05/2016 07:17 AM
+      - date: 04/09/2014 03:22 AM
+        loc: Havana
+        visitor: Tahiti Untd   
+      - date: 07/26/2015 07:45 AM
         loc: Mexico City
-        visitor: Long Island   
-      - date: 12/24/2004 12:08 PM
-        loc: Madrid
-        visitor: Long Island   
+        visitor: Mozambique F.C.   
+      - date: 10/24/2004 12:28 AM
+        loc: Isfahan
+        visitor: FC Venice 89   
+      - date: 05/23/2001 09:31 AM
+        loc: Quezon City
+        visitor: Osaka FT   
+      - date: 06/15/2009 09:44 AM
+        loc: Tabriz
+        visitor: Tahiti Untd   
+      - date: 02/18/2011 03:40 PM
+        loc: Córdoba
+        visitor: FC Venice 89   
+      - date: 01/02/2004 03:43 PM
+        loc: Kawasaki
+        visitor: Seattle F.C.   
     
 
 followers:
-  - sname: afewer
-        full_name: Afewerek Eyoel Abimelech
+  - sname: joelle
+        full_name: Joel Lennartsson
         following: True   
-      - sname: memman
-        full_name: Marcel Emmanuelli
-        following: True   
-      - sname: Naseeb
-        full_name: Naseeba al-Yousuf
-        following: True   
-      - sname: jeneve
-        full_name: Jeneve Dessalegne Tessema
-        following: True   
-      - sname: tomburg
-        full_name: Thomas Borg
-        following: True   
-      - sname: wolitna
-        full_name: Wolitigna Adugna Mesay
-        following: False   
       - sname: tronblom
         full_name: Tron Blomquist
+        following: False   
+      - sname: surinw
+        full_name: Surin () Wattanasin
+        following: False   
+      - sname: afewer
+        full_name: Afewerek Eyoel Abimelech
         following: True   
-      - sname: ddeduardo
-        full_name: Eduardo Damasceno Delgado
+      - sname: bossjira
+        full_name: Jirasak Srichure
+        following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: True   
+      - sname: maliwanc
+        full_name: Maliwan Chaiprasit
+        following: True   
+      - sname: banthornn
+        full_name: Banthorn Noppachorn
+        following: True   
+      - sname: marcionf
+        full_name: Márcio Nascimento Furtado
+        following: True   
+      - sname: josehey
+        full_name: José Hamada Barros
+        following: True   
+      - sname: banthornn
+        full_name: Banthorn Noppachorn
+        following: True   
+      - sname: robertam
+        full_name: Roberta Medeiros Menezes
         following: False   
-      - sname: angelmoi
-        full_name: Angélique Ardouin
-        following: False   
-      - sname: tuuliioo
-        full_name: Túlio Amorim Morais
-        following: False   
-      - sname: ojonss
-        full_name: Ögge Jönsson
-        following: False   
-      - sname: ddeduardo
-        full_name: Eduardo Damasceno Delgado
-        following: False   
+      - sname: vfds
+        full_name: Vinicius Ferraz de Souza
+        following: True   
     
