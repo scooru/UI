@@ -1,0 +1,131 @@
+---
+team-id: 0001
+full_name: Al-Wasl Football Club
+short_name: Al-Wasl F.C.
+sname: awfc
+loc: Dubai
+df: 1880-06-30
+likes: 2332
+category: Association
+admins:
+  - name: MrTaheri
+  - name: dibadiba
+  - name: siamak
+
+about: >
+  Al Wasl Football Club is a Football League club based in Dubai. Diego Maradona was the manager of the club in 2011 to 2012.
+
+stats:
+  games: 580
+  possessions: 67%
+  goals: 448
+  saves: 256
+  win: 261:44%
+  loss: 124:59%
+
+players:
+    - sname: musad
+        full_name: Musaddiq A.P.
+        position: Goalkeeper    
+      - sname: HeFaroo
+        full_name: H. el-Farooqui
+        position: Centre-back    
+      - sname: hasan
+        full_name: Hasan el-M.
+        position: Sweeper    
+      - sname: Naseeb
+        full_name: N. el-Yousuf
+        position: Full-back    
+      - sname: Safwa
+        full_name: Safwaan A.Y.
+        position: Wing-back    
+      - sname: mahdaviB
+        full_name: Behzad M
+        position: Centre midfield    
+      - sname: arzhang
+        full_name: Arzhang M.
+        position: Defensive midfield    
+      - sname: MrTaheri
+        full_name: Taghi Taheri
+        position: Attacking midfield    
+      - sname: dibadiba
+        full_name: Abbas D.
+        position: Wide midfield    
+      - sname: siamak
+        full_name: Siamak Y.
+        position: Centre forward    
+      - sname: samana
+        full_name: Saman A.
+        position: Second striker    
+    
+
+profpic:
+  - url: /AlWasl.png
+
+pics:
+  - url: /random-006.jpg
+    - url: /random-006.jpg
+    - url: /random-009.jpg
+    - url: /random-002.jpg
+    - url: /random-010.jpg
+    
+
+games:
+  - date: 07/29/2005 07:08 PM
+        loc: London
+        visitor: FC Venice 89   
+      - date: 03/24/2013 03:26 AM
+        loc: Córdoba
+        visitor: Portland F.C.   
+      - date: 02/24/2015 05:01 PM
+        loc: Quezon City
+        visitor: Portland F.C.   
+      - date: 04/14/2003 07:28 AM
+        loc: Kawasaki
+        visitor: FC Venice 89   
+      - date: 08/24/2015 05:10 AM
+        loc: Mandalay
+        visitor: Hiawatha   
+      - date: 01/01/2003 08:34 PM
+        loc: Córdoba
+        visitor: Hiawatha   
+      - date: 11/15/2011 02:28 AM
+        loc: Cairo
+        visitor: Mozambique F.C.   
+    
+
+followers:
+  - sname: maliwanc
+        full_name: Maliwan Chaiprasit
+        following: True   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: True   
+      - sname: gulemaym
+        full_name: Gulema Yihun Mihret
+        following: True   
+      - sname: arzhang
+        full_name: Arzhang Moshiri
+        following: True   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: False   
+      - sname: duchan
+        full_name: Duchanee Srisati
+        following: True   
+      - sname: HeFaroo
+        full_name: Husni el-Farooqui
+        following: False   
+      - sname: aymchill
+        full_name: Aymeric Chéreau
+        following: True   
+      - sname: hasan
+        full_name: Hasan el-Matin
+        following: False   
+      - sname: alemu1
+        full_name: Alemu Bekele Yitay
+        following: False   
+      - sname: nopjira
+        full_name: Nopjira Gaysorn
+        following: False   
+    

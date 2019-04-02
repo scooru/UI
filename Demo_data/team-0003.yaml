@@ -1,0 +1,134 @@
+---
+team-id: 0003
+full_name: Ethiopia National Football Team
+short_name: Ethiopian FT
+sname: enft
+loc: Addis Ababa
+df: 1903-11-23
+likes: 4309
+category: Association
+admins:
+  - name: mirabe
+  - name: imgirma
+  - name: wolitna
+
+about: >
+  The Ethiopia national football team—nicknamed "Walias," after the Walia ibex, represents Ethiopia and is presided over by the Ethiopian Football Federation.
+
+stats:
+  games: 611
+  possessions: 41%
+  goals: 621
+  saves: 495
+  win: 116:51%
+  loss: 292:59%
+
+players:
+    - sname: alemu1
+        full_name: Alemu Y.
+        position: Goalkeeper    
+      - sname: gulemaym
+        full_name: Gulema Y.M.
+        position: Centre-back    
+      - sname: zewdster
+        full_name: Zewdnesh T.G.
+        position: Sweeper    
+      - sname: afewer
+        full_name: Afewerek E.A.
+        position: Full-back    
+      - sname: brekime
+        full_name: Brehan M.
+        position: Wing-back    
+      - sname: mirabe
+        full_name: Mira N.S.
+        position: Centre midfield    
+      - sname: imgirma
+        full_name: Girma K.
+        position: Defensive midfield    
+      - sname: wolitna
+        full_name: Wolitigna M.
+        position: Attacking midfield    
+      - sname: asamenzg
+        full_name: Asamen Z.G.
+        position: Wide midfield    
+      - sname: chirkobi
+        full_name: Chirkos E.
+        position: Centre forward    
+      - sname: jeneve
+        full_name: Jeneve T.
+        position: Second striker    
+    
+
+profpic:
+  - url: /Ethiopian.png
+
+pics:
+  - url: /random-003.jpg
+    - url: /random-007.jpg
+    - url: /random-008.jpg
+    - url: /random-003.jpg
+    - url: /random-007.jpg
+    
+
+games:
+  - date: 08/31/2016 05:00 PM
+        loc: Buenos Aires
+        visitor: Tahiti Untd   
+      - date: 08/03/2017 02:20 AM
+        loc: Isfahan
+        visitor: Long Island   
+      - date: 05/02/2015 12:57 PM
+        loc: Tabriz
+        visitor: Mozambique F.C.   
+      - date: 10/30/2007 08:54 PM
+        loc: Tabriz
+        visitor: Long Island   
+      - date: 03/29/2000 06:20 AM
+        loc: Isfahan
+        visitor: Seattle F.C.   
+      - date: 12/05/2016 07:17 AM
+        loc: Mexico City
+        visitor: Long Island   
+      - date: 12/24/2004 12:08 PM
+        loc: Madrid
+        visitor: Long Island   
+    
+
+followers:
+  - sname: afewer
+        full_name: Afewerek Eyoel Abimelech
+        following: True   
+      - sname: memman
+        full_name: Marcel Emmanuelli
+        following: True   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: True   
+      - sname: jeneve
+        full_name: Jeneve Dessalegne Tessema
+        following: True   
+      - sname: tomburg
+        full_name: Thomas Borg
+        following: True   
+      - sname: wolitna
+        full_name: Wolitigna Adugna Mesay
+        following: False   
+      - sname: tronblom
+        full_name: Tron Blomquist
+        following: True   
+      - sname: ddeduardo
+        full_name: Eduardo Damasceno Delgado
+        following: False   
+      - sname: angelmoi
+        full_name: Angélique Ardouin
+        following: False   
+      - sname: tuuliioo
+        full_name: Túlio Amorim Morais
+        following: False   
+      - sname: ojonss
+        full_name: Ögge Jönsson
+        following: False   
+      - sname: ddeduardo
+        full_name: Eduardo Damasceno Delgado
+        following: False   
+    

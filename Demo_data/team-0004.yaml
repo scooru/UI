@@ -1,0 +1,130 @@
+---
+team-id: 0004
+full_name: Football Club US Fleury-Mérogis 91
+short_name: FC Fleury 91
+sname: fm91
+loc: Fleury-Mérogis
+df: 1936-03-05
+likes: 883
+category: Association
+admins:
+  - name: lexrox
+  - name: georgess
+  - name: memman
+
+about: >
+  FC Fleury 91 is a French amateur association football club based in Fleury-Mérogis competing in the Championnat National 2.
+
+stats:
+  games: 318
+  possessions: 40%
+  goals: 499
+  saves: 662
+  win: 105:53%
+  loss: 159:53%
+
+players:
+    - sname: lexrox
+        full_name: Alexis G.
+        position: Goalkeeper    
+      - sname: georgess
+        full_name: George S.
+        position: Centre-back    
+      - sname: memman
+        full_name: Marcel E.
+        position: Sweeper    
+      - sname: pierrelv
+        full_name: PV Verninac
+        position: Full-back    
+      - sname: aymchill
+        full_name: Aymeric C.
+        position: Wing-back    
+      - sname: ralarie
+        full_name: Raoul A.
+        position: Centre midfield    
+      - sname: mettepast
+        full_name: Guillemette
+        position: Defensive midfield    
+      - sname: baptistea
+        full_name: Baptiste A.
+        position: Attacking midfield    
+      - sname: danjacq
+        full_name: Dany J.
+        position: Wide midfield    
+      - sname: jeanpp
+        full_name: JP Paquin
+        position: Centre forward    
+      - sname: angelmoi
+        full_name: Angel Ard
+        position: Second striker    
+    
+
+profpic:
+  - url: /fleury.png
+
+pics:
+  - url: /random-005.jpg
+    - url: /random-003.jpg
+    - url: /random-007.jpg
+    - url: /random-009.jpg
+    
+
+games:
+  - date: 05/27/2013 05:53 AM
+        loc: Beijing
+        visitor: Long Island   
+      - date: 09/14/2015 02:47 AM
+        loc: Havana
+        visitor: Maui Pilots FC   
+      - date: 08/13/2014 12:20 PM
+        loc: Tabriz
+        visitor: Kungsholmens FC   
+      - date: 12/01/2013 06:08 AM
+        loc: London
+        visitor: Portland F.C.   
+      - date: 01/03/2006 04:45 AM
+        loc: Busan
+        visitor: Seattle F.C.   
+      - date: 10/27/2005 02:47 PM
+        loc: Madrid
+        visitor: Portland F.C.   
+      - date: 05/23/2013 01:44 PM
+        loc: Isfahan
+        visitor: Maui Pilots FC   
+    
+
+followers:
+  - sname: hasan
+        full_name: Hasan el-Matin
+        following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: False   
+      - sname: francieg
+        full_name: Francine Gonçalves Caetano
+        following: True   
+      - sname: alemu1
+        full_name: Alemu Bekele Yitay
+        following: False   
+      - sname: piyachar
+        full_name: Piyapat Charanachitta
+        following: False   
+      - sname: robertam
+        full_name: Roberta Medeiros Menezes
+        following: True   
+      - sname: mahdaviB
+        full_name: Behzad Mahdavi
+        following: True   
+      - sname: gulemaym
+        full_name: Gulema Yihun Mihret
+        following: True   
+      - sname: hildrd
+        full_name: Hildr Dalin
+        following: False   
+      - sname: nopjira
+        full_name: Nopjira Gaysorn
+        following: True   
+      - sname: joelle
+        full_name: Joel Lennartsson
+        following: True   
+    

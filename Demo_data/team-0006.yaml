@@ -1,0 +1,134 @@
+---
+team-id: 0006
+full_name: Phoenix Football Club Bangkok
+short_name: Phoenix F.C.
+sname: pxfc
+loc: Bangkok
+df: 1958-08-12
+likes: 5840
+category: Association
+admins:
+  - name: ahongha
+  - name: arthits
+  - name: hanuman
+
+about: >
+  Members of the Bangkok Casual Football League Division 2.
+
+stats:
+  games: 739
+  possessions: 63%
+  goals: 402
+  saves: 423
+  win: 213:48%
+  loss: 226:47%
+
+players:
+    - sname: surinw
+        full_name: Surin W.
+        position: Goalkeeper    
+      - sname: ahongha
+        full_name: Akkanee H.
+        position: Centre-back    
+      - sname: arthits
+        full_name: Athit S.
+        position: Sweeper    
+      - sname: hanuman
+        full_name: Hanuman K.
+        position: Full-back    
+      - sname: ruangri
+        full_name: Ruangrit S.
+        position: Wing-back    
+      - sname: duchan
+        full_name: Duchanee S.
+        position: Centre midfield    
+      - sname: banthornn
+        full_name: Banthorn N.
+        position: Defensive midfield    
+      - sname: nopjira
+        full_name: Nopjira G.
+        position: Attacking midfield    
+      - sname: bossjira
+        full_name: Jirasak S.
+        position: Wide midfield    
+      - sname: piyachar
+        full_name: Piyapat C.
+        position: Centre forward    
+      - sname: maliwanc
+        full_name: Maliwan C.
+        position: Second striker    
+    
+
+profpic:
+  - url: /phoenix.jpg
+
+pics:
+  - url: /random-006.jpg
+    - url: /random-002.jpg
+    - url: /random-008.jpg
+    - url: /random-005.jpg
+    - url: /random-005.jpg
+    
+
+games:
+  - date: 11/06/2000 03:49 AM
+        loc: Bengaluru
+        visitor: Osaka FT   
+      - date: 03/19/2008 07:03 PM
+        loc: Bengaluru
+        visitor: Hiawatha   
+      - date: 06/25/2015 11:10 AM
+        loc: Quanzhou
+        visitor: Mozambique F.C.   
+      - date: 05/17/2014 08:41 PM
+        loc: Cairo
+        visitor: Hiawatha   
+      - date: 01/15/2002 07:55 PM
+        loc: Tabriz
+        visitor: Tahiti Untd   
+      - date: 08/29/2001 01:56 PM
+        loc: Tabriz
+        visitor: FC Venice 89   
+      - date: 12/07/2017 06:46 PM
+        loc: Beijing
+        visitor: Osaka FT   
+    
+
+followers:
+  - sname: danjacq
+        full_name: Dany Jacquard
+        following: True   
+      - sname: bernarcool
+        full_name: Bernardo Maia Álvarez
+        following: False   
+      - sname: surinw
+        full_name: Surin () Wattanasin
+        following: False   
+      - sname: nopjira
+        full_name: Nopjira Gaysorn
+        following: False   
+      - sname: arthits
+        full_name: Arthit Sansurin
+        following: False   
+      - sname: wolitna
+        full_name: Wolitigna Adugna Mesay
+        following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: False   
+      - sname: arthits
+        full_name: Arthit Sansurin
+        following: True   
+      - sname: asamenzg
+        full_name: Asamenew Zewedu Gorfu
+        following: True   
+      - sname: georgess
+        full_name: Georges Solé
+        following: True   
+      - sname: mirabe
+        full_name: Mirabe Nahum Selassie
+        following: False   
+      - sname: robertam
+        full_name: Roberta Medeiros Menezes
+        following: True   
+    

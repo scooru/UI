@@ -1,0 +1,131 @@
+---
+team-id: 0005
+full_name: Långholmen Football Club
+short_name: Långholmens FC
+sname: lhfc
+loc: Stockholm
+df: 1943-03-23
+likes: 4215
+category: Association
+admins:
+  - name: hildrd
+  - name: tronblom
+  - name: ragnarlin
+
+about: >
+  Långholmen Football club was founded in 1943 and is now an important part of the sporting and social life of the extraterrestrial community in Stockholm.
+
+stats:
+  games: 515
+  possessions: 46%
+  goals: 247
+  saves: 200
+  win: 133:40%
+  loss: 149:41%
+
+players:
+    - sname: hildrd
+        full_name: Hildr D.
+        position: Goalkeeper    
+      - sname: tronblom
+        full_name: Tron Blom
+        position: Centre-back    
+      - sname: ragnarlin
+        full_name: Ragnar L.
+        position: Sweeper    
+      - sname: joelle
+        full_name: Joel L.
+        position: Full-back    
+      - sname: nicholas
+        full_name: Nick Lundh.
+        position: Wing-back    
+      - sname: tomburg
+        full_name: Thomas B.
+        position: Centre midfield    
+      - sname: stefilot
+        full_name: Stefani L.
+        position: Defensive midfield    
+      - sname: ojonss
+        full_name: Ogge J.
+        position: Attacking midfield    
+      - sname: joelljs
+        full_name: Joel LJS
+        position: Wide midfield    
+      - sname: pipifri
+        full_name: Pia Frisk
+        position: Centre forward    
+      - sname: fjohanss
+        full_name: Fia JHS
+        position: Second striker    
+    
+
+profpic:
+  - url: /Långholmen.png
+
+pics:
+  - url: /random-010.jpg
+    - url: /random-005.jpg
+    - url: /random-005.jpg
+    - url: /random-010.jpg
+    - url: /random-010.jpg
+    
+
+games:
+  - date: 02/21/2008 08:56 AM
+        loc: Quezon City
+        visitor: Kungsholmens FC   
+      - date: 05/09/2013 11:55 PM
+        loc: Quanzhou
+        visitor: Kungsholmens FC   
+      - date: 10/05/2015 05:08 AM
+        loc: Mandalay
+        visitor: FC Venice 89   
+      - date: 11/09/2004 02:46 AM
+        loc: London
+        visitor: Long Island   
+      - date: 10/27/2000 05:43 AM
+        loc: Beijing
+        visitor: Portland F.C.   
+      - date: 06/17/2013 01:23 PM
+        loc: Quezon City
+        visitor: Seattle F.C.   
+      - date: 10/04/2017 07:45 PM
+        loc: Quezon City
+        visitor: Tahiti Untd   
+    
+
+followers:
+  - sname: angelmoi
+        full_name: Angélique Ardouin
+        following: True   
+      - sname: sidneife
+        full_name: Sidnei Amaral Ferraz
+        following: True   
+      - sname: ojonss
+        full_name: Ögge Jönsson
+        following: False   
+      - sname: bossjira
+        full_name: Jirasak Srichure
+        following: True   
+      - sname: duchan
+        full_name: Duchanee Srisati
+        following: True   
+      - sname: pierrelv
+        full_name: Pierre-Louis Verninac
+        following: False   
+      - sname: banthornn
+        full_name: Banthorn Noppachorn
+        following: False   
+      - sname: francieg
+        full_name: Francine Gonçalves Caetano
+        following: True   
+      - sname: memman
+        full_name: Marcel Emmanuelli
+        following: False   
+      - sname: danjacq
+        full_name: Dany Jacquard
+        following: False   
+      - sname: Naseeb
+        full_name: Naseeba al-Yousuf
+        following: False   
+    

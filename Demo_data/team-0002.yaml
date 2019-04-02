@@ -1,0 +1,137 @@
+---
+team-id: 0002
+full_name: Sociedade Esportiva Palmeiras
+short_name: Palmeiras
+sname: palm
+loc: Sao Paulo
+df: 1942-09-14
+likes: 702
+category: Association
+admins:
+  - name: josehey
+  - name: francieg
+  - name: ddeduardo
+
+about: >
+  We’re a football club based in São Paulo, Brazil. The club was founded as Palestra Italia, but changed to the current name on September 14, 1942.
+
+stats:
+  games: 234
+  possessions: 47%
+  goals: 380
+  saves: 578
+  win: 250:47%
+  loss: 107:57%
+
+players:
+    - sname: tuuliioo
+        full_name: Tulio A.M.
+        position: Goalkeeper    
+      - sname: marcionf
+        full_name: Marcio Nasc
+        position: Centre-back    
+      - sname: iabellu
+        full_name: Iago M.B.
+        position: Sweeper    
+      - sname: sidneife
+        full_name: Sidnei Ama.
+        position: Full-back    
+      - sname: josehey
+        full_name: Jose H.B.
+        position: Wing-back    
+      - sname: francieg
+        full_name: Francine C.
+        position: Centre midfield    
+      - sname: ddeduardo
+        full_name: Eduardo D.
+        position: Defensive midfield    
+      - sname: bernarcool
+        full_name: Bernardo M.
+        position: Attacking midfield    
+      - sname: leandac
+        full_name: Leandro
+        position: Wide midfield    
+      - sname: vfds
+        full_name: Vinicius FdS
+        position: Centre forward    
+      - sname: robertam
+        full_name: Roberta Med.
+        position: Second striker    
+    
+
+profpic:
+  - url: /Palmeiras.png
+
+pics:
+  - url: /random-007.jpg
+    - url: /random-009.jpg
+    - url: /random-001.jpg
+    - url: /random-008.jpg
+    - url: /random-007.jpg
+    
+
+games:
+  - date: 02/09/2011 09:44 AM
+        loc: Cairo
+        visitor: FC Venice 89   
+      - date: 05/22/2006 06:20 AM
+        loc: Quanzhou
+        visitor: Hiawatha   
+      - date: 04/26/2003 03:04 PM
+        loc: Mandalay
+        visitor: Portland F.C.   
+      - date: 07/13/2015 08:22 AM
+        loc: Buenos Aires
+        visitor: Mozambique F.C.   
+      - date: 07/06/2005 10:55 PM
+        loc: Bengaluru
+        visitor: Long Island   
+      - date: 10/24/2008 12:58 PM
+        loc: Kawasaki
+        visitor: Kungsholmens FC   
+      - date: 06/20/2005 06:51 PM
+        loc: Mexico City
+        visitor: Long Island   
+    
+
+followers:
+  - sname: afewer
+        full_name: Afewerek Eyoel Abimelech
+        following: True   
+      - sname: ragnarlin
+        full_name: Ragnar Lindgren
+        following: False   
+      - sname: HeFaroo
+        full_name: Husni el-Farooqui
+        following: False   
+      - sname: memman
+        full_name: Marcel Emmanuelli
+        following: False   
+      - sname: robertam
+        full_name: Roberta Medeiros Menezes
+        following: True   
+      - sname: ahongha
+        full_name: Akkanee Honghannarong
+        following: True   
+      - sname: bernarcool
+        full_name: Bernardo Maia Álvarez
+        following: False   
+      - sname: brekime
+        full_name: Brehan Kidane Meles
+        following: False   
+      - sname: brekime
+        full_name: Brehan Kidane Meles
+        following: True   
+      - sname: banthornn
+        full_name: Banthorn Noppachorn
+        following: False   
+      - sname: HeFaroo
+        full_name: Husni el-Farooqui
+        following: False   
+      - sname: dibadiba
+        full_name: Abbas Diba
+        following: False   
+      - sname: ragnarlin
+        full_name: Ragnar Lindgren
+        following: True   
+    
