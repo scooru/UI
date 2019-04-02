@@ -115,9 +115,6 @@ followers:
       - sname: ahongha
         full_name: Akkanee Honghannarong
         following: True   
-      - sname: ahongha
-        full_name: Akkanee Honghannarong
-        following: True   
       - sname: maliwanc
         full_name: Maliwan Chaiprasit
         following: True   
@@ -129,10 +126,7 @@ followers:
         following: True   
       - sname: josehey
         full_name: José Hamada Barros
-        following: True   
-      - sname: banthornn
-        full_name: Banthorn Noppachorn
-        following: True   
+        following: True     
       - sname: robertam
         full_name: Roberta Medeiros Menezes
         following: False   
