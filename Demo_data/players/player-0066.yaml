@@ -1,0 +1,137 @@
+---
+player_id: 0066
+sname: maliwanc
+full_name: Maliwan Chaiprasit
+short_name: Maliwan C.
+loc: Bangkok
+dob: 1986-12-30
+likes: 979
+sports: football table-tennis tennis volleyball
+
+categories:
+  - cat: Indoor
+    pos: Wide midfield
+
+stats:
+  goals: 68
+  assists: 96
+  saves: 119
+  games: 286
+  hours: 1780
+
+teams:
+  - sname: pxfc
+    pos: Second striker
+
+games:
+  - date: 09/19/2006 01:34 PM
+    loc: Madrid
+    visitor: Phoenix F.C.
+    home: Tahiti Untd
+  - date: 11/20/2016 12:56 AM
+    loc: Busan
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 07/15/2009 01:50 PM
+    loc: Mexico City
+    visitor: Phoenix F.C.
+    home: Long Island
+  - date: 04/02/2012 09:14 PM
+    loc: Madrid
+    visitor: Phoenix F.C.
+    home: Osaka FT
+  - date: 05/01/2004 08:00 PM
+    loc: Cairo
+    home: Phoenix F.C.
+    visitor: Maui Pilots FC
+  - date: 05/11/2016 10:02 AM
+    loc: Quezon City
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+
+followers:
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: False
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+
+following:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+
+profpic:
+  - url: /player-prof-058.jpg
+
+pics:
+  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg
+  - url: /random-005.jpg
+  - url: /random-009.jpg
+  - url: /random-003.jpg
