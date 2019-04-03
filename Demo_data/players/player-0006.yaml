@@ -6,114 +6,109 @@ short_name: Behzad M
 loc: Dubai
 dob: 1977-07-26
 likes: 396
-sports: football
+sports: football golf badminton basketball tennis
 
 categories:
-  - cat: Beach
-    pos: Sweeper
+  - cat: Association
+    pos: Midfielder
 
 stats:
-  goals: 124
-  assists: 167
-  saves: 100
-  games: 101
-  hours: 587
+  goals: 72
+  assists: 72
+  saves: 87
+  games: 213
+  hours: 1220
 
 teams:
   - sname: awfc
     pos: Centre midfield
 
 games:
-  - date: 08/04/2004 05:33 AM
-    loc: Tabriz
-    home: Al-Wasl F.C.
-    visitor: Portland F.C.
-  - date: 01/03/2017 04:37 AM
+  - date: 02/12/2014 03:34 PM
     loc: Buenos Aires
+    visitor: Al-Wasl F.C.
+    home: FC Venice 89
+  - date: 11/22/2001 12:25 AM
+    loc: Busan
     home: Al-Wasl F.C.
-    visitor: Portland F.C.
-  - date: 07/11/2011 03:37 PM
-    loc: Córdoba
-    visitor: Al-Wasl F.C.
-    home: Long Island
-  - date: 02/24/2013 07:30 PM
-    loc: Córdoba
+    visitor: Tahiti Untd
+  - date: 01/28/2011 12:50 AM
+    loc: Mexico City
     home: Al-Wasl F.C.
-    visitor: Mozambique F.C.
-  - date: 04/13/2012 02:23 AM
-    loc: Isfahan
+    visitor: Seattle F.C.
+  - date: 04/22/2010 10:23 AM
+    loc: Busan
     visitor: Al-Wasl F.C.
-    home: Mozambique F.C.
-  - date: 02/03/2009 11:02 AM
-    loc: Oran
-    visitor: Al-Wasl F.C.
-    home: Tahiti Untd
+    home: Kungsholmens FC
 
 followers:
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: False
-  - sname: ruangri
-    full_name: Ruangrit Srisati
-    following: True
   - sname: nopjira
     full_name: Nopjira Gaysorn
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
-    following: True
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
-    following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: False
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
     following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+
+following:
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
   - sname: chirkobi
     full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
     following: True
   - sname: jeanpp
     full_name: Jean-Philippe Paquin
     following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
   - sname: asamenzg
     full_name: Asamenew Zewedu Gorfu
-    following: True
-
-following:
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
-    following: True
-  - sname: tomburg
-    full_name: Thomas Borg
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
     following: True
 
 profpic:
   - url: /player-prof-007.jpg
 
 pics:
-  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-009.jpg
   - url: /random-008.jpg
-  - url: /random-002.jpg

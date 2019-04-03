@@ -6,106 +6,110 @@ short_name: Siamak Y.
 loc: Dubai
 dob: 1979-12-29
 likes: 378
-sports: football badminton
+sports: football tennis
 
 categories:
-  - cat: Indoor
-    pos: Attacking midfield
+  - cat: Association
+    pos: Goalkeeper
 
 stats:
-  goals: 58
-  assists: 126
-  saves: 150
-  games: 273
-  hours: 887
+  goals: 83
+  assists: 128
+  saves: 119
+  games: 113
+  hours: 1238
 
 teams:
   - sname: awfc
     pos: Centre forward
 
 games:
-  - date: 08/23/2015 05:11 AM
-    loc: Quezon City
-    visitor: Al-Wasl F.C.
-    home: FC Venice 89
-  - date: 07/21/2012 12:42 AM
+  - date: 05/21/2002 05:09 PM
     loc: Fuzhou
     visitor: Al-Wasl F.C.
     home: Mozambique F.C.
-  - date: 09/20/2005 09:27 PM
-    loc: Busan
+  - date: 12/05/2006 10:42 PM
+    loc: Isfahan
     visitor: Al-Wasl F.C.
-    home: Hiawatha
-  - date: 09/24/2009 09:23 PM
-    loc: Mandalay
-    visitor: Al-Wasl F.C.
-    home: Seattle F.C.
-  - date: 09/24/2007 09:28 PM
-    loc: Mandalay
-    visitor: Al-Wasl F.C.
-    home: Long Island
-  - date: 11/04/2007 03:05 AM
-    loc: Tabriz
+    home: Portland F.C.
+  - date: 09/12/2013 06:44 AM
+    loc: Fuzhou
     home: Al-Wasl F.C.
-    visitor: Seattle F.C.
+    visitor: Osaka FT
+  - date: 11/18/2004 12:42 AM
+    loc: Quezon City
+    visitor: Al-Wasl F.C.
+    home: Kungsholmens FC
 
 followers:
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
     following: False
   - sname: ahongha
     full_name: Akkanee Honghannarong
     following: False
-  - sname: iabellu
-    full_name: Iago Martins Belluci
-    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
   - sname: ragnarlin
     full_name: Ragnar Lindgren
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
     following: True
-  - sname: samana
-    full_name: Saman Arabnia
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+
+following:
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
     following: True
   - sname: marcionf
     full_name: Márcio Nascimento Furtado
     following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
-    following: False
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
-    following: False
-
-following:
-  - sname: bossjira
-    full_name: Jirasak Srichure
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
     following: True
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
     following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
-    following: True
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
-    following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: MrTaheri
+    full_name: Taghi Taheri
     following: True
 
 profpic:
   - url: /player-prof-005.jpg
 
 pics:
+  - url: /random-008.jpg
   - url: /random-009.jpg
-  - url: /random-001.jpg
-  - url: /random-007.jpg
-  - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-005.jpg

@@ -6,103 +6,131 @@ short_name: Aymeric C.
 loc: Paris
 dob: 1983-09-04
 likes: 197
-sports: football cricket
+sports: football badminton tennis baseball
 
 categories:
-  - cat: Paralympic
-    pos: Winger
+  - cat: Futsal
+    pos: Wide midfield
 
 stats:
-  goals: 105
-  assists: 53
-  saves: 78
-  games: 155
-  hours: 1771
+  goals: 73
+  assists: 161
+  saves: 129
+  games: 219
+  hours: 1084
 
 teams:
   - sname: fm91
     pos: Wing-back
 
 games:
-  - date: 04/07/2000 09:40 PM
-    loc: Córdoba
-    home: FC Fleury 91
-    visitor: FC Venice 89
-  - date: 04/19/2003 11:50 AM
-    loc: London
-    visitor: FC Fleury 91
-    home: Long Island
-  - date: 05/31/2009 02:29 PM
-    loc: Beijing
-    visitor: FC Fleury 91
-    home: Kungsholmens FC
-  - date: 04/12/2014 02:12 PM
-    loc: Havana
+  - date: 02/11/2007 02:54 AM
+    loc: Quanzhou
     home: FC Fleury 91
     visitor: Kungsholmens FC
-  - date: 03/28/2006 12:14 AM
-    loc: Tabriz
+  - date: 02/24/2010 12:30 PM
+    loc: Mexico City
     visitor: FC Fleury 91
-    home: Maui Pilots FC
+    home: Seattle F.C.
+  - date: 01/30/2001 08:29 PM
+    loc: Havana
+    home: FC Fleury 91
+    visitor: Osaka FT
+  - date: 08/07/2013 04:58 AM
+    loc: Madrid
+    visitor: FC Fleury 91
+    home: Osaka FT
+  - date: 06/11/2012 04:17 AM
+    loc: Quanzhou
+    home: FC Fleury 91
+    visitor: Osaka FT
+  - date: 01/01/2008 05:14 AM
+    loc: Córdoba
+    visitor: FC Fleury 91
+    home: FC Venice 89
+  - date: 05/08/2000 08:17 AM
+    loc: Córdoba
+    visitor: FC Fleury 91
+    home: Mozambique F.C.
 
 followers:
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: aymchill
+    full_name: Aymeric Chéreau
+    following: False
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
     following: True
   - sname: bernarcool
     full_name: Bernardo Maia Álvarez
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
     following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
     following: True
-  - sname: iabellu
-    full_name: Iago Martins Belluci
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+
+following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
     following: True
   - sname: jeneve
     full_name: Jeneve Dessalegne Tessema
     following: True
-  - sname: memman
-    full_name: Marcel Emmanuelli
-    following: False
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+  - sname: ruangri
+    full_name: Ruangrit Srisati
     following: True
-
-following:
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
     following: True
-  - sname: ahongha
-    full_name: Akkanee Honghannarong
-    following: True
-  - sname: angelmoi
-    full_name: Angélique Ardouin
-    following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
-    following: True
-  - sname: tomburg
-    full_name: Thomas Borg
-    following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
-    following: True
-  - sname: duchan
-    full_name: Duchanee Srisati
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
 
 profpic:
   - url: /player-prof-044.jpg
 
 pics:
-  - url: /random-010.jpg
   - url: /random-008.jpg
-  - url: /random-001.jpg
-  - url: /random-009.jpg
-  - url: /random-006.jpg
+  - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-003.jpg

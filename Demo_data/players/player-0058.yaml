@@ -6,121 +6,117 @@ short_name: Athit S.
 loc: Bangkok
 dob: 1981-08-04
 likes: 624
-sports: football cricket table-tennis volleyball tennis
+sports: football golf
 
 categories:
-  - cat: Indoor
-    pos: Wide midfield
+  - cat: Paralympic
+    pos: Centre-back
 
 stats:
-  goals: 98
-  assists: 180
-  saves: 69
-  games: 106
-  hours: 1874
+  goals: 150
+  assists: 63
+  saves: 105
+  games: 216
+  hours: 655
 
 teams:
   - sname: pxfc
     pos: Sweeper
 
 games:
-  - date: 01/21/2009 05:58 AM
-    loc: Madrid
+  - date: 05/06/2007 01:06 PM
+    loc: Kawasaki
     visitor: Phoenix F.C.
     home: Long Island
-  - date: 01/01/2016 02:38 PM
-    loc: London
-    home: Phoenix F.C.
-    visitor: Osaka FT
-  - date: 07/25/2017 12:36 AM
-    loc: Busan
+  - date: 03/27/2003 03:05 PM
+    loc: Quezon City
     home: Phoenix F.C.
     visitor: FC Venice 89
-  - date: 09/27/2002 09:53 PM
-    loc: Cairo
+  - date: 04/29/2012 10:59 PM
+    loc: Havana
+    home: Phoenix F.C.
+    visitor: FC Venice 89
+  - date: 06/08/2006 05:23 AM
+    loc: Kawasaki
+    home: Phoenix F.C.
+    visitor: Long Island
+  - date: 06/17/2013 11:37 PM
+    loc: Beijing
+    home: Phoenix F.C.
+    visitor: FC Venice 89
+  - date: 06/08/2008 11:50 AM
+    loc: São Paulo
     visitor: Phoenix F.C.
-    home: Long Island
+    home: Seattle F.C.
+  - date: 02/02/2002 10:52 PM
+    loc: Kawasaki
+    home: Phoenix F.C.
+    visitor: Long Island
 
 followers:
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
-    following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: False
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: False
-  - sname: hasan
-    full_name: Hasan el-Matin
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
     following: True
   - sname: duchan
     full_name: Duchanee Srisati
     following: False
-  - sname: arzhang
-    full_name: Arzhang Moshiri
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
     following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
+  - sname: stefilot
+    full_name: Stefan Lötvall
     following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: False
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: False
 
 following:
-  - sname: pipifri
-    full_name: Pia Frisk
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
     following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
     following: True
-  - sname: samana
-    full_name: Saman Arabnia
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
     following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
     following: True
-  - sname: josehey
-    full_name: José Hamada Barros
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
     following: True
 
 profpic:
   - url: /player-prof-059.jpg
 
 pics:
-  - url: /random-007.jpg
-  - url: /random-001.jpg
-  - url: /random-010.jpg
-  - url: /random-003.jpg
-  - url: /random-002.jpg
   - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg
+  - url: /random-004.jpg

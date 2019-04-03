@@ -6,125 +6,118 @@ short_name: Safwaan A.Y.
 loc: Dubai
 dob: 1977-05-17
 likes: 279
-sports: football volleyball
+sports: football
 
 categories:
-  - cat: Association
-    pos: Wide midfield
+  - cat: Beach
+    pos: Sweeper
 
 stats:
-  goals: 95
-  assists: 162
+  goals: 46
+  assists: 64
   saves: 95
-  games: 278
-  hours: 705
+  games: 84
+  hours: 1274
 
 teams:
   - sname: awfc
     pos: Wing-back
 
 games:
-  - date: 05/07/2001 02:44 PM
-    loc: Beijing
+  - date: 10/05/2013 12:55 PM
+    loc: Buenos Aires
     home: Al-Wasl F.C.
-    visitor: Maui Pilots FC
-  - date: 06/14/2004 10:56 AM
-    loc: Oran
+    visitor: Kungsholmens FC
+  - date: 12/02/2013 02:42 AM
+    loc: Bengaluru
     visitor: Al-Wasl F.C.
-    home: Seattle F.C.
-  - date: 10/11/2006 10:25 PM
-    loc: Córdoba
-    home: Al-Wasl F.C.
-    visitor: Portland F.C.
-  - date: 10/09/2010 11:13 AM
-    loc: Busan
+    home: Hiawatha
+  - date: 04/30/2008 12:31 AM
+    loc: London
     visitor: Al-Wasl F.C.
     home: Maui Pilots FC
-  - date: 10/07/2013 10:14 AM
-    loc: Kawasaki
+  - date: 07/05/2004 02:18 AM
+    loc: Bengaluru
     visitor: Al-Wasl F.C.
-    home: Seattle F.C.
+    home: Long Island
+  - date: 10/10/2011 07:55 PM
+    loc: Kawasaki
+    home: Al-Wasl F.C.
+    visitor: FC Venice 89
+  - date: 01/12/2010 12:51 PM
+    loc: Córdoba
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 02/08/2017 12:23 AM
+    loc: Beijing
+    visitor: Al-Wasl F.C.
+    home: Long Island
 
 followers:
-  - sname: stefilot
-    full_name: Stefan Lötvall
-    following: True
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: False
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
     following: True
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
-    following: True
-  - sname: iabellu
-    full_name: Iago Martins Belluci
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: False
-  - sname: josehey
-    full_name: José Hamada Barros
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: False
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: False
-  - sname: hasan
-    full_name: Hasan el-Matin
+  - sname: dibadiba
+    full_name: Abbas Diba
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
     following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: True
 
 following:
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
+  - sname: fjohanss
+    full_name: Fia Johannesson
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
-    following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
-    following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: ruangri
+    full_name: Ruangrit Srisati
     following: True
   - sname: hasan
     full_name: Hasan el-Matin
-    following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
     following: True
   - sname: arzhang
     full_name: Arzhang Moshiri
     following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
     following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: True
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
 
 profpic:
   - url: /player-prof-006.jpg
 
 pics:
-  - url: /random-003.jpg
-  - url: /random-006.jpg
-  - url: /random-009.jpg
-  - url: /random-007.jpg
-  - url: /random-001.jpg
+  - url: /random-008.jpg
   - url: /random-002.jpg
+  - url: /random-006.jpg
+  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg

@@ -6,109 +6,106 @@ short_name: Gulema Y.M.
 loc: Addis Ababa
 dob: 1990-04-04
 likes: 406
-sports: football cricket golf table-tennis baseball
+sports: football volleyball basketball table-tennis
 
 categories:
-  - cat: Association
-    pos: Wide midfield
+  - cat: Futsal
+    pos: Full-back
 
 stats:
-  goals: 144
-  assists: 152
-  saves: 113
-  games: 296
-  hours: 1130
+  goals: 142
+  assists: 90
+  saves: 44
+  games: 261
+  hours: 1950
 
 teams:
   - sname: enft
     pos: Centre-back
 
 games:
-  - date: 11/15/2009 02:25 AM
-    loc: Buenos Aires
-    home: Ethiopian FT
-    visitor: Seattle F.C.
-  - date: 02/24/2014 07:56 PM
-    loc: Quanzhou
-    home: Ethiopian FT
-    visitor: Portland F.C.
-  - date: 05/30/2017 11:30 AM
+  - date: 08/28/2013 03:46 PM
     loc: Mandalay
     home: Ethiopian FT
-    visitor: Long Island
-  - date: 10/05/2017 06:48 PM
-    loc: Oran
+    visitor: Hiawatha
+  - date: 04/22/2002 06:56 PM
+    loc: Mexico City
     visitor: Ethiopian FT
-    home: Tahiti Untd
-  - date: 03/17/2007 01:07 AM
+    home: Maui Pilots FC
+  - date: 04/10/2008 10:51 AM
     loc: São Paulo
+    visitor: Ethiopian FT
+    home: Portland F.C.
+  - date: 07/28/2005 07:35 AM
+    loc: Busan
+    visitor: Ethiopian FT
+    home: Osaka FT
+  - date: 02/23/2007 05:05 AM
+    loc: Buenos Aires
     visitor: Ethiopian FT
     home: Long Island
 
 followers:
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: True
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
-    following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: False
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: False
   - sname: MrTaheri
     full_name: Taghi Taheri
     following: False
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
-    following: False
+
+following:
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
   - sname: nicholas
     full_name: Nicholas Lundholm
     following: True
-  - sname: ojonss
-    full_name: Ögge Jönsson
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
     following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: False
-  - sname: memman
-    full_name: Marcel Emmanuelli
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: True
-
-following:
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
     following: True
-  - sname: bossjira
-    full_name: Jirasak Srichure
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: True
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
+  - sname: dibadiba
+    full_name: Abbas Diba
     following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
     following: True
 
 profpic:
   - url: /player-prof-025.jpg
 
 pics:
-  - url: /random-001.jpg
-  - url: /random-007.jpg
-  - url: /random-010.jpg
+  - url: /random-006.jpg
+  - url: /random-003.jpg
   - url: /random-009.jpg
   - url: /random-008.jpg
+  - url: /random-002.jpg

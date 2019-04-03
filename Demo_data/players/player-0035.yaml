@@ -6,122 +6,88 @@ short_name: George S.
 loc: Paris
 dob: 1982-11-29
 likes: 455
-sports: football badminton baseball
+sports: football
 
 categories:
-  - cat: Paralympic
-    pos: Defensive midfield
+  - cat: Beach
+    pos: Centre forward
 
 stats:
-  goals: 97
-  assists: 140
-  saves: 115
-  games: 170
-  hours: 788
+  goals: 98
+  assists: 109
+  saves: 62
+  games: 116
+  hours: 995
 
 teams:
   - sname: fm91
     pos: Centre-back
 
 games:
-  - date: 04/13/2001 01:20 PM
-    loc: Madrid
+  - date: 03/15/2008 06:45 AM
+    loc: Beijing
     visitor: FC Fleury 91
-    home: Kungsholmens FC
-  - date: 08/20/2009 07:40 AM
-    loc: Madrid
+    home: Mozambique F.C.
+  - date: 10/06/2011 06:10 AM
+    loc: Busan
     home: FC Fleury 91
-    visitor: Long Island
-  - date: 11/18/2008 09:56 PM
-    loc: London
+    visitor: Maui Pilots FC
+  - date: 12/25/2007 04:54 AM
+    loc: Isfahan
+    visitor: FC Fleury 91
+    home: Long Island
+  - date: 02/19/2003 09:28 AM
+    loc: Quezon City
     home: FC Fleury 91
-    visitor: Mozambique F.C.
-  - date: 04/22/2016 06:10 PM
-    loc: Fuzhou
-    visitor: FC Fleury 91
-    home: Portland F.C.
-  - date: 07/31/2005 09:41 PM
-    loc: Cairo
-    visitor: FC Fleury 91
-    home: Osaka FT
+    visitor: Osaka FT
 
 followers:
-  - sname: samana
-    full_name: Saman Arabnia
-    following: True
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: False
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+  - sname: arthits
+    full_name: Arthit Sansurin
     following: False
-  - sname: angelmoi
-    full_name: Angélique Ardouin
-    following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: False
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
-    following: True
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: False
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
-    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
 
 following:
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: georgess
+    full_name: Georges Solé
     following: True
   - sname: mahdaviB
     full_name: Behzad Mahdavi
     following: True
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
     following: True
   - sname: ragnarlin
     full_name: Ragnar Lindgren
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
 
 profpic:
   - url: /player-prof-035.jpg
 
 pics:
-  - url: /random-006.jpg
-  - url: /random-003.jpg
-  - url: /random-005.jpg
+  - url: /random-002.jpg
   - url: /random-009.jpg
-  - url: /random-004.jpg
   - url: /random-007.jpg

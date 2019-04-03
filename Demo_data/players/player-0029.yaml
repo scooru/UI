@@ -6,101 +6,115 @@ short_name: Girma K.
 loc: Addis Ababa
 dob: 1977-04-06
 likes: 655
-sports: football baseball cricket field-hockey
+sports: football baseball golf table-tennis basketball
 
 categories:
   - cat: Association
-    pos: Second striker
+    pos: Forward
 
 stats:
-  goals: 41
-  assists: 141
-  saves: 117
-  games: 178
-  hours: 1840
+  goals: 82
+  assists: 91
+  saves: 140
+  games: 289
+  hours: 625
 
 teams:
   - sname: enft
     pos: Defensive midfield
 
 games:
-  - date: 06/12/2013 05:41 PM
-    loc: London
-    home: Ethiopian FT
-    visitor: Long Island
-  - date: 11/16/2012 10:18 AM
+  - date: 02/07/2014 02:31 PM
     loc: Mexico City
     visitor: Ethiopian FT
-    home: FC Venice 89
-  - date: 09/07/2008 12:16 AM
-    loc: Kawasaki
-    home: Ethiopian FT
-    visitor: FC Venice 89
-  - date: 08/26/2008 03:21 PM
-    loc: Beijing
+    home: Kungsholmens FC
+  - date: 02/13/2003 06:41 AM
+    loc: Tabriz
     visitor: Ethiopian FT
-    home: FC Venice 89
+    home: Tahiti Untd
+  - date: 10/12/2016 08:55 AM
+    loc: Isfahan
+    home: Ethiopian FT
+    visitor: Long Island
+  - date: 04/24/2001 06:31 AM
+    loc: Tabriz
+    visitor: Ethiopian FT
+    home: Osaka FT
+  - date: 12/04/2013 08:49 PM
+    loc: Beijing
+    home: Ethiopian FT
+    visitor: Kungsholmens FC
+  - date: 08/11/2001 07:27 AM
+    loc: São Paulo
+    visitor: Ethiopian FT
+    home: Long Island
 
 followers:
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: True
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
-    following: True
-  - sname: iabellu
-    full_name: Iago Martins Belluci
+  - sname: mettepast
+    full_name: Guillemette Pasteur
     following: False
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: False
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: True
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
-    following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: True
-
-following:
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
     following: True
   - sname: surinw
     full_name: Surin () Wattanasin
     following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: False
+
+following:
+  - sname: musad
+    full_name: Musaddiq al-Pirani
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: True
   - sname: brekime
     full_name: Brehan Kidane Meles
     following: True
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
     following: True
   - sname: Safwa
     full_name: Safwaan el-Koroma
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: True
 
 profpic:
   - url: /player-prof-031.jpg
 
 pics:
-  - url: /random-010.jpg
+  - url: /random-008.jpg
+  - url: /random-004.jpg
   - url: /random-009.jpg
-  - url: /random-002.jpg
   - url: /random-007.jpg

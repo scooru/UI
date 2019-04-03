@@ -6,123 +6,103 @@ short_name: Mira N.S.
 loc: Addis Ababa
 dob: 1976-04-29
 likes: 339
-sports: football basketball tennis baseball
+sports: football volleyball
 
 categories:
-  - cat: Association
-    pos: Wide midfield
+  - cat: Street
+    pos: Defender
 
 stats:
-  goals: 50
-  assists: 180
-  saves: 43
-  games: 254
-  hours: 1689
+  goals: 148
+  assists: 152
+  saves: 116
+  games: 210
+  hours: 1885
 
 teams:
   - sname: enft
     pos: Centre midfield
 
 games:
-  - date: 07/21/2011 06:13 PM
-    loc: Busan
-    home: Ethiopian FT
-    visitor: Hiawatha
-  - date: 06/28/2008 04:25 PM
-    loc: Beijing
-    home: Ethiopian FT
-    visitor: Osaka FT
-  - date: 07/01/2004 05:11 PM
-    loc: Córdoba
-    home: Ethiopian FT
-    visitor: Kungsholmens FC
-  - date: 07/21/2016 12:53 PM
-    loc: London
+  - date: 01/10/2003 12:37 AM
+    loc: São Paulo
     visitor: Ethiopian FT
     home: Kungsholmens FC
-  - date: 10/22/2002 07:21 AM
-    loc: Fuzhou
+  - date: 10/28/2013 04:19 AM
+    loc: Cairo
     visitor: Ethiopian FT
-    home: Maui Pilots FC
-  - date: 06/29/2015 03:56 PM
-    loc: Quezon City
+    home: Tahiti Untd
+  - date: 01/11/2001 12:43 PM
+    loc: Bengaluru
     visitor: Ethiopian FT
-    home: Portland F.C.
+    home: Osaka FT
+  - date: 07/15/2009 12:26 AM
+    loc: Madrid
+    visitor: Ethiopian FT
+    home: Tahiti Untd
 
 followers:
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
   - sname: robertam
     full_name: Roberta Medeiros Menezes
     following: True
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
   - sname: jeanpp
     full_name: Jean-Philippe Paquin
     following: False
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
     following: False
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: True
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
-    following: True
-  - sname: ojonss
-    full_name: Ögge Jönsson
+  - sname: arthits
+    full_name: Arthit Sansurin
     following: False
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: True
-  - sname: brekime
-    full_name: Brehan Kidane Meles
-    following: False
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
 
 following:
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
   - sname: ahongha
     full_name: Akkanee Honghannarong
     following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
     following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
     following: True
   - sname: georgess
     full_name: Georges Solé
     following: True
-  - sname: musad
-    full_name: Musaddiq al-Pirani
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: True
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: True
-  - sname: angelmoi
-    full_name: Angélique Ardouin
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
+  - sname: josehey
+    full_name: José Hamada Barros
     following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
     following: True
 
 profpic:
   - url: /player-prof-028.jpg
 
 pics:
-  - url: /random-002.jpg
-  - url: /random-009.jpg
   - url: /random-003.jpg
+  - url: /random-010.jpg
   - url: /random-004.jpg
-  - url: /random-006.jpg
-  - url: /random-005.jpg

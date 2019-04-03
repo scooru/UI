@@ -6,115 +6,112 @@ short_name: Guillemette
 loc: Paris
 dob: 1984-05-15
 likes: 502
-sports: football baseball volleyball
+sports: football cricket
 
 categories:
-  - cat: Futsal
-    pos: Centre midfield
+  - cat: Indoor
+    pos: Defender
 
 stats:
-  goals: 112
-  assists: 99
-  saves: 107
-  games: 228
-  hours: 1899
+  goals: 121
+  assists: 84
+  saves: 143
+  games: 221
+  hours: 1304
 
 teams:
   - sname: fm91
     pos: Defensive midfield
 
 games:
-  - date: 12/10/2014 01:21 PM
-    loc: Bengaluru
+  - date: 01/15/2006 07:38 PM
+    loc: Beijing
     home: FC Fleury 91
-    visitor: Kungsholmens FC
-  - date: 12/01/2017 05:15 PM
-    loc: Cairo
-    home: FC Fleury 91
-    visitor: Long Island
-  - date: 02/09/2001 03:32 AM
-    loc: Mexico City
-    home: FC Fleury 91
-    visitor: Osaka FT
-  - date: 10/01/2016 05:51 PM
+    visitor: Mozambique F.C.
+  - date: 11/27/2000 11:43 AM
+    loc: Oran
+    visitor: FC Fleury 91
+    home: Mozambique F.C.
+  - date: 11/06/2007 03:19 PM
+    loc: Quanzhou
+    visitor: FC Fleury 91
+    home: Maui Pilots FC
+  - date: 08/17/2013 05:02 AM
     loc: Córdoba
     visitor: FC Fleury 91
     home: Seattle F.C.
+  - date: 12/27/2000 03:36 AM
+    loc: Bengaluru
+    visitor: FC Fleury 91
+    home: Seattle F.C.
+  - date: 05/25/2002 07:44 AM
+    loc: Quanzhou
+    visitor: FC Fleury 91
+    home: Maui Pilots FC
+  - date: 06/06/2011 10:07 AM
+    loc: Bengaluru
+    visitor: FC Fleury 91
+    home: Portland F.C.
 
 followers:
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: False
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
     following: True
   - sname: wolitna
     full_name: Wolitigna Adugna Mesay
     following: False
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: fjohanss
+    full_name: Fia Johannesson
     following: False
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
-    following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
-    following: False
-  - sname: lexrox
-    full_name: Alexis Gaubert
-    following: True
-  - sname: ojonss
-    full_name: Ögge Jönsson
-    following: True
-  - sname: tomburg
-    full_name: Thomas Borg
-    following: True
-  - sname: pipifri
-    full_name: Pia Frisk
-    following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: False
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
-    following: False
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
-    following: False
-
-following:
-  - sname: surinw
-    full_name: Surin () Wattanasin
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
-    following: True
   - sname: marcionf
     full_name: Márcio Nascimento Furtado
     following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: nicholas
+    full_name: Nicholas Lundholm
     following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
     following: True
-  - sname: hasan
-    full_name: Hasan el-Matin
+
+following:
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: stefilot
+    full_name: Stefan Lötvall
     following: True
   - sname: jeanpp
     full_name: Jean-Philippe Paquin
     following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: georgess
+    full_name: Georges Solé
     following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: True
-  - sname: tomburg
-    full_name: Thomas Borg
+  - sname: arthits
+    full_name: Arthit Sansurin
     following: True
 
 profpic:
   - url: /player-prof-038.jpg
 
 pics:
-  - url: /random-010.jpg
-  - url: /random-001.jpg
-  - url: /random-005.jpg
+  - url: /random-003.jpg
+  - url: /random-007.jpg
+  - url: /random-004.jpg

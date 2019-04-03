@@ -6,103 +6,109 @@ short_name: Hanuman K.
 loc: Bangkok
 dob: 1983-03-19
 likes: 860
-sports: football basketball field-hockey baseball golf
+sports: football tennis
 
 categories:
-  - cat: Association
-    pos: Full-back
+  - cat: Paralympic
+    pos: Defender
 
 stats:
-  goals: 125
-  assists: 147
-  saves: 126
-  games: 173
-  hours: 1467
+  goals: 73
+  assists: 176
+  saves: 147
+  games: 158
+  hours: 1375
 
 teams:
   - sname: pxfc
     pos: Full-back
 
 games:
-  - date: 05/18/2006 11:07 PM
-    loc: Beijing
-    visitor: Phoenix F.C.
-    home: Hiawatha
-  - date: 04/08/2000 04:37 PM
-    loc: Madrid
-    visitor: Phoenix F.C.
-    home: FC Venice 89
-  - date: 01/18/2017 04:37 AM
-    loc: London
-    home: Phoenix F.C.
-    visitor: Tahiti Untd
-  - date: 01/06/2006 03:11 PM
-    loc: Mexico City
-    visitor: Phoenix F.C.
-    home: Seattle F.C.
-  - date: 08/08/2009 11:01 AM
-    loc: Fuzhou
+  - date: 07/25/2012 02:41 PM
+    loc: Busan
     home: Phoenix F.C.
     visitor: Mozambique F.C.
-  - date: 10/27/2008 10:52 AM
+  - date: 10/16/2011 05:59 PM
+    loc: Isfahan
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+  - date: 02/18/2007 04:06 PM
+    loc: São Paulo
+    home: Phoenix F.C.
+    visitor: Osaka FT
+  - date: 05/24/2002 10:06 AM
     loc: Córdoba
-    home: Phoenix F.C.
-    visitor: Long Island
-  - date: 08/02/2003 07:45 PM
-    loc: Oran
-    home: Phoenix F.C.
-    visitor: Portland F.C.
+    visitor: Phoenix F.C.
+    home: Mozambique F.C.
 
 followers:
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
+  - sname: bossjira
+    full_name: Jirasak Srichure
     following: True
-  - sname: brekime
-    full_name: Brehan Kidane Meles
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: True
   - sname: wolitna
     full_name: Wolitigna Adugna Mesay
     following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: tomburg
+    full_name: Thomas Borg
     following: True
-
-following:
-  - sname: danjacq
-    full_name: Dany Jacquard
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: False
   - sname: mettepast
     full_name: Guillemette Pasteur
     following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+
+following:
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
   - sname: memman
     full_name: Marcel Emmanuelli
     following: True
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
     following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
 
 profpic:
   - url: /player-prof-066.jpg
 
 pics:
-  - url: /random-003.jpg
-  - url: /random-010.jpg
-  - url: /random-004.jpg
-  - url: /random-007.jpg
-  - url: /random-001.jpg
   - url: /random-005.jpg
+  - url: /random-001.jpg
+  - url: /random-009.jpg

@@ -6,124 +6,109 @@ short_name: Jirasak S.
 loc: Bangkok
 dob: 1986-08-15
 likes: 948
-sports: football field-hockey cricket table-tennis
+sports: football baseball
 
 categories:
-  - cat: Paralympic
-    pos: Wing-back
+  - cat: Association
+    pos: Centre midfield
 
 stats:
-  goals: 119
-  assists: 168
-  saves: 106
-  games: 179
-  hours: 1197
+  goals: 135
+  assists: 156
+  saves: 64
+  games: 260
+  hours: 729
 
 teams:
   - sname: pxfc
     pos: Wide midfield
 
 games:
-  - date: 07/23/2015 12:46 PM
-    loc: Mandalay
-    visitor: Phoenix F.C.
-    home: Long Island
-  - date: 10/05/2003 06:39 AM
-    loc: Córdoba
-    visitor: Phoenix F.C.
-    home: Portland F.C.
-  - date: 09/02/2014 01:31 PM
-    loc: Fuzhou
+  - date: 06/15/2006 09:53 PM
+    loc: London
     home: Phoenix F.C.
-    visitor: Long Island
-  - date: 10/12/2012 02:53 PM
-    loc: Fuzhou
+    visitor: Mozambique F.C.
+  - date: 06/19/2009 04:18 AM
+    loc: London
+    home: Phoenix F.C.
+    visitor: FC Venice 89
+  - date: 04/05/2015 06:00 AM
+    loc: London
+    home: Phoenix F.C.
+    visitor: Hiawatha
+  - date: 07/05/2003 07:11 PM
+    loc: London
     visitor: Phoenix F.C.
     home: Hiawatha
-  - date: 03/26/2010 03:02 AM
-    loc: Fuzhou
-    visitor: Phoenix F.C.
-    home: Long Island
-  - date: 09/07/2006 05:54 PM
-    loc: Mandalay
-    home: Phoenix F.C.
-    visitor: Long Island
 
 followers:
-  - sname: ruangri
-    full_name: Ruangrit Srisati
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
     following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
-    following: False
-  - sname: angelmoi
-    full_name: Angélique Ardouin
-    following: False
-  - sname: memman
-    full_name: Marcel Emmanuelli
-    following: False
-  - sname: musad
-    full_name: Musaddiq al-Pirani
-    following: False
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
-    following: False
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
-    following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
-    following: True
-  - sname: samana
-    full_name: Saman Arabnia
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
     following: True
 
 following:
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: True
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: True
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
-    following: True
-  - sname: memman
-    full_name: Marcel Emmanuelli
-    following: True
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
   - sname: Safwa
     full_name: Safwaan el-Koroma
     following: True
-  - sname: samana
-    full_name: Saman Arabnia
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
     following: True
   - sname: zewdster
     full_name: Zewdnesh Tesfa Galawdeyos
     following: True
-  - sname: angelmoi
-    full_name: Angélique Ardouin
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: nopjira
-    full_name: Nopjira Gaysorn
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
   - sname: jeneve
     full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
     following: True
 
 profpic:
   - url: /player-prof-061.jpg
 
 pics:
-  - url: /random-007.jpg
-  - url: /random-001.jpg
-  - url: /random-005.jpg
-  - url: /random-010.jpg
+  - url: /random-004.jpg
+  - url: /random-003.jpg
+  - url: /random-002.jpg
+  - url: /random-006.jpg
+  - url: /random-009.jpg
+  - url: /random-008.jpg

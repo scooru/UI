@@ -6,91 +6,98 @@ short_name: Taghi Taheri
 loc: Dubai
 dob: 1978-12-19
 likes: 270
-sports: football table-tennis field-hockey tennis basketball
+sports: football baseball
 
 categories:
-  - cat: Indoor
-    pos: Defender
+  - cat: Beach
+    pos: Forward
 
 stats:
-  goals: 74
-  assists: 74
-  saves: 46
-  games: 190
-  hours: 795
+  goals: 129
+  assists: 189
+  saves: 132
+  games: 139
+  hours: 1346
 
 teams:
   - sname: awfc
     pos: Attacking midfield
 
 games:
-  - date: 11/04/2014 08:04 PM
-    loc: Mandalay
-    home: Al-Wasl F.C.
-    visitor: Maui Pilots FC
-  - date: 01/19/2001 10:18 AM
-    loc: Kawasaki
-    home: Al-Wasl F.C.
-    visitor: Long Island
-  - date: 11/07/2006 07:15 PM
-    loc: Quanzhou
+  - date: 08/29/2016 05:30 AM
+    loc: Isfahan
     home: Al-Wasl F.C.
     visitor: Seattle F.C.
-  - date: 10/13/2001 02:49 AM
-    loc: Quezon City
+  - date: 02/10/2014 05:26 PM
+    loc: Cairo
     home: Al-Wasl F.C.
-    visitor: FC Venice 89
+    visitor: Long Island
+  - date: 10/12/2014 02:00 AM
+    loc: Tabriz
+    home: Al-Wasl F.C.
+    visitor: Mozambique F.C.
+  - date: 07/31/2012 02:46 PM
+    loc: Beijing
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+  - date: 03/25/2002 01:59 PM
+    loc: Buenos Aires
+    home: Al-Wasl F.C.
+    visitor: Tahiti Untd
 
 followers:
-  - sname: ruangri
-    full_name: Ruangrit Srisati
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
     following: False
-  - sname: nicholas
-    full_name: Nicholas Lundholm
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: False
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
+  - sname: surinw
+    full_name: Surin () Wattanasin
     following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
     following: False
 
 following:
-  - sname: tomburg
-    full_name: Thomas Borg
+  - sname: samana
+    full_name: Saman Arabnia
     following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: True
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
-    following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
-    following: True
-  - sname: ahongha
-    full_name: Akkanee Honghannarong
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
     following: True
   - sname: HeFaroo
     full_name: Husni el-Farooqui
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
     following: True
 
 profpic:
   - url: /player-prof-010.jpg
 
 pics:
-  - url: /random-004.jpg
+  - url: /random-007.jpg
   - url: /random-006.jpg
-  - url: /random-009.jpg
   - url: /random-010.jpg
-  - url: /random-002.jpg
-  - url: /random-001.jpg

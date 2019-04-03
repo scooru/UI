@@ -6,92 +6,128 @@ short_name: Leandro
 loc: Sao Paulo
 dob: 1987-07-14
 likes: 538
-sports: football volleyball baseball
+sports: football volleyball
 
 categories:
   - cat: Indoor
-    pos: Second striker
+    pos: Centre-back
 
 stats:
-  goals: 42
-  assists: 163
-  saves: 52
-  games: 250
-  hours: 1164
+  goals: 109
+  assists: 140
+  saves: 58
+  games: 99
+  hours: 1391
 
 teams:
   - sname: palm
     pos: Wide midfield
 
 games:
-  - date: 11/03/2005 03:30 AM
-    loc: Buenos Aires
-    home: Palmeiras
-    visitor: Portland F.C.
-  - date: 01/15/2000 07:38 PM
-    loc: Tabriz
-    home: Palmeiras
-    visitor: FC Venice 89
-  - date: 11/07/2004 09:35 AM
-    loc: Tabriz
-    home: Palmeiras
-    visitor: Kungsholmens FC
-  - date: 11/22/2003 05:08 AM
-    loc: Buenos Aires
-    visitor: Palmeiras
-    home: Kungsholmens FC
-  - date: 12/13/2016 09:50 AM
+  - date: 01/11/2008 06:03 PM
     loc: Córdoba
     visitor: Palmeiras
-    home: Portland F.C.
+    home: Maui Pilots FC
+  - date: 04/09/2015 10:51 PM
+    loc: São Paulo
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 12/09/2003 12:35 AM
+    loc: Buenos Aires
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 03/13/2012 12:16 PM
+    loc: Bengaluru
+    visitor: Palmeiras
+    home: Tahiti Untd
+  - date: 10/08/2001 09:54 PM
+    loc: Oran
+    home: Palmeiras
+    visitor: Mozambique F.C.
+  - date: 08/14/2008 02:41 PM
+    loc: Beijing
+    visitor: Palmeiras
+    home: Osaka FT
+  - date: 01/14/2014 05:39 AM
+    loc: Quezon City
+    visitor: Palmeiras
+    home: Kungsholmens FC
 
 followers:
-  - sname: duchan
-    full_name: Duchanee Srisati
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: True
-  - sname: dibadiba
-    full_name: Abbas Diba
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: False
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: False
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
-    following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: False
-
-following:
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: surinw
-    full_name: Surin () Wattanasin
-    following: True
   - sname: hasan
     full_name: Hasan el-Matin
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: False
+
+following:
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
 
 profpic:
   - url: /player-prof-022.jpg
 
 pics:
-  - url: /random-001.jpg
-  - url: /random-003.jpg
-  - url: /random-006.jpg
-  - url: /random-010.jpg
   - url: /random-008.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg
   - url: /random-005.jpg

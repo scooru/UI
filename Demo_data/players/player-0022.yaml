@@ -6,118 +6,107 @@ short_name: Roberta Med.
 loc: Sao Paulo
 dob: 1989-05-31
 likes: 643
-sports: football field-hockey cricket tennis badminton
+sports: football golf
 
 categories:
   - cat: Indoor
-    pos: Centre-back
+    pos: Wing-back
 
 stats:
-  goals: 94
-  assists: 158
-  saves: 138
-  games: 121
-  hours: 1950
+  goals: 106
+  assists: 154
+  saves: 100
+  games: 268
+  hours: 1235
 
 teams:
   - sname: palm
     pos: Second striker
 
 games:
-  - date: 07/28/2007 02:39 PM
-    loc: Quanzhou
-    visitor: Palmeiras
-    home: Portland F.C.
-  - date: 03/10/2015 10:34 AM
-    loc: Fuzhou
-    visitor: Palmeiras
-    home: Seattle F.C.
-  - date: 06/01/2001 06:44 PM
-    loc: Mandalay
-    home: Palmeiras
-    visitor: Hiawatha
-  - date: 03/15/2007 02:30 AM
-    loc: Busan
+  - date: 04/21/2005 08:51 PM
+    loc: Tabriz
     visitor: Palmeiras
     home: Osaka FT
+  - date: 10/27/2016 04:43 AM
+    loc: Bengaluru
+    visitor: Palmeiras
+    home: Hiawatha
+  - date: 11/17/2011 12:56 AM
+    loc: Mandalay
+    home: Palmeiras
+    visitor: Portland F.C.
+  - date: 08/02/2011 12:11 PM
+    loc: Busan
+    visitor: Palmeiras
+    home: Long Island
+  - date: 07/07/2016 03:23 PM
+    loc: Kawasaki
+    home: Palmeiras
+    visitor: Seattle F.C.
+  - date: 12/05/2015 02:43 PM
+    loc: Córdoba
+    visitor: Palmeiras
+    home: Maui Pilots FC
 
 followers:
-  - sname: bossjira
-    full_name: Jirasak Srichure
-    following: False
-  - sname: stefilot
-    full_name: Stefan Lötvall
-    following: False
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: False
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
-    following: False
-  - sname: MrTaheri
-    full_name: Taghi Taheri
-    following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
-    following: False
-  - sname: ahongha
-    full_name: Akkanee Honghannarong
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
     following: True
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
     following: False
-  - sname: aymchill
-    full_name: Aymeric Chéreau
-    following: True
-  - sname: leandac
-    full_name: Leandro Antunes Couto
-    following: True
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
   - sname: mettepast
     full_name: Guillemette Pasteur
     following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
 
 following:
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
-    following: True
-  - sname: brekime
-    full_name: Brehan Kidane Meles
-    following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
-    following: True
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: josehey
-    full_name: José Hamada Barros
-    following: True
-  - sname: musad
-    full_name: Musaddiq al-Pirani
-    following: True
-  - sname: pipifri
-    full_name: Pia Frisk
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: True
   - sname: hanuman
     full_name: Hanuman Klinpraneet
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
     following: True
 
 profpic:
   - url: /player-prof-015.jpg
 
 pics:
-  - url: /random-010.jpg
-  - url: /random-003.jpg
-  - url: /random-005.jpg
   - url: /random-006.jpg
-  - url: /random-002.jpg
+  - url: /random-010.jpg
   - url: /random-008.jpg
+  - url: /random-003.jpg
+  - url: /random-007.jpg

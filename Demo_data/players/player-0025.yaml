@@ -6,99 +6,114 @@ short_name: Zewdnesh T.G.
 loc: Addis Ababa
 dob: 1990-07-22
 likes: 35
-sports: football volleyball badminton table-tennis
+sports: football basketball golf tennis badminton
 
 categories:
   - cat: Beach
-    pos: Midfielder
+    pos: Winger
 
 stats:
-  goals: 103
-  assists: 176
-  saves: 42
-  games: 113
-  hours: 949
+  goals: 73
+  assists: 195
+  saves: 146
+  games: 182
+  hours: 1158
 
 teams:
   - sname: enft
     pos: Sweeper
 
 games:
-  - date: 09/28/2010 01:44 AM
-    loc: Kawasaki
-    home: Ethiopian FT
-    visitor: Osaka FT
-  - date: 11/12/2017 09:01 AM
-    loc: Córdoba
+  - date: 06/17/2010 03:38 PM
+    loc: São Paulo
     visitor: Ethiopian FT
-    home: Mozambique F.C.
-  - date: 11/24/2011 02:46 AM
-    loc: Havana
+    home: Tahiti Untd
+  - date: 12/22/2003 02:54 AM
+    loc: Cairo
     home: Ethiopian FT
-    visitor: Hiawatha
-  - date: 06/14/2016 10:41 PM
-    loc: Fuzhou
+    visitor: Seattle F.C.
+  - date: 08/26/2009 08:29 AM
+    loc: Córdoba
     home: Ethiopian FT
-    visitor: Kungsholmens FC
-  - date: 11/29/2015 10:57 PM
-    loc: Havana
-    home: Ethiopian FT
-    visitor: Hiawatha
-  - date: 06/25/2005 11:34 PM
+    visitor: Mozambique F.C.
+  - date: 04/19/2008 04:02 AM
+    loc: London
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 04/17/2004 01:56 PM
     loc: Quanzhou
     home: Ethiopian FT
-    visitor: Long Island
+    visitor: Mozambique F.C.
 
 followers:
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
     following: True
-  - sname: duchan
-    full_name: Duchanee Srisati
-    following: True
-  - sname: surinw
-    full_name: Surin () Wattanasin
+  - sname: georgess
+    full_name: Georges Solé
     following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: False
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
-    following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: False
-
-following:
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
-    following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: zewdster
-    full_name: Zewdnesh Tesfa Galawdeyos
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
-    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: False
   - sname: dibadiba
     full_name: Abbas Diba
     following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: False
+
+following:
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
     following: True
 
 profpic:
   - url: /player-prof-023.jpg
 
 pics:
-  - url: /random-003.jpg
-  - url: /random-001.jpg
+  - url: /random-009.jpg
   - url: /random-004.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg

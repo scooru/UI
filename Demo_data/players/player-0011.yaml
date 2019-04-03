@@ -6,105 +6,109 @@ short_name: Saman A.
 loc: Dubai
 dob: 1980-10-24
 likes: 99
-sports: football basketball golf
+sports: football basketball tennis
 
 categories:
-  - cat: Paralympic
-    pos: Wing-back
+  - cat: Street
+    pos: Wide midfield
 
 stats:
-  goals: 149
-  assists: 110
-  saves: 102
-  games: 164
-  hours: 1265
+  goals: 137
+  assists: 73
+  saves: 139
+  games: 273
+  hours: 616
 
 teams:
   - sname: awfc
     pos: Second striker
 
 games:
-  - date: 11/01/2007 09:16 AM
-    loc: Mandalay
-    visitor: Al-Wasl F.C.
-    home: Mozambique F.C.
-  - date: 02/24/2004 02:45 AM
-    loc: Kawasaki
-    home: Al-Wasl F.C.
-    visitor: Portland F.C.
-  - date: 06/24/2007 01:19 AM
-    loc: Bengaluru
-    home: Al-Wasl F.C.
-    visitor: Mozambique F.C.
-  - date: 12/10/2012 01:44 AM
+  - date: 04/21/2009 08:04 PM
     loc: Madrid
-    visitor: Al-Wasl F.C.
-    home: Kungsholmens FC
-  - date: 09/10/2003 09:26 AM
-    loc: Beijing
-    visitor: Al-Wasl F.C.
-    home: Maui Pilots FC
-  - date: 10/18/2001 09:08 PM
+    home: Al-Wasl F.C.
+    visitor: Seattle F.C.
+  - date: 03/14/2006 06:48 PM
     loc: Oran
     home: Al-Wasl F.C.
     visitor: Kungsholmens FC
+  - date: 05/06/2004 07:52 PM
+    loc: Buenos Aires
+    visitor: Al-Wasl F.C.
+    home: Seattle F.C.
+  - date: 08/14/2014 03:42 PM
+    loc: Beijing
+    visitor: Al-Wasl F.C.
+    home: Mozambique F.C.
+  - date: 01/14/2006 05:57 AM
+    loc: Mexico City
+    home: Al-Wasl F.C.
+    visitor: FC Venice 89
+  - date: 06/17/2004 01:47 PM
+    loc: Buenos Aires
+    visitor: Al-Wasl F.C.
+    home: Kungsholmens FC
+  - date: 10/13/2004 03:16 PM
+    loc: Mexico City
+    visitor: Al-Wasl F.C.
+    home: Osaka FT
 
 followers:
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
     following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: ruangri
+    full_name: Ruangrit Srisati
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: False
   - sname: ralarie
     full_name: Raoul Alarie
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
-    following: False
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
-    following: False
-
-following:
-  - sname: musad
-    full_name: Musaddiq al-Pirani
-    following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
-    following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
   - sname: pierrelv
     full_name: Pierre-Louis Verninac
+    following: False
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
     following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
+
+following:
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: True
-  - sname: bossjira
-    full_name: Jirasak Srichure
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
     following: True
 
 profpic:
   - url: /player-prof-009.jpg
 
 pics:
-  - url: /random-007.jpg
-  - url: /random-009.jpg
+  - url: /random-010.jpg
+  - url: /random-001.jpg
+  - url: /random-004.jpg
   - url: /random-006.jpg
+  - url: /random-003.jpg
+  - url: /random-008.jpg

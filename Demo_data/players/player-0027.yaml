@@ -6,90 +6,112 @@ short_name: Brehan M.
 loc: Addis Ababa
 dob: 1976-04-13
 likes: 32
-sports: football basketball tennis golf
+sports: football field-hockey baseball
 
 categories:
-  - cat: Beach
-    pos: Goalkeeper
+  - cat: Futsal
+    pos: Winger
 
 stats:
-  goals: 57
-  assists: 142
-  saves: 140
-  games: 80
-  hours: 1075
+  goals: 44
+  assists: 122
+  saves: 89
+  games: 276
+  hours: 1833
 
 teams:
   - sname: enft
     pos: Wing-back
 
 games:
-  - date: 06/18/2014 02:02 PM
-    loc: Cairo
+  - date: 02/28/2002 09:06 AM
+    loc: Tabriz
     home: Ethiopian FT
-    visitor: Maui Pilots FC
-  - date: 09/14/2008 06:20 PM
-    loc: São Paulo
+    visitor: Long Island
+  - date: 03/17/2009 04:11 PM
+    loc: Isfahan
+    visitor: Ethiopian FT
+    home: Tahiti Untd
+  - date: 09/11/2000 08:51 PM
+    loc: Bengaluru
     visitor: Ethiopian FT
     home: FC Venice 89
-  - date: 03/07/2003 11:11 AM
-    loc: Quanzhou
+  - date: 03/30/2008 09:19 PM
+    loc: Bengaluru
     home: Ethiopian FT
     visitor: Portland F.C.
-  - date: 10/14/2016 03:40 PM
-    loc: Havana
-    home: Ethiopian FT
-    visitor: Kungsholmens FC
+  - date: 12/24/2002 06:21 AM
+    loc: Quanzhou
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 05/28/2000 08:58 PM
+    loc: London
+    visitor: Ethiopian FT
+    home: Mozambique F.C.
+  - date: 03/15/2010 06:47 PM
+    loc: Beijing
+    visitor: Ethiopian FT
+    home: Mozambique F.C.
 
 followers:
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: False
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
   - sname: banthornn
     full_name: Banthorn Noppachorn
-    following: True
+    following: False
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
   - sname: afewer
     full_name: Afewerek Eyoel Abimelech
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
     following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: False
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
-    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
 
 following:
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
     following: True
   - sname: zewdster
     full_name: Zewdnesh Tesfa Galawdeyos
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: iabellu
-    full_name: Iago Martins Belluci
+  - sname: arzhang
+    full_name: Arzhang Moshiri
     following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
+  - sname: arthits
+    full_name: Arthit Sansurin
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
     following: True
 
 profpic:
   - url: /player-prof-032.jpg
 
 pics:
-  - url: /random-004.jpg
-  - url: /random-006.jpg
-  - url: /random-008.jpg
-  - url: /random-007.jpg
   - url: /random-005.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg

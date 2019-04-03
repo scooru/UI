@@ -6,105 +6,124 @@ short_name: Ogge J.
 loc: Stockholm
 dob: 1976-09-14
 likes: 674
-sports: football badminton table-tennis
+sports: football volleyball field-hockey cricket table-tennis
 
 categories:
   - cat: Futsal
-    pos: Second striker
+    pos: Defender
 
 stats:
-  goals: 103
-  assists: 145
-  saves: 48
-  games: 137
-  hours: 994
+  goals: 96
+  assists: 88
+  saves: 74
+  games: 101
+  hours: 1839
 
 teams:
   - sname: lhfc
     pos: Attacking midfield
 
 games:
-  - date: 11/26/2000 03:08 PM
-    loc: Bengaluru
-    visitor: Långholmens FC
-    home: Seattle F.C.
-  - date: 11/22/2011 06:36 AM
-    loc: Havana
-    visitor: Långholmens FC
-    home: FC Venice 89
-  - date: 08/02/2012 08:06 AM
+  - date: 03/20/2001 12:23 AM
+    loc: Kawasaki
+    home: Långholmens FC
+    visitor: Seattle F.C.
+  - date: 01/03/2002 12:46 PM
     loc: Busan
     visitor: Långholmens FC
-    home: Kungsholmens FC
-  - date: 01/09/2001 09:09 PM
-    loc: São Paulo
+    home: Hiawatha
+  - date: 08/21/2008 08:04 AM
+    loc: Havana
+    home: Långholmens FC
+    visitor: FC Venice 89
+  - date: 10/01/2002 08:35 AM
+    loc: Quanzhou
+    home: Långholmens FC
+    visitor: Hiawatha
+  - date: 08/12/2013 06:50 AM
+    loc: Quanzhou
+    home: Långholmens FC
+    visitor: Seattle F.C.
+  - date: 12/31/2007 01:02 PM
+    loc: Isfahan
     visitor: Långholmens FC
     home: Hiawatha
-  - date: 04/27/2009 06:55 AM
-    loc: Fuzhou
+  - date: 01/10/2004 10:45 AM
+    loc: Quanzhou
     visitor: Långholmens FC
-    home: Long Island
-  - date: 02/04/2001 02:09 PM
-    loc: Madrid
-    home: Långholmens FC
-    visitor: Osaka FT
+    home: Portland F.C.
 
 followers:
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: False
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: False
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: True
-  - sname: josehey
-    full_name: José Hamada Barros
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: True
   - sname: maliwanc
     full_name: Maliwan Chaiprasit
     following: True
-
-following:
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: False
+  - sname: MrTaheri
+    full_name: Taghi Taheri
+    following: True
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: False
   - sname: hanuman
     full_name: Hanuman Klinpraneet
     following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
+
+following:
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
     following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
+  - sname: MrTaheri
+    full_name: Taghi Taheri
     following: True
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: josehey
+    full_name: José Hamada Barros
     following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: True
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
     following: True
 
 profpic:
   - url: /player-prof-050.jpg
 
 pics:
-  - url: /random-006.jpg
-  - url: /random-009.jpg
-  - url: /random-005.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

@@ -6,113 +6,111 @@ short_name: Vinicius FdS
 loc: Sao Paulo
 dob: 1987-12-10
 likes: 411
-sports: football field-hockey baseball badminton
+sports: football field-hockey golf badminton
 
 categories:
-  - cat: Beach
-    pos: Defensive midfield
+  - cat: Association
+    pos: Centre forward
 
 stats:
-  goals: 137
-  assists: 135
-  saves: 109
-  games: 216
-  hours: 1913
+  goals: 73
+  assists: 97
+  saves: 77
+  games: 158
+  hours: 761
 
 teams:
   - sname: palm
     pos: Centre forward
 
 games:
-  - date: 01/14/2000 04:26 AM
-    loc: Fuzhou
+  - date: 02/11/2008 06:13 AM
+    loc: Busan
     home: Palmeiras
-    visitor: Seattle F.C.
-  - date: 03/10/2010 08:12 PM
-    loc: London
+    visitor: Tahiti Untd
+  - date: 08/05/2014 12:59 AM
+    loc: Beijing
     home: Palmeiras
-    visitor: Hiawatha
-  - date: 10/05/2009 03:59 PM
-    loc: Isfahan
-    home: Palmeiras
-    visitor: Kungsholmens FC
-  - date: 12/05/2004 12:16 PM
-    loc: Madrid
-    visitor: Palmeiras
-    home: FC Venice 89
-  - date: 01/20/2009 02:26 AM
-    loc: Cairo
-    visitor: Palmeiras
-    home: FC Venice 89
-  - date: 04/09/2010 08:34 PM
+    visitor: Maui Pilots FC
+  - date: 01/19/2008 05:37 PM
     loc: Córdoba
     home: Palmeiras
-    visitor: Mozambique F.C.
-  - date: 12/30/2007 09:59 PM
-    loc: Fuzhou
+    visitor: Portland F.C.
+  - date: 04/03/2012 10:44 AM
+    loc: Madrid
     visitor: Palmeiras
-    home: Maui Pilots FC
+    home: Portland F.C.
+  - date: 09/20/2011 04:27 PM
+    loc: Madrid
+    visitor: Palmeiras
+    home: Long Island
+  - date: 12/17/2001 04:52 PM
+    loc: Kawasaki
+    home: Palmeiras
+    visitor: Long Island
 
 followers:
-  - sname: aymchill
-    full_name: Aymeric Chéreau
-    following: True
-  - sname: ralarie
-    full_name: Raoul Alarie
-    following: True
-  - sname: ahongha
-    full_name: Akkanee Honghannarong
-    following: False
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: False
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: False
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: False
-  - sname: pipifri
-    full_name: Pia Frisk
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
   - sname: bossjira
     full_name: Jirasak Srichure
     following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: False
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
 
 following:
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
   - sname: mahdaviB
     full_name: Behzad Mahdavi
     following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
     following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: hildrd
+    full_name: Hildr Dalin
     following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
-    following: True
-  - sname: leandac
-    full_name: Leandro Antunes Couto
-    following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
     following: True
 
 profpic:
   - url: /player-prof-021.jpg
 
 pics:
-  - url: /random-004.jpg
-  - url: /random-006.jpg
   - url: /random-007.jpg
-  - url: /random-009.jpg
+  - url: /random-001.jpg
+  - url: /random-005.jpg

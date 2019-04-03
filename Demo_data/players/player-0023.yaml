@@ -6,115 +6,101 @@ short_name: Alemu Y.
 loc: Addis Ababa
 dob: 1990-01-06
 likes: 338
-sports: football
+sports: football baseball table-tennis cricket basketball
 
 categories:
-  - cat: Beach
-    pos: Second striker
+  - cat: Indoor
+    pos: Sweeper
 
 stats:
-  goals: 90
-  assists: 120
-  saves: 121
-  games: 90
-  hours: 1758
+  goals: 80
+  assists: 42
+  saves: 111
+  games: 282
+  hours: 1596
 
 teams:
   - sname: enft
     pos: Goalkeeper
 
 games:
-  - date: 07/10/2016 09:11 PM
-    loc: Quezon City
-    visitor: Ethiopian FT
-    home: Maui Pilots FC
-  - date: 02/07/2015 06:23 PM
-    loc: Kawasaki
-    visitor: Ethiopian FT
-    home: Kungsholmens FC
-  - date: 09/08/2001 06:04 AM
-    loc: Fuzhou
-    visitor: Ethiopian FT
-    home: Maui Pilots FC
-  - date: 11/10/2005 11:12 PM
+  - date: 09/24/2017 08:32 PM
+    loc: Buenos Aires
+    home: Ethiopian FT
+    visitor: Portland F.C.
+  - date: 12/29/2015 01:24 PM
     loc: Córdoba
     visitor: Ethiopian FT
+    home: Osaka FT
+  - date: 04/16/2017 07:03 PM
+    loc: London
+    visitor: Ethiopian FT
     home: Hiawatha
-  - date: 12/16/2012 09:24 PM
-    loc: Oran
+  - date: 09/18/2007 12:53 PM
+    loc: Beijing
+    visitor: Ethiopian FT
+    home: Tahiti Untd
+  - date: 12/22/2012 05:40 PM
+    loc: Córdoba
     visitor: Ethiopian FT
     home: Tahiti Untd
 
 followers:
-  - sname: mettepast
-    full_name: Guillemette Pasteur
-    following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
-    following: False
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
-    following: False
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: False
-  - sname: stefilot
-    full_name: Stefan Lötvall
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
-    following: False
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
-    following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
-    following: True
-
-following:
-  - sname: nopjira
-    full_name: Nopjira Gaysorn
-    following: True
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
-    following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: True
-  - sname: hasan
-    full_name: Hasan el-Matin
-    following: True
   - sname: sidneife
     full_name: Sidnei Amaral Ferraz
-    following: True
-  - sname: angelmoi
-    full_name: Angélique Ardouin
-    following: True
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
     following: True
   - sname: fjohanss
     full_name: Fia Johannesson
     following: True
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
   - sname: josehey
     full_name: José Hamada Barros
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: False
+
+following:
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: hasan
+    full_name: Hasan el-Matin
+    following: True
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
     following: True
 
 profpic:
   - url: /player-prof-024.jpg
 
 pics:
-  - url: /random-003.jpg
-  - url: /random-009.jpg
   - url: /random-004.jpg
-  - url: /random-007.jpg
-  - url: /random-002.jpg
+  - url: /random-005.jpg
+  - url: /random-010.jpg

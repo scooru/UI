@@ -6,101 +6,110 @@ short_name: Marcel E.
 loc: Paris
 dob: 1983-03-13
 likes: 571
-sports: football tennis table-tennis volleyball badminton
+sports: football table-tennis
 
 categories:
-  - cat: Street
-    pos: Defensive midfield
+  - cat: Beach
+    pos: Second striker
 
 stats:
-  goals: 94
-  assists: 180
-  saves: 138
-  games: 214
-  hours: 766
+  goals: 54
+  assists: 135
+  saves: 134
+  games: 150
+  hours: 993
 
 teams:
   - sname: fm91
     pos: Sweeper
 
 games:
-  - date: 07/04/2006 08:39 PM
-    loc: Cairo
-    visitor: FC Fleury 91
-    home: Mozambique F.C.
-  - date: 10/23/2013 05:39 PM
-    loc: Kawasaki
+  - date: 03/05/2000 09:13 AM
+    loc: Mandalay
     home: FC Fleury 91
-    visitor: Tahiti Untd
-  - date: 01/12/2008 11:04 PM
-    loc: Oran
+    visitor: Maui Pilots FC
+  - date: 11/25/2011 12:37 AM
+    loc: Córdoba
     home: FC Fleury 91
     visitor: Mozambique F.C.
-  - date: 06/28/2012 11:28 PM
-    loc: Havana
+  - date: 12/05/2001 04:21 PM
+    loc: Mexico City
     visitor: FC Fleury 91
-    home: Osaka FT
-  - date: 06/15/2015 09:55 PM
-    loc: Bengaluru
-    visitor: FC Fleury 91
-    home: Portland F.C.
-  - date: 01/02/2002 08:53 AM
-    loc: Bengaluru
-    visitor: FC Fleury 91
-    home: Maui Pilots FC
+    home: Kungsholmens FC
+  - date: 07/28/2007 08:00 PM
+    loc: Cairo
+    home: FC Fleury 91
+    visitor: Hiawatha
 
 followers:
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: True
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: ruangri
+    full_name: Ruangrit Srisati
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
     following: False
   - sname: afewer
     full_name: Afewerek Eyoel Abimelech
     following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
-    following: False
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: False
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: True
 
 following:
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
     following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
+  - sname: iabellu
+    full_name: Iago Martins Belluci
     following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: True
-  - sname: surinw
-    full_name: Surin () Wattanasin
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: pipifri
+    full_name: Pia Frisk
     following: True
 
 profpic:
   - url: /player-prof-039.jpg
 
 pics:
-  - url: /random-010.jpg
-  - url: /random-004.jpg
+  - url: /random-003.jpg
+  - url: /random-002.jpg
   - url: /random-007.jpg
   - url: /random-006.jpg
-  - url: /random-009.jpg

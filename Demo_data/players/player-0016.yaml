@@ -6,98 +6,104 @@ short_name: Jose H.B.
 loc: Sao Paulo
 dob: 1984-03-04
 likes: 693
-sports: football golf baseball
+sports: football
 
 categories:
-  - cat: Association
-    pos: Forward
+  - cat: Paralympic
+    pos: Centre-back
 
 stats:
-  goals: 69
-  assists: 55
-  saves: 74
-  games: 149
-  hours: 1483
+  goals: 95
+  assists: 59
+  saves: 80
+  games: 194
+  hours: 1862
 
 teams:
   - sname: palm
     pos: Wing-back
 
 games:
-  - date: 03/10/2017 12:22 AM
-    loc: Córdoba
+  - date: 07/08/2003 12:30 AM
+    loc: London
     home: Palmeiras
     visitor: Hiawatha
-  - date: 06/11/2001 05:10 PM
-    loc: Tabriz
+  - date: 01/06/2015 10:47 PM
+    loc: Isfahan
     visitor: Palmeiras
-    home: Kungsholmens FC
-  - date: 08/09/2010 01:14 AM
-    loc: Cairo
+    home: FC Venice 89
+  - date: 03/28/2002 10:33 AM
+    loc: Buenos Aires
     home: Palmeiras
-    visitor: Tahiti Untd
-  - date: 02/01/2005 11:16 PM
-    loc: Quanzhou
-    visitor: Palmeiras
-    home: Long Island
-  - date: 12/23/2001 05:52 PM
-    loc: Mandalay
+    visitor: FC Venice 89
+  - date: 02/20/2006 11:31 PM
+    loc: Busan
     home: Palmeiras
-    visitor: Maui Pilots FC
-  - date: 01/09/2009 09:27 AM
-    loc: Madrid
+    visitor: Seattle F.C.
+  - date: 06/02/2002 01:42 PM
+    loc: São Paulo
     home: Palmeiras
     visitor: Long Island
 
 followers:
-  - sname: hasan
-    full_name: Hasan el-Matin
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: False
-  - sname: tomburg
-    full_name: Thomas Borg
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
     following: False
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
     following: False
 
 following:
-  - sname: angelmoi
-    full_name: Angélique Ardouin
+  - sname: georgess
+    full_name: Georges Solé
     following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
+  - sname: hasan
+    full_name: Hasan el-Matin
     following: True
-  - sname: zewdster
-    full_name: Zewdnesh Tesfa Galawdeyos
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
     following: True
-  - sname: leandac
-    full_name: Leandro Antunes Couto
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: fjohanss
+    full_name: Fia Johannesson
     following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: True
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: True
+  - sname: arzhang
+    full_name: Arzhang Moshiri
     following: True
 
 profpic:
   - url: /player-prof-018.jpg
 
 pics:
-  - url: /random-004.jpg
   - url: /random-008.jpg
   - url: /random-002.jpg
-  - url: /random-009.jpg
-  - url: /random-001.jpg
+  - url: /random-007.jpg

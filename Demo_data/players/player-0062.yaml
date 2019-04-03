@@ -6,117 +6,94 @@ short_name: Banthorn N.
 loc: Bangkok
 dob: 1986-06-04
 likes: 526
-sports: football badminton volleyball field-hockey tennis
+sports: football cricket basketball table-tennis
 
 categories:
-  - cat: Association
-    pos: Midfielder
+  - cat: Indoor
+    pos: Full-back
 
 stats:
-  goals: 135
-  assists: 189
-  saves: 99
-  games: 191
-  hours: 1348
+  goals: 133
+  assists: 136
+  saves: 92
+  games: 221
+  hours: 1253
 
 teams:
   - sname: pxfc
     pos: Defensive midfield
 
 games:
-  - date: 08/16/2008 04:41 PM
-    loc: Córdoba
+  - date: 10/12/2001 08:06 PM
+    loc: Oran
     visitor: Phoenix F.C.
-    home: Kungsholmens FC
-  - date: 02/12/2005 07:22 AM
-    loc: Córdoba
+    home: Portland F.C.
+  - date: 03/21/2015 05:04 AM
+    loc: Bengaluru
     home: Phoenix F.C.
-    visitor: Seattle F.C.
-  - date: 08/08/2001 10:35 PM
-    loc: Beijing
+    visitor: Tahiti Untd
+  - date: 05/18/2014 05:21 AM
+    loc: Bengaluru
     visitor: Phoenix F.C.
-    home: Hiawatha
-  - date: 01/23/2011 03:04 PM
-    loc: Kawasaki
-    home: Phoenix F.C.
-    visitor: Portland F.C.
+    home: Tahiti Untd
+  - date: 03/05/2003 09:24 PM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: Portland F.C.
 
 followers:
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: HeFaroo
+    full_name: Husni el-Farooqui
     following: True
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: mettepast
+    full_name: Guillemette Pasteur
     following: False
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
     following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
     following: True
-  - sname: leandac
-    full_name: Leandro Antunes Couto
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: False
-  - sname: hildrd
-    full_name: Hildr Dalin
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
     following: False
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: False
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
-    following: False
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: False
 
 following:
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
+  - sname: duchan
+    full_name: Duchanee Srisati
     following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
     following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
     following: True
-  - sname: josehey
-    full_name: José Hamada Barros
+  - sname: ralarie
+    full_name: Raoul Alarie
     following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
-    following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
-    following: True
-  - sname: surinw
-    full_name: Surin () Wattanasin
-    following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
-    following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
-    following: True
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: True
 
 profpic:
   - url: /player-prof-065.jpg
 
 pics:
-  - url: /random-001.jpg
-  - url: /random-010.jpg
-  - url: /random-007.jpg
+  - url: /random-002.jpg
+  - url: /random-004.jpg
   - url: /random-008.jpg
-  - url: /random-005.jpg

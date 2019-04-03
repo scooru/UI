@@ -6,118 +6,103 @@ short_name: Raoul A.
 loc: Paris
 dob: 1983-11-07
 likes: 472
-sports: football baseball basketball
+sports: football cricket golf
 
 categories:
-  - cat: Paralympic
-    pos: Winger
+  - cat: Street
+    pos: Sweeper
 
 stats:
-  goals: 122
-  assists: 115
-  saves: 110
-  games: 141
-  hours: 511
+  goals: 41
+  assists: 134
+  saves: 71
+  games: 148
+  hours: 1484
 
 teams:
   - sname: fm91
     pos: Centre midfield
 
 games:
-  - date: 10/02/2015 07:49 PM
-    loc: Cairo
-    home: FC Fleury 91
-    visitor: Hiawatha
-  - date: 11/27/2016 04:47 AM
-    loc: Beijing
-    home: FC Fleury 91
-    visitor: Hiawatha
-  - date: 11/16/2000 11:57 AM
-    loc: London
+  - date: 03/27/2006 07:28 AM
+    loc: Quanzhou
     visitor: FC Fleury 91
-    home: Maui Pilots FC
-  - date: 10/07/2007 05:49 PM
-    loc: Mandalay
+    home: Mozambique F.C.
+  - date: 02/03/2015 07:00 AM
+    loc: Córdoba
     home: FC Fleury 91
-    visitor: Hiawatha
-  - date: 09/21/2013 10:10 AM
-    loc: Kawasaki
+    visitor: Tahiti Untd
+  - date: 07/20/2016 11:57 AM
+    loc: Quezon City
+    home: FC Fleury 91
+    visitor: Mozambique F.C.
+  - date: 04/01/2013 02:58 AM
+    loc: Mexico City
+    visitor: FC Fleury 91
+    home: Osaka FT
+  - date: 05/30/2010 07:34 PM
+    loc: Mexico City
     home: FC Fleury 91
     visitor: Portland F.C.
 
 followers:
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: fjohanss
+    full_name: Fia Johannesson
+    following: False
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: False
   - sname: zewdster
     full_name: Zewdnesh Tesfa Galawdeyos
-    following: False
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
-    following: False
-  - sname: joelljs
-    full_name: Joel Liljeström
-    following: True
-  - sname: leandac
-    full_name: Leandro Antunes Couto
-    following: True
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: False
-  - sname: hasan
-    full_name: Hasan el-Matin
     following: True
   - sname: jeanpp
     full_name: Jean-Philippe Paquin
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: False
+  - sname: bossjira
+    full_name: Jirasak Srichure
+    following: False
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: False
+  - sname: brekime
+    full_name: Brehan Kidane Meles
+    following: True
 
 following:
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
     following: True
   - sname: musad
     full_name: Musaddiq al-Pirani
     following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: True
-  - sname: hasan
-    full_name: Hasan el-Matin
-    following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
-    following: True
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: True
-  - sname: zewdster
-    full_name: Zewdnesh Tesfa Galawdeyos
-    following: True
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
-    following: True
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
-    following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
-    following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
     following: True
 
 profpic:
   - url: /player-prof-040.jpg
 
 pics:
-  - url: /random-009.jpg
-  - url: /random-005.jpg
+  - url: /random-006.jpg
   - url: /random-008.jpg
-  - url: /random-007.jpg
   - url: /random-003.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg

@@ -6,102 +6,101 @@ short_name: Surin W.
 loc: Bangkok
 dob: 1981-02-14
 likes: 467
-sports: football basketball volleyball table-tennis badminton
+sports: football tennis basketball
 
 categories:
-  - cat: Beach
-    pos: Winger
+  - cat: Futsal
+    pos: Centre forward
 
 stats:
-  goals: 96
-  assists: 61
-  saves: 125
-  games: 234
-  hours: 1124
+  goals: 48
+  assists: 157
+  saves: 106
+  games: 277
+  hours: 1484
 
 teams:
   - sname: pxfc
     pos: Goalkeeper
 
 games:
-  - date: 10/16/2001 02:58 AM
-    loc: London
+  - date: 01/03/2009 08:46 AM
+    loc: Quezon City
+    visitor: Phoenix F.C.
+    home: FC Venice 89
+  - date: 05/28/2004 11:05 AM
+    loc: Quezon City
     home: Phoenix F.C.
-    visitor: Hiawatha
-  - date: 09/27/2017 04:07 AM
-    loc: Madrid
+    visitor: Kungsholmens FC
+  - date: 03/20/2007 12:10 PM
+    loc: Buenos Aires
+    visitor: Phoenix F.C.
+    home: Kungsholmens FC
+  - date: 06/16/2012 10:29 AM
+    loc: London
     home: Phoenix F.C.
     visitor: Mozambique F.C.
-  - date: 03/03/2004 12:12 PM
+  - date: 05/05/2016 11:43 PM
     loc: São Paulo
-    visitor: Phoenix F.C.
-    home: Osaka FT
-  - date: 04/18/2003 05:50 PM
-    loc: Fuzhou
-    visitor: Phoenix F.C.
-    home: Long Island
-  - date: 06/06/2008 05:40 PM
-    loc: Mexico City
-    visitor: Phoenix F.C.
-    home: Long Island
-  - date: 05/03/2009 05:21 AM
-    loc: London
     home: Phoenix F.C.
-    visitor: Hiawatha
-  - date: 05/14/2011 07:59 AM
-    loc: São Paulo
-    visitor: Phoenix F.C.
-    home: Portland F.C.
+    visitor: Portland F.C.
+  - date: 09/24/2017 03:58 PM
+    loc: Cairo
+    home: Phoenix F.C.
+    visitor: Kungsholmens FC
 
 followers:
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: samana
+    full_name: Saman Arabnia
     following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: ojonss
+    full_name: Ögge Jönsson
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: True
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: True
   - sname: siamak
     full_name: Siamak Yaghmaei
-    following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
     following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: False
   - sname: tuuliioo
     full_name: Túlio Amorim Morais
     following: True
 
 following:
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: True
-  - sname: georgess
-    full_name: Georges Solé
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: True
-  - sname: tomburg
-    full_name: Thomas Borg
+  - sname: danjacq
+    full_name: Dany Jacquard
     following: True
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: True
 
 profpic:
   - url: /player-prof-062.jpg
 
 pics:
-  - url: /random-001.jpg
-  - url: /random-004.jpg
-  - url: /random-010.jpg
-  - url: /random-002.jpg
+  - url: /random-009.jpg
   - url: /random-008.jpg
+  - url: /random-001.jpg
+  - url: /random-003.jpg
+  - url: /random-004.jpg

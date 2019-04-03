@@ -6,105 +6,92 @@ short_name: Afewerek E.A.
 loc: Addis Ababa
 dob: 1976-01-11
 likes: 318
-sports: football field-hockey tennis
+sports: football badminton
 
 categories:
   - cat: Beach
-    pos: Midfielder
+    pos: Wide midfield
 
 stats:
-  goals: 47
-  assists: 42
-  saves: 147
-  games: 232
-  hours: 1942
+  goals: 74
+  assists: 170
+  saves: 97
+  games: 236
+  hours: 1313
 
 teams:
   - sname: enft
     pos: Full-back
 
 games:
-  - date: 12/25/2015 04:39 AM
-    loc: Beijing
-    visitor: Ethiopian FT
-    home: Hiawatha
-  - date: 12/19/2006 07:30 PM
-    loc: Córdoba
-    visitor: Ethiopian FT
-    home: Hiawatha
-  - date: 07/24/2009 10:47 AM
-    loc: Cairo
-    visitor: Ethiopian FT
-    home: Mozambique F.C.
-  - date: 06/21/2008 08:05 AM
-    loc: Mandalay
+  - date: 02/27/2009 02:31 AM
+    loc: Fuzhou
     home: Ethiopian FT
-    visitor: Long Island
-  - date: 01/17/2007 11:33 AM
-    loc: Cairo
+    visitor: Kungsholmens FC
+  - date: 12/05/2013 02:01 PM
+    loc: Quanzhou
+    home: Ethiopian FT
+    visitor: Kungsholmens FC
+  - date: 02/27/2011 04:50 PM
+    loc: Quezon City
     visitor: Ethiopian FT
-    home: Portland F.C.
-  - date: 02/10/2014 01:14 AM
+    home: Kungsholmens FC
+  - date: 06/13/2006 03:32 AM
+    loc: Kawasaki
+    visitor: Ethiopian FT
+    home: FC Venice 89
+  - date: 05/13/2011 02:07 PM
     loc: Oran
-    home: Ethiopian FT
-    visitor: Long Island
+    visitor: Ethiopian FT
+    home: Tahiti Untd
 
 followers:
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: nicholas
+    full_name: Nicholas Lundholm
     following: True
-  - sname: samana
-    full_name: Saman Arabnia
-    following: False
-  - sname: joelljs
-    full_name: Joel Liljeström
-    following: False
-  - sname: musad
-    full_name: Musaddiq al-Pirani
-    following: False
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: josehey
+    full_name: José Hamada Barros
     following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: aymchill
-    full_name: Aymeric Chéreau
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
     following: False
-  - sname: arthits
-    full_name: Arthit Sansurin
+  - sname: pipifri
+    full_name: Pia Frisk
+    following: False
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
+    following: False
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: True
 
 following:
-  - sname: tronblom
-    full_name: Tron Blomquist
+  - sname: baptistea
+    full_name: Baptiste Alard
     following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
+  - sname: angelmoi
+    full_name: Angélique Ardouin
     following: True
   - sname: tuuliioo
     full_name: Túlio Amorim Morais
     following: True
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
+  - sname: ruangri
+    full_name: Ruangrit Srisati
     following: True
-  - sname: hanuman
-    full_name: Hanuman Klinpraneet
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
     following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: tomburg
+    full_name: Thomas Borg
     following: True
   - sname: bossjira
     full_name: Jirasak Srichure
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
     following: True
 
 profpic:
@@ -112,6 +99,8 @@ profpic:
 
 pics:
   - url: /random-002.jpg
-  - url: /random-009.jpg
   - url: /random-007.jpg
-  - url: /random-004.jpg
+  - url: /random-006.jpg
+  - url: /random-010.jpg
+  - url: /random-003.jpg
+  - url: /random-005.jpg

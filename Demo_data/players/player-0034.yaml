@@ -6,98 +6,124 @@ short_name: Alexis G.
 loc: Paris
 dob: 1982-11-14
 likes: 635
-sports: football
+sports: football table-tennis
 
 categories:
-  - cat: Paralympic
-    pos: Centre midfield
+  - cat: Beach
+    pos: Centre forward
 
 stats:
-  goals: 45
-  assists: 195
-  saves: 78
-  games: 121
-  hours: 1726
+  goals: 126
+  assists: 99
+  saves: 119
+  games: 179
+  hours: 1921
 
 teams:
   - sname: fm91
     pos: Goalkeeper
 
 games:
-  - date: 04/14/2000 09:52 AM
-    loc: São Paulo
+  - date: 06/23/2001 06:53 AM
+    loc: Isfahan
     visitor: FC Fleury 91
-    home: Mozambique F.C.
-  - date: 03/30/2000 01:03 AM
-    loc: Madrid
-    home: FC Fleury 91
-    visitor: Portland F.C.
-  - date: 04/03/2007 11:19 PM
+    home: Kungsholmens FC
+  - date: 01/27/2012 01:29 AM
     loc: Mandalay
+    visitor: FC Fleury 91
+    home: Maui Pilots FC
+  - date: 09/02/2007 10:01 PM
+    loc: Isfahan
+    home: FC Fleury 91
+    visitor: Tahiti Untd
+  - date: 03/04/2014 02:57 AM
+    loc: Busan
     home: FC Fleury 91
     visitor: Mozambique F.C.
-  - date: 08/13/2012 12:17 PM
-    loc: Tabriz
-    home: FC Fleury 91
-    visitor: Seattle F.C.
+  - date: 04/18/2017 01:59 PM
+    loc: Busan
+    visitor: FC Fleury 91
+    home: Hiawatha
 
 followers:
-  - sname: duchan
-    full_name: Duchanee Srisati
+  - sname: stefilot
+    full_name: Stefan Lötvall
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: False
-  - sname: pipifri
-    full_name: Pia Frisk
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
     following: False
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
+  - sname: tomburg
+    full_name: Thomas Borg
     following: False
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
     following: False
   - sname: josehey
     full_name: José Hamada Barros
-    following: False
-  - sname: wolitna
-    full_name: Wolitigna Adugna Mesay
-    following: True
-  - sname: samana
-    full_name: Saman Arabnia
-    following: False
-  - sname: ojonss
-    full_name: Ögge Jönsson
-    following: False
-
-following:
-  - sname: ruangri
-    full_name: Ruangrit Srisati
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
-    following: True
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
     following: True
   - sname: HeFaroo
     full_name: Husni el-Farooqui
     following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
+  - sname: siamak
+    full_name: Siamak Yaghmaei
+    following: False
+  - sname: tronblom
+    full_name: Tron Blomquist
+    following: False
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: False
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+
+following:
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
+    following: True
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: bossjira
+    full_name: Jirasak Srichure
     following: True
   - sname: pipifri
     full_name: Pia Frisk
     following: True
+  - sname: francieg
+    full_name: Francine Gonçalves Caetano
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
+    following: True
   - sname: brekime
     full_name: Brehan Kidane Meles
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
 
 profpic:
   - url: /player-prof-034.jpg
 
 pics:
-  - url: /random-005.jpg
-  - url: /random-004.jpg
-  - url: /random-006.jpg
-  - url: /random-010.jpg
+  - url: /random-007.jpg
+  - url: /random-001.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-003.jpg

@@ -6,126 +6,102 @@ short_name: Tulio A.M.
 loc: Sao Paulo
 dob: 1981-01-08
 likes: 531
-sports: football table-tennis basketball
+sports: football cricket tennis
 
 categories:
   - cat: Futsal
-    pos: Centre-back
+    pos: Second striker
 
 stats:
-  goals: 145
-  assists: 137
-  saves: 112
-  games: 278
-  hours: 945
+  goals: 144
+  assists: 102
+  saves: 130
+  games: 200
+  hours: 996
 
 teams:
   - sname: palm
     pos: Goalkeeper
 
 games:
-  - date: 01/23/2006 02:08 AM
-    loc: Buenos Aires
-    home: Palmeiras
-    visitor: Hiawatha
-  - date: 06/09/2014 05:31 AM
-    loc: Beijing
-    home: Palmeiras
-    visitor: Seattle F.C.
-  - date: 06/29/2000 04:47 AM
+  - date: 10/04/2006 01:08 AM
     loc: Cairo
     home: Palmeiras
-    visitor: Hiawatha
-  - date: 03/21/2008 03:37 PM
-    loc: Isfahan
+    visitor: Tahiti Untd
+  - date: 08/02/2016 01:48 PM
+    loc: Mandalay
     visitor: Palmeiras
-    home: Tahiti Untd
-  - date: 07/14/2006 02:46 AM
-    loc: Oran
+    home: Kungsholmens FC
+  - date: 10/19/2004 11:56 AM
+    loc: Kawasaki
     visitor: Palmeiras
     home: Osaka FT
-  - date: 05/13/2000 01:27 AM
+  - date: 04/24/2010 02:36 AM
     loc: Tabriz
     visitor: Palmeiras
-    home: Long Island
+    home: Seattle F.C.
+  - date: 06/07/2011 10:30 AM
+    loc: Beijing
+    home: Palmeiras
+    visitor: Maui Pilots FC
 
 followers:
-  - sname: Naseeb
-    full_name: Naseeba al-Yousuf
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
     following: False
-  - sname: iabellu
-    full_name: Iago Martins Belluci
-    following: True
-  - sname: duchan
-    full_name: Duchanee Srisati
-    following: False
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: False
-  - sname: jeanpp
-    full_name: Jean-Philippe Paquin
-    following: False
-  - sname: joelle
-    full_name: Joel Lennartsson
-    following: False
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
-    following: False
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
-    following: True
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
-    following: False
-
-following:
-  - sname: nopjira
-    full_name: Nopjira Gaysorn
-    following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
-    following: True
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
-    following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
-    following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
-    following: True
   - sname: ojonss
     full_name: Ögge Jönsson
-    following: True
-  - sname: siamak
-    full_name: Siamak Yaghmaei
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
     following: True
   - sname: hildrd
     full_name: Hildr Dalin
+    following: True
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: nopjira
+    full_name: Nopjira Gaysorn
+    following: False
+  - sname: baptistea
+    full_name: Baptiste Alard
+    following: False
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: False
+
+following:
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: georgess
+    full_name: Georges Solé
     following: True
 
 profpic:
   - url: /player-prof-013.jpg
 
 pics:
-  - url: /random-007.jpg
   - url: /random-004.jpg
+  - url: /random-005.jpg
   - url: /random-009.jpg
-  - url: /random-006.jpg
-  - url: /random-003.jpg
-  - url: /random-001.jpg
+  - url: /random-008.jpg

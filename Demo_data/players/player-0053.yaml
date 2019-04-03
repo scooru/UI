@@ -6,89 +6,119 @@ short_name: Joel LJS
 loc: Stockholm
 dob: 1978-10-18
 likes: 27
-sports: football tennis golf baseball field-hockey
+sports: football golf volleyball table-tennis
 
 categories:
-  - cat: Association
-    pos: Midfielder
+  - cat: Street
+    pos: Wing-back
 
 stats:
-  goals: 83
-  assists: 134
-  saves: 43
-  games: 216
-  hours: 1793
+  goals: 111
+  assists: 195
+  saves: 136
+  games: 231
+  hours: 1663
 
 teams:
   - sname: lhfc
     pos: Wide midfield
 
 games:
-  - date: 11/01/2010 04:22 PM
-    loc: London
+  - date: 08/18/2012 05:50 AM
+    loc: Isfahan
+    home: Långholmens FC
+    visitor: Portland F.C.
+  - date: 08/27/2009 06:11 AM
+    loc: Tabriz
     visitor: Långholmens FC
     home: Seattle F.C.
-  - date: 01/31/2016 10:35 PM
-    loc: Fuzhou
+  - date: 12/03/2008 01:59 PM
+    loc: London
     home: Långholmens FC
-    visitor: Kungsholmens FC
-  - date: 08/03/2002 12:30 AM
-    loc: Kawasaki
+    visitor: Hiawatha
+  - date: 03/29/2011 04:50 AM
+    loc: São Paulo
+    home: Långholmens FC
+    visitor: FC Venice 89
+  - date: 02/25/2012 05:48 PM
+    loc: Beijing
     visitor: Långholmens FC
-    home: Tahiti Untd
-  - date: 09/10/2006 11:10 PM
-    loc: Mexico City
-    visitor: Långholmens FC
-    home: Long Island
+    home: Seattle F.C.
 
 followers:
-  - sname: stefilot
-    full_name: Stefan Lötvall
-    following: True
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
-    following: True
-  - sname: hasan
-    full_name: Hasan el-Matin
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: False
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: hildrd
+    full_name: Hildr Dalin
+    following: True
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
     following: False
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
+    following: False
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: False
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
+    following: True
   - sname: ojonss
     full_name: Ögge Jönsson
     following: False
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: False
 
 following:
-  - sname: dibadiba
-    full_name: Abbas Diba
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
     following: True
-  - sname: memman
-    full_name: Marcel Emmanuelli
+  - sname: marcionf
+    full_name: Márcio Nascimento Furtado
+    following: True
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
     following: True
   - sname: jeanpp
     full_name: Jean-Philippe Paquin
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: joelljs
+    full_name: Joel Liljeström
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
     following: True
-  - sname: duchan
-    full_name: Duchanee Srisati
+  - sname: ahongha
+    full_name: Akkanee Honghannarong
     following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
     following: True
 
 profpic:
   - url: /player-prof-047.jpg
 
 pics:
-  - url: /random-008.jpg
+  - url: /random-010.jpg
   - url: /random-009.jpg
   - url: /random-005.jpg
+  - url: /random-008.jpg
+  - url: /random-004.jpg
   - url: /random-007.jpg

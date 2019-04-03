@@ -6,107 +6,118 @@ short_name: Akkanee H.
 loc: Bangkok
 dob: 1981-05-21
 likes: 186
-sports: football volleyball basketball field-hockey golf
+sports: football field-hockey volleyball table-tennis
 
 categories:
   - cat: Futsal
-    pos: Centre forward
+    pos: Centre midfield
 
 stats:
-  goals: 126
-  assists: 49
-  saves: 122
-  games: 140
-  hours: 1965
+  goals: 130
+  assists: 64
+  saves: 111
+  games: 183
+  hours: 1564
 
 teams:
   - sname: pxfc
     pos: Centre-back
 
 games:
-  - date: 09/23/2009 07:45 AM
-    loc: Quanzhou
-    home: Phoenix F.C.
-    visitor: Maui Pilots FC
-  - date: 03/17/2007 11:33 AM
-    loc: Cairo
-    visitor: Phoenix F.C.
-    home: Hiawatha
-  - date: 10/31/2004 08:30 PM
-    loc: Mexico City
-    visitor: Phoenix F.C.
-    home: FC Venice 89
-  - date: 01/18/2009 01:53 PM
-    loc: Beijing
+  - date: 01/01/2002 11:45 AM
+    loc: Buenos Aires
     visitor: Phoenix F.C.
     home: Tahiti Untd
+  - date: 08/07/2002 05:44 PM
+    loc: Buenos Aires
+    visitor: Phoenix F.C.
+    home: Tahiti Untd
+  - date: 02/21/2014 03:53 PM
+    loc: Córdoba
+    visitor: Phoenix F.C.
+    home: Maui Pilots FC
+  - date: 02/03/2012 11:15 PM
+    loc: Mexico City
+    home: Phoenix F.C.
+    visitor: Mozambique F.C.
 
 followers:
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
+  - sname: piyachar
+    full_name: Piyapat Charanachitta
     following: False
-  - sname: memman
-    full_name: Marcel Emmanuelli
-    following: False
-  - sname: georgess
-    full_name: Georges Solé
-    following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: False
-  - sname: chirkobi
-    full_name: Chirkos Abimelech Eleazar
-    following: False
-  - sname: MrTaheri
-    full_name: Taghi Taheri
-    following: False
-  - sname: banthornn
-    full_name: Banthorn Noppachorn
-    following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
-    following: True
-
-following:
-  - sname: joelle
-    full_name: Joel Lennartsson
-    following: True
-  - sname: hasan
-    full_name: Hasan el-Matin
-    following: True
-  - sname: zewdster
-    full_name: Zewdnesh Tesfa Galawdeyos
-    following: True
-  - sname: surinw
-    full_name: Surin () Wattanasin
-    following: True
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: True
   - sname: Safwa
     full_name: Safwaan el-Koroma
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
+  - sname: joelle
+    full_name: Joel Lennartsson
     following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: ddeduardo
-    full_name: Eduardo Damasceno Delgado
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
+    following: False
+  - sname: ralarie
+    full_name: Raoul Alarie
+    following: False
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: True
+  - sname: iabellu
+    full_name: Iago Martins Belluci
+    following: False
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: False
+
+following:
+  - sname: jeanpp
+    full_name: Jean-Philippe Paquin
+    following: True
+  - sname: joelljs
+    full_name: Joel Liljeström
+    following: True
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
+    following: True
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: danjacq
+    full_name: Dany Jacquard
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
     following: True
 
 profpic:
   - url: /player-prof-067.jpg
 
 pics:
-  - url: /random-009.jpg
-  - url: /random-008.jpg
   - url: /random-010.jpg
-  - url: /random-004.jpg
+  - url: /random-007.jpg
+  - url: /random-003.jpg

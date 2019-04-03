@@ -6,109 +6,118 @@ short_name: Eduardo D.
 loc: Sao Paulo
 dob: 1986-03-06
 likes: 691
-sports: football volleyball
+sports: football
 
 categories:
   - cat: Beach
-    pos: Centre-back
+    pos: Centre forward
 
 stats:
-  goals: 111
-  assists: 51
-  saves: 45
-  games: 228
-  hours: 837
+  goals: 115
+  assists: 106
+  saves: 145
+  games: 286
+  hours: 1988
 
 teams:
   - sname: palm
     pos: Defensive midfield
 
 games:
-  - date: 07/02/2015 10:39 PM
-    loc: Bengaluru
+  - date: 04/17/2012 04:29 AM
+    loc: Cairo
+    visitor: Palmeiras
+    home: Mozambique F.C.
+  - date: 08/20/2005 06:17 AM
+    loc: Quezon City
     visitor: Palmeiras
     home: Portland F.C.
-  - date: 02/21/2009 09:46 PM
-    loc: Tabriz
-    visitor: Palmeiras
-    home: Portland F.C.
-  - date: 07/04/2013 04:21 AM
-    loc: São Paulo
-    visitor: Palmeiras
-    home: FC Venice 89
-  - date: 06/25/2007 09:05 PM
-    loc: Córdoba
-    visitor: Palmeiras
-    home: Portland F.C.
+  - date: 11/08/2003 07:20 AM
+    loc: Cairo
+    home: Palmeiras
+    visitor: FC Venice 89
+  - date: 10/12/2007 08:53 PM
+    loc: Mexico City
+    home: Palmeiras
+    visitor: Mozambique F.C.
 
 followers:
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: True
-  - sname: ojonss
-    full_name: Ögge Jönsson
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
-    following: True
-  - sname: dibadiba
-    full_name: Abbas Diba
-    following: False
-  - sname: mettepast
-    full_name: Guillemette Pasteur
-    following: True
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
+  - sname: samana
+    full_name: Saman Arabnia
     following: False
   - sname: afewer
     full_name: Afewerek Eyoel Abimelech
     following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
+    following: True
+  - sname: surinw
+    full_name: Surin () Wattanasin
     following: False
-  - sname: francieg
-    full_name: Francine Gonçalves Caetano
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: False
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: False
+  - sname: tomburg
+    full_name: Thomas Borg
     following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: False
+  - sname: hildrd
+    full_name: Hildr Dalin
     following: True
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: georgess
+    full_name: Georges Solé
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
     following: False
 
 following:
-  - sname: Safwa
-    full_name: Safwaan el-Koroma
-    following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
-    following: True
-  - sname: jeneve
-    full_name: Jeneve Dessalegne Tessema
-    following: True
   - sname: iabellu
     full_name: Iago Martins Belluci
     following: True
-  - sname: ojonss
-    full_name: Ögge Jönsson
-    following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
+  - sname: samana
+    full_name: Saman Arabnia
     following: True
   - sname: siamak
     full_name: Siamak Yaghmaei
     following: True
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
+  - sname: Safwa
+    full_name: Safwaan el-Koroma
+    following: True
+  - sname: Naseeb
+    full_name: Naseeba al-Yousuf
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
+    following: True
+  - sname: mettepast
+    full_name: Guillemette Pasteur
+    following: True
+  - sname: joelle
+    full_name: Joel Lennartsson
+    following: True
+  - sname: alemu1
+    full_name: Alemu Bekele Yitay
     following: True
 
 profpic:
   - url: /player-prof-020.jpg
 
 pics:
-  - url: /random-004.jpg
-  - url: /random-009.jpg
-  - url: /random-006.jpg
-  - url: /random-008.jpg
+  - url: /random-002.jpg
   - url: /random-007.jpg
-  - url: /random-010.jpg
+  - url: /random-009.jpg
+  - url: /random-004.jpg
+  - url: /random-008.jpg
+  - url: /random-001.jpg

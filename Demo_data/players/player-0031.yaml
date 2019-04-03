@@ -6,114 +6,120 @@ short_name: Asamen Z.G.
 loc: Addis Ababa
 dob: 1979-02-05
 likes: 113
-sports: football
+sports: football tennis
 
 categories:
-  - cat: Indoor
-    pos: Centre midfield
+  - cat: Association
+    pos: Sweeper
 
 stats:
-  goals: 116
-  assists: 162
-  saves: 47
-  games: 122
-  hours: 1855
+  goals: 59
+  assists: 97
+  saves: 114
+  games: 165
+  hours: 1637
 
 teams:
   - sname: enft
     pos: Wide midfield
 
 games:
-  - date: 01/20/2014 10:05 AM
-    loc: Kawasaki
-    visitor: Ethiopian FT
-    home: Hiawatha
-  - date: 03/25/2017 08:34 PM
-    loc: Madrid
+  - date: 12/28/2008 03:14 AM
+    loc: Buenos Aires
+    home: Ethiopian FT
+    visitor: Maui Pilots FC
+  - date: 12/07/2012 08:39 PM
+    loc: Mandalay
     visitor: Ethiopian FT
     home: Portland F.C.
-  - date: 10/17/2015 05:19 AM
-    loc: London
-    home: Ethiopian FT
-    visitor: Seattle F.C.
-  - date: 04/28/2008 03:09 AM
-    loc: Córdoba
-    visitor: Ethiopian FT
-    home: Long Island
-  - date: 10/13/2001 05:48 AM
-    loc: Tabriz
+  - date: 07/12/2015 09:23 PM
+    loc: Kawasaki
     home: Ethiopian FT
     visitor: Kungsholmens FC
-  - date: 02/06/2002 06:35 PM
-    loc: Isfahan
+  - date: 10/13/2006 01:23 PM
+    loc: Havana
     home: Ethiopian FT
-    visitor: Portland F.C.
-  - date: 06/22/2011 11:33 PM
-    loc: London
+    visitor: Osaka FT
+  - date: 05/14/2003 06:16 PM
+    loc: Mandalay
     home: Ethiopian FT
-    visitor: Kungsholmens FC
+    visitor: Long Island
 
 followers:
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: gulemaym
+    full_name: Gulema Yihun Mihret
+    following: True
+  - sname: dibadiba
+    full_name: Abbas Diba
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
+    following: True
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
+    following: False
+  - sname: mirabe
+    full_name: Mirabe Nahum Selassie
+    following: False
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: False
+  - sname: georgess
+    full_name: Georges Solé
+    following: False
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
   - sname: tronblom
     full_name: Tron Blomquist
+    following: False
+  - sname: asamenzg
+    full_name: Asamenew Zewedu Gorfu
+    following: True
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+
+following:
+  - sname: ragnarlin
+    full_name: Ragnar Lindgren
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: zewdster
+    full_name: Zewdnesh Tesfa Galawdeyos
+    following: True
+  - sname: lexrox
+    full_name: Alexis Gaubert
+    following: True
+  - sname: hildrd
+    full_name: Hildr Dalin
     following: True
   - sname: vfds
     full_name: Vinicius Ferraz de Souza
     following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
-    following: False
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: False
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
+  - sname: aymchill
+    full_name: Aymeric Chéreau
     following: True
-  - sname: tomburg
-    full_name: Thomas Borg
-    following: False
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
     following: True
-  - sname: josehey
-    full_name: José Hamada Barros
+  - sname: ralarie
+    full_name: Raoul Alarie
     following: True
-
-following:
-  - sname: mahdaviB
-    full_name: Behzad Mahdavi
-    following: True
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
-    following: True
-  - sname: arzhang
-    full_name: Arzhang Moshiri
-    following: True
-  - sname: joelljs
-    full_name: Joel Liljeström
-    following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
-    following: True
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: True
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
-    following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: bossjira
+    full_name: Jirasak Srichure
     following: True
 
 profpic:
   - url: /player-prof-027.jpg
 
 pics:
-  - url: /random-007.jpg
-  - url: /random-010.jpg
-  - url: /random-003.jpg
   - url: /random-004.jpg
-  - url: /random-006.jpg
+  - url: /random-007.jpg
+  - url: /random-009.jpg
+  - url: /random-010.jpg

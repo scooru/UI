@@ -6,91 +6,109 @@ short_name: Musaddiq A.P.
 loc: Dubai
 dob: 1975-08-09
 likes: 534
-sports: football volleyball baseball
+sports: football basketball cricket
 
 categories:
-  - cat: Futsal
-    pos: Second striker
+  - cat: Indoor
+    pos: Forward
 
 stats:
-  goals: 65
-  assists: 98
-  saves: 54
-  games: 257
-  hours: 898
+  goals: 88
+  assists: 114
+  saves: 82
+  games: 180
+  hours: 1577
 
 teams:
   - sname: awfc
     pos: Goalkeeper
 
 games:
-  - date: 02/08/2000 04:41 PM
-    loc: Bengaluru
+  - date: 02/23/2003 10:06 PM
+    loc: Havana
+    visitor: Al-Wasl F.C.
+    home: Portland F.C.
+  - date: 11/16/2014 03:21 PM
+    loc: Mexico City
+    visitor: Al-Wasl F.C.
+    home: Hiawatha
+  - date: 08/27/2014 09:15 PM
+    loc: Isfahan
     home: Al-Wasl F.C.
-    visitor: Seattle F.C.
-  - date: 01/24/2003 11:39 AM
-    loc: Kawasaki
+    visitor: Maui Pilots FC
+  - date: 12/24/2012 08:54 PM
+    loc: Busan
+    home: Al-Wasl F.C.
+    visitor: Hiawatha
+  - date: 03/12/2010 08:16 PM
+    loc: Havana
     home: Al-Wasl F.C.
     visitor: Long Island
-  - date: 11/17/2008 07:36 PM
+  - date: 03/30/2004 05:17 AM
     loc: São Paulo
+    visitor: Al-Wasl F.C.
+    home: Tahiti Untd
+  - date: 01/11/2008 05:08 PM
+    loc: Córdoba
     home: Al-Wasl F.C.
-    visitor: Long Island
-  - date: 09/10/2015 05:37 AM
-    loc: Oran
-    home: Al-Wasl F.C.
-    visitor: FC Venice 89
+    visitor: Portland F.C.
 
 followers:
-  - sname: hildrd
-    full_name: Hildr Dalin
+  - sname: ojonss
+    full_name: Ögge Jönsson
     following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
-    following: False
-  - sname: dibadiba
-    full_name: Abbas Diba
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: afewer
+    full_name: Afewerek Eyoel Abimelech
     following: False
-  - sname: arthits
-    full_name: Arthit Sansurin
+  - sname: tomburg
+    full_name: Thomas Borg
+    following: True
+  - sname: nicholas
+    full_name: Nicholas Lundholm
+    following: True
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: False
-  - sname: sidneife
-    full_name: Sidnei Amaral Ferraz
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: True
 
 following:
-  - sname: musad
-    full_name: Musaddiq al-Pirani
+  - sname: imgirma
+    full_name: Girma Natnael Kaleb
     following: True
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: tronblom
+    full_name: Tron Blomquist
     following: True
-  - sname: stefilot
-    full_name: Stefan Lötvall
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
+  - sname: georgess
+    full_name: Georges Solé
     following: True
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
+  - sname: mahdaviB
+    full_name: Behzad Mahdavi
     following: True
-  - sname: pierrelv
-    full_name: Pierre-Louis Verninac
+  - sname: tuuliioo
+    full_name: Túlio Amorim Morais
     following: True
-  - sname: arthits
-    full_name: Arthit Sansurin
+  - sname: samana
+    full_name: Saman Arabnia
+    following: True
+  - sname: vfds
+    full_name: Vinicius Ferraz de Souza
     following: True
 
 profpic:
   - url: /player-prof-011.jpg
 
 pics:
-  - url: /random-007.jpg
-  - url: /random-010.jpg
-  - url: /random-001.jpg
+  - url: /random-002.jpg
+  - url: /random-008.jpg
+  - url: /random-005.jpg

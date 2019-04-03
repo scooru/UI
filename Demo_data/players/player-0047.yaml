@@ -6,117 +6,114 @@ short_name: Ragnar L.
 loc: Stockholm
 dob: 1988-10-31
 likes: 698
-sports: football tennis
+sports: football tennis basketball golf table-tennis
 
 categories:
-  - cat: Paralympic
-    pos: Full-back
+  - cat: Street
+    pos: Sweeper
 
 stats:
-  goals: 62
-  assists: 141
-  saves: 94
-  games: 139
-  hours: 1516
+  goals: 130
+  assists: 127
+  saves: 121
+  games: 246
+  hours: 610
 
 teams:
   - sname: lhfc
     pos: Sweeper
 
 games:
-  - date: 09/25/2016 09:11 PM
-    loc: Quanzhou
+  - date: 03/03/2008 07:24 AM
+    loc: Madrid
     visitor: Långholmens FC
-    home: Tahiti Untd
-  - date: 08/24/2005 05:16 AM
+    home: Kungsholmens FC
+  - date: 02/27/2001 08:31 AM
+    loc: Quanzhou
+    home: Långholmens FC
+    visitor: Portland F.C.
+  - date: 04/21/2006 07:31 AM
     loc: Tabriz
     home: Långholmens FC
     visitor: Osaka FT
-  - date: 03/20/2007 10:51 AM
-    loc: Córdoba
+  - date: 08/23/2013 08:37 PM
+    loc: Oran
+    home: Långholmens FC
+    visitor: Maui Pilots FC
+  - date: 09/15/2009 09:05 PM
+    loc: Havana
+    home: Långholmens FC
+    visitor: Long Island
+  - date: 12/29/2012 11:39 AM
+    loc: Isfahan
     visitor: Långholmens FC
-    home: Mozambique F.C.
-  - date: 09/22/2015 07:25 AM
-    loc: Kawasaki
-    visitor: Långholmens FC
-    home: Mozambique F.C.
-  - date: 01/05/2001 04:10 AM
-    loc: Tabriz
-    visitor: Långholmens FC
-    home: Long Island
+    home: Maui Pilots FC
 
 followers:
-  - sname: nicholas
-    full_name: Nicholas Lundholm
-    following: True
-  - sname: MrTaheri
-    full_name: Taghi Taheri
+  - sname: maliwanc
+    full_name: Maliwan Chaiprasit
     following: False
-  - sname: gulemaym
-    full_name: Gulema Yihun Mihret
-    following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
+  - sname: siamak
+    full_name: Siamak Yaghmaei
     following: True
-  - sname: nopjira
-    full_name: Nopjira Gaysorn
-    following: True
-  - sname: ruangri
-    full_name: Ruangrit Srisati
-    following: True
-  - sname: imgirma
-    full_name: Girma Natnael Kaleb
-    following: True
-  - sname: ahongha
-    full_name: Akkanee Honghannarong
+  - sname: jeneve
+    full_name: Jeneve Dessalegne Tessema
     following: False
-  - sname: musad
-    full_name: Musaddiq al-Pirani
+  - sname: angelmoi
+    full_name: Angélique Ardouin
+    following: True
+  - sname: leandac
+    full_name: Leandro Antunes Couto
+    following: True
+  - sname: bernarcool
+    full_name: Bernardo Maia Álvarez
+    following: True
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: False
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: False
-  - sname: arzhang
-    full_name: Arzhang Moshiri
+  - sname: ddeduardo
+    full_name: Eduardo Damasceno Delgado
+    following: True
+  - sname: chirkobi
+    full_name: Chirkos Abimelech Eleazar
     following: False
 
 following:
   - sname: ahongha
     full_name: Akkanee Honghannarong
     following: True
-  - sname: joelle
-    full_name: Joel Lennartsson
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
     following: True
-  - sname: tronblom
-    full_name: Tron Blomquist
+  - sname: samana
+    full_name: Saman Arabnia
     following: True
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
+  - sname: stefilot
+    full_name: Stefan Lötvall
     following: True
-  - sname: nopjira
-    full_name: Nopjira Gaysorn
+  - sname: dibadiba
+    full_name: Abbas Diba
     following: True
-  - sname: maliwanc
-    full_name: Maliwan Chaiprasit
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
     following: True
-  - sname: asamenzg
-    full_name: Asamenew Zewedu Gorfu
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
+    following: True
+  - sname: robertam
+    full_name: Roberta Medeiros Menezes
     following: True
   - sname: duchan
     full_name: Duchanee Srisati
-    following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
-    following: True
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
     following: True
 
 profpic:
   - url: /player-prof-045.jpg
 
 pics:
-  - url: /random-001.jpg
-  - url: /random-002.jpg
-  - url: /random-007.jpg
   - url: /random-003.jpg
+  - url: /random-009.jpg
+  - url: /random-004.jpg
+  - url: /random-005.jpg
+  - url: /random-008.jpg
+  - url: /random-007.jpg

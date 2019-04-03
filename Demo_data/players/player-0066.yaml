@@ -6,132 +6,107 @@ short_name: Maliwan C.
 loc: Bangkok
 dob: 1986-12-30
 likes: 979
-sports: football table-tennis tennis volleyball
+sports: football
 
 categories:
-  - cat: Indoor
-    pos: Wide midfield
+  - cat: Paralympic
+    pos: Attacking midfield
 
 stats:
-  goals: 68
-  assists: 96
-  saves: 119
-  games: 286
-  hours: 1780
+  goals: 66
+  assists: 195
+  saves: 142
+  games: 115
+  hours: 1612
 
 teams:
   - sname: pxfc
     pos: Second striker
 
 games:
-  - date: 09/19/2006 01:34 PM
-    loc: Madrid
-    visitor: Phoenix F.C.
-    home: Tahiti Untd
-  - date: 11/20/2016 12:56 AM
-    loc: Busan
-    home: Phoenix F.C.
-    visitor: Long Island
-  - date: 07/15/2009 01:50 PM
-    loc: Mexico City
-    visitor: Phoenix F.C.
-    home: Long Island
-  - date: 04/02/2012 09:14 PM
-    loc: Madrid
-    visitor: Phoenix F.C.
-    home: Osaka FT
-  - date: 05/01/2004 08:00 PM
+  - date: 08/07/2016 12:06 PM
     loc: Cairo
     home: Phoenix F.C.
-    visitor: Maui Pilots FC
-  - date: 05/11/2016 10:02 AM
-    loc: Quezon City
+    visitor: FC Venice 89
+  - date: 06/02/2008 06:47 PM
+    loc: Mexico City
     visitor: Phoenix F.C.
     home: Portland F.C.
+  - date: 06/04/2015 11:18 PM
+    loc: Fuzhou
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+  - date: 10/13/2015 06:01 AM
+    loc: Isfahan
+    home: Phoenix F.C.
+    visitor: Hiawatha
+  - date: 10/30/2005 10:23 AM
+    loc: Beijing
+    visitor: Phoenix F.C.
+    home: Portland F.C.
+  - date: 05/16/2007 08:30 PM
+    loc: Kawasaki
+    home: Phoenix F.C.
+    visitor: Kungsholmens FC
 
 followers:
-  - sname: mettepast
-    full_name: Guillemette Pasteur
+  - sname: brekime
+    full_name: Brehan Kidane Meles
     following: False
-  - sname: ojonss
-    full_name: Ögge Jönsson
+  - sname: memman
+    full_name: Marcel Emmanuelli
     following: False
-  - sname: mirabe
-    full_name: Mirabe Nahum Selassie
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: False
-  - sname: HeFaroo
-    full_name: Husni el-Farooqui
-    following: False
-  - sname: fjohanss
-    full_name: Fia Johannesson
-    following: False
-  - sname: hildrd
-    full_name: Hildr Dalin
-    following: False
-  - sname: ralarie
-    full_name: Raoul Alarie
-    following: True
-  - sname: danjacq
-    full_name: Dany Jacquard
-    following: False
-  - sname: alemu1
-    full_name: Alemu Bekele Yitay
-    following: False
-  - sname: bossjira
-    full_name: Jirasak Srichure
+  - sname: arzhang
+    full_name: Arzhang Moshiri
     following: True
   - sname: georgess
     full_name: Georges Solé
     following: True
-  - sname: tuuliioo
-    full_name: Túlio Amorim Morais
+  - sname: samana
+    full_name: Saman Arabnia
+    following: False
+  - sname: pierrelv
+    full_name: Pierre-Louis Verninac
+    following: False
+  - sname: banthornn
+    full_name: Banthorn Noppachorn
     following: False
 
 following:
-  - sname: ragnarlin
-    full_name: Ragnar Lindgren
+  - sname: musad
+    full_name: Musaddiq al-Pirani
     following: True
-  - sname: piyachar
-    full_name: Piyapat Charanachitta
-    following: True
-  - sname: baptistea
-    full_name: Baptiste Alard
-    following: True
-  - sname: lexrox
-    full_name: Alexis Gaubert
-    following: True
-  - sname: georgess
-    full_name: Georges Solé
-    following: True
-  - sname: robertam
-    full_name: Roberta Medeiros Menezes
-    following: True
-  - sname: afewer
-    full_name: Afewerek Eyoel Abimelech
-    following: True
-  - sname: vfds
-    full_name: Vinicius Ferraz de Souza
-    following: True
-  - sname: marcionf
-    full_name: Márcio Nascimento Furtado
-    following: True
-  - sname: hildrd
-    full_name: Hildr Dalin
+  - sname: wolitna
+    full_name: Wolitigna Adugna Mesay
     following: True
   - sname: tronblom
     full_name: Tron Blomquist
     following: True
-  - sname: bernarcool
-    full_name: Bernardo Maia Álvarez
+  - sname: arzhang
+    full_name: Arzhang Moshiri
+    following: True
+  - sname: duchan
+    full_name: Duchanee Srisati
+    following: True
+  - sname: sidneife
+    full_name: Sidnei Amaral Ferraz
+    following: True
+  - sname: josehey
+    full_name: José Hamada Barros
+    following: True
+  - sname: hanuman
+    full_name: Hanuman Klinpraneet
     following: True
 
 profpic:
   - url: /player-prof-058.jpg
 
 pics:
-  - url: /random-010.jpg
-  - url: /random-008.jpg
+  - url: /random-006.jpg
+  - url: /random-001.jpg
   - url: /random-007.jpg
-  - url: /random-005.jpg
-  - url: /random-009.jpg
-  - url: /random-003.jpg
+  - url: /random-004.jpg
+  - url: /random-010.jpg
