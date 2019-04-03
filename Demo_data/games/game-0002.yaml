@@ -1,0 +1,114 @@
+---
+game-id: 0002
+date: 01/24/2011 02:18 PM
+loc: Quanzhou
+live: False
+referrees:
+  - name: Pierre-Yves Longe (French)
+home:
+  team_id: 0001
+  team_name: AWFC
+  coaches:
+    - name: Amal Alfarsi
+
+  players:
+    - name: Musaddiq al-Pirani
+      position: Goalkeeper
+      out: 73'
+    - name: Husni el-Farooqui
+      position: Centre-back
+    - name: Hasan el-Matin
+      position: Sweeper
+    - name: Naseeba al-Yousuf
+      position: Full-back
+    - name: Safwaan el-Koroma
+      position: Wing-back
+    - name: Behzad Mahdavi
+      position: Centre midfield
+    - name: Arzhang Moshiri
+      position: Defensive midfield
+      out: 85'
+    - name: Taghi Taheri
+      position: Attacking midfield
+    - name: Abbas Diba
+      position: Wide midfield
+    - name: Siamak Yaghmaei
+      position: Centre forward
+      out: 48'
+    - name: Saman Arabnia
+      position: Second striker
+      out: 51'
+  substitutions:
+    - etime: 73
+      out: Musaddiq al-Pirani
+      in: Farhat Yilmaz
+    - etime: 85
+      out: Arzhang Moshiri
+      in: Farhat Yilmaz
+    - etime: 48
+      out: Siamak Yaghmaei
+      in: Arvid Odegard
+    - etime: 51
+      out: Saman Arabnia
+      in: Inacio Lacerda
+  stats:
+    on_target: 1
+    off_target: 2
+    possession: 46
+    corners: 7
+    offsides: 5
+    foul: 14
+    yellow: 5
+
+
+visitors:
+  team_id: 0003
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - name: Gulema Yihun Mihret
+      position: Centre-back
+      out: 57'
+    - name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 46'
+    - name: Brehan Kidane Meles
+      position: Wing-back
+    - name: Mirabe Nahum Selassie
+      position: Centre midfield
+      out: 80'
+    - name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+    - name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - name: Jeneve Dessalegne Tessema
+      position: Second striker
+  substitutions:
+    - etime: 57
+      out: Gulema Yihun Mihret
+      in: Fethee Tenagnework
+    - etime: 46
+      out: Afewerek Eyoel Abimelech
+      in: Cherise Bey
+    - etime: 80
+      out: Mirabe Nahum Selassie
+      in: Pierre-Yves Longe
+  stats:
+    on_target: 1
+    off_target: 7
+    possession: 58
+    corners: 6
+    offsides: 5
+    foul: 5
+    yellow: 4
+

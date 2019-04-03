@@ -1,0 +1,98 @@
+---
+game-id: 0003
+date: 11/25/2011 11:06 PM
+loc: Buenos Aires
+live: False
+referrees:
+  - name: Fethee Tenagnework (Ethiopian)
+home:
+  team_id: 0001
+  team_name: AWFC
+  coaches:
+    - name: Amal Alfarsi
+
+  players:
+    - name: Musaddiq al-Pirani
+      position: Goalkeeper
+    - name: Husni el-Farooqui
+      position: Centre-back
+    - name: Hasan el-Matin
+      position: Sweeper
+    - name: Naseeba al-Yousuf
+      position: Full-back
+      out: 81'
+    - name: Safwaan el-Koroma
+      position: Wing-back
+    - name: Behzad Mahdavi
+      position: Centre midfield
+    - name: Arzhang Moshiri
+      position: Defensive midfield
+    - name: Taghi Taheri
+      position: Attacking midfield
+    - name: Abbas Diba
+      position: Wide midfield
+    - name: Siamak Yaghmaei
+      position: Centre forward
+    - name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 81
+      out: Naseeba al-Yousuf
+      in: Anne Walbruch
+  stats:
+    on_target: 2
+    off_target: 3
+    possession: 40
+    corners: 5
+    offsides: 6
+    foul: 14
+    yellow: 4
+
+
+visitors:
+  team_id: 0004
+  team_name: FM91
+  coaches:
+    - name: Jean-Luc Gareau
+
+  players:
+    - name: Alexis Gaubert
+      position: Goalkeeper
+    - name: Georges Solé
+      position: Centre-back
+    - name: Marcel Emmanuelli
+      position: Sweeper
+      out: 59'
+    - name: Pierre-Louis Verninac
+      position: Full-back
+    - name: Aymeric Chéreau
+      position: Wing-back
+    - name: Raoul Alarie
+      position: Centre midfield
+    - name: Guillemette Pasteur
+      position: Defensive midfield
+    - name: Baptiste Alard
+      position: Attacking midfield
+    - name: Dany Jacquard
+      position: Wide midfield
+      out: 70'
+    - name: Jean-Philippe Paquin
+      position: Centre forward
+    - name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 59
+      out: Marcel Emmanuelli
+      in: Cherise Bey
+    - etime: 70
+      out: Dany Jacquard
+      in: Fethee Tenagnework
+  stats:
+    on_target: 3
+    off_target: 4
+    possession: 46
+    corners: 7
+    offsides: 6
+    foul: 2
+    yellow: 4
+

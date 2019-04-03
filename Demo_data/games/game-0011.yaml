@@ -1,0 +1,106 @@
+---
+game-id: 0011
+date: 02/21/2002 10:16 AM
+loc: Mandalay
+live: False
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  team_id: 0003
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - name: Gulema Yihun Mihret
+      position: Centre-back
+    - name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 49'
+    - name: Brehan Kidane Meles
+      position: Wing-back
+    - name: Mirabe Nahum Selassie
+      position: Centre midfield
+    - name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+      out: 53'
+    - name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+    - name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - name: Jeneve Dessalegne Tessema
+      position: Second striker
+      out: 89'
+  substitutions:
+    - etime: 49
+      out: Afewerek Eyoel Abimelech
+      in: Fethee Tenagnework
+    - etime: 53
+      out: Wolitigna Adugna Mesay
+      in: Paithoon Suthikul
+    - etime: 89
+      out: Jeneve Dessalegne Tessema
+      in: Inacio Lacerda
+  stats:
+    on_target: 2
+    off_target: 2
+    possession: 54
+    corners: 3
+    offsides: 6
+    foul: 14
+    yellow: 5
+
+
+visitors:
+  team_id: 0005
+  team_name: LHFC
+  coaches:
+    - name: Nils Landin
+
+  players:
+    - name: Hildr Dalin
+      position: Goalkeeper
+    - name: Tron Blomquist
+      position: Centre-back
+      out: 51'
+    - name: Ragnar Lindgren
+      position: Sweeper
+    - name: Joel Lennartsson
+      position: Full-back
+    - name: Nicholas Lundholm
+      position: Wing-back
+    - name: Thomas Borg
+      position: Centre midfield
+    - name: Stefan Lötvall
+      position: Defensive midfield
+      out: 74'
+    - name: Ögge Jönsson
+      position: Attacking midfield
+    - name: Joel Liljeström
+      position: Wide midfield
+    - name: Pia Frisk
+      position: Centre forward
+    - name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 51
+      out: Tron Blomquist
+      in: Inacio Lacerda
+    - etime: 74
+      out: Stefan Lötvall
+      in: Anne Walbruch
+  stats:
+    on_target: 4
+    off_target: 5
+    possession: 52
+    corners: 3
+    offsides: 6
+    foul: 11
+    yellow: 1
+

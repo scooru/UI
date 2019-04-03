@@ -1,0 +1,114 @@
+---
+game-id: 0006
+date: 11/02/2006 06:12 PM
+loc: Bengaluru
+live: True
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  team_id: 0002
+  team_name: PALM
+  coaches:
+    - name: Alondra Caixeta
+
+  players:
+    - name: Túlio Amorim Morais
+      position: Goalkeeper
+    - name: Márcio Nascimento Furtado
+      position: Centre-back
+      out: 63'
+    - name: Iago Martins Belluci
+      position: Sweeper
+      out: 46'
+    - name: Sidnei Amaral Ferraz
+      position: Full-back
+    - name: José Hamada Barros
+      position: Wing-back
+      out: 61'
+    - name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - name: Leandro Antunes Couto
+      position: Wide midfield
+    - name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - name: Roberta Medeiros Menezes
+      position: Second striker
+      out: 54'
+  substitutions:
+    - etime: 63
+      out: Márcio Nascimento Furtado
+      in: Fethee Tenagnework
+    - etime: 46
+      out: Iago Martins Belluci
+      in: Inacio Lacerda
+    - etime: 61
+      out: José Hamada Barros
+      in: Paithoon Suthikul
+    - etime: 54
+      out: Roberta Medeiros Menezes
+      in: Fethee Tenagnework
+  stats:
+    on_target: 2
+    off_target: 2
+    possession: 44
+    corners: 3
+    offsides: 2
+    foul: 3
+    yellow: 7
+
+
+visitors:
+  team_id: 0003
+  team_name: ENFT
+  coaches:
+    - name: Merille Haroyu
+
+  players:
+    - name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - name: Gulema Yihun Mihret
+      position: Centre-back
+    - name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 64'
+    - name: Brehan Kidane Meles
+      position: Wing-back
+    - name: Mirabe Nahum Selassie
+      position: Centre midfield
+    - name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+      out: 46'
+    - name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - name: Jeneve Dessalegne Tessema
+      position: Second striker
+      out: 54'
+  substitutions:
+    - etime: 64
+      out: Afewerek Eyoel Abimelech
+      in: Gul Bardakci
+    - etime: 46
+      out: Asamenew Zewedu Gorfu
+      in: Ubon Buasuwan
+    - etime: 54
+      out: Jeneve Dessalegne Tessema
+      in: Cherise Bey
+  stats:
+    on_target: 5
+    off_target: 5
+    possession: 47
+    corners: 5
+    offsides: 2
+    foul: 2
+    yellow: 1
+

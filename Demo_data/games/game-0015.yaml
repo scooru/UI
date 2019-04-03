@@ -1,0 +1,98 @@
+---
+game-id: 0015
+date: 01/02/2006 04:44 PM
+loc: Madrid
+live: True
+referrees:
+  - name: Paithoon Suthikul (Thai)
+home:
+  team_id: 0005
+  team_name: LHFC
+  coaches:
+    - name: Nils Landin
+
+  players:
+    - name: Hildr Dalin
+      position: Goalkeeper
+    - name: Tron Blomquist
+      position: Centre-back
+    - name: Ragnar Lindgren
+      position: Sweeper
+      out: 66'
+    - name: Joel Lennartsson
+      position: Full-back
+    - name: Nicholas Lundholm
+      position: Wing-back
+    - name: Thomas Borg
+      position: Centre midfield
+    - name: Stefan Lötvall
+      position: Defensive midfield
+    - name: Ögge Jönsson
+      position: Attacking midfield
+    - name: Joel Liljeström
+      position: Wide midfield
+    - name: Pia Frisk
+      position: Centre forward
+    - name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 66
+      out: Ragnar Lindgren
+      in: Cherise Bey
+  stats:
+    on_target: 1
+    off_target: 4
+    possession: 49
+    corners: 6
+    offsides: 7
+    foul: 13
+    yellow: 4
+
+
+visitors:
+  team_id: 0006
+  team_name: PXFC
+  coaches:
+    - name: Kulap (Ice) Hatthapradit
+
+  players:
+    - name: Surin () Wattanasin
+      position: Goalkeeper
+    - name: Akkanee Honghannarong
+      position: Centre-back
+    - name: Arthit Sansurin
+      position: Sweeper
+    - name: Hanuman Klinpraneet
+      position: Full-back
+    - name: Ruangrit Srisati
+      position: Wing-back
+    - name: Duchanee Srisati
+      position: Centre midfield
+      out: 51'
+    - name: Banthorn Noppachorn
+      position: Defensive midfield
+      out: 56'
+    - name: Nopjira Gaysorn
+      position: Attacking midfield
+    - name: Jirasak Srichure
+      position: Wide midfield
+    - name: Piyapat Charanachitta
+      position: Centre forward
+    - name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 51
+      out: Duchanee Srisati
+      in: Cherise Bey
+    - etime: 56
+      out: Banthorn Noppachorn
+      in: Farhat Yilmaz
+  stats:
+    on_target: 1
+    off_target: 3
+    possession: 49
+    corners: 4
+    offsides: 5
+    foul: 2
+    yellow: 5
+

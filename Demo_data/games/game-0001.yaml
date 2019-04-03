@@ -1,0 +1,110 @@
+---
+game-id: 0001
+date: 10/09/2001 01:02 PM
+loc: Mandalay
+live: False
+referrees:
+  - name: Pierre-Yves Longe (French)
+home:
+  team_id: 0001
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - name: Musaddiq al-Pirani
+      position: Goalkeeper
+    - name: Husni el-Farooqui
+      position: Centre-back
+    - name: Hasan el-Matin
+      position: Sweeper
+      out: 79'
+    - name: Naseeba al-Yousuf
+      position: Full-back
+    - name: Safwaan el-Koroma
+      position: Wing-back
+    - name: Behzad Mahdavi
+      position: Centre midfield
+      out: 85'
+    - name: Arzhang Moshiri
+      position: Defensive midfield
+    - name: Taghi Taheri
+      position: Attacking midfield
+    - name: Abbas Diba
+      position: Wide midfield
+      out: 46'
+    - name: Siamak Yaghmaei
+      position: Centre forward
+    - name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 79
+      out: Hasan el-Matin
+      in: Gul Bardakci
+    - etime: 85
+      out: Behzad Mahdavi
+      in: Paithoon Suthikul
+    - etime: 46
+      out: Abbas Diba
+      in: Lishan Wube
+  stats:
+    on_target: 1
+    off_target: 7
+    possession: 53
+    corners: 6
+    offsides: 4
+    foul: 12
+    yellow: 6
+
+
+visitors:
+  team_id: 0002
+  team_name: PALM
+  coaches:
+    - name: Ernesto Pires
+
+  players:
+    - name: Túlio Amorim Morais
+      position: Goalkeeper
+    - name: Márcio Nascimento Furtado
+      position: Centre-back
+    - name: Iago Martins Belluci
+      position: Sweeper
+    - name: Sidnei Amaral Ferraz
+      position: Full-back
+    - name: José Hamada Barros
+      position: Wing-back
+    - name: Francine Gonçalves Caetano
+      position: Centre midfield
+      out: 56'
+    - name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+      out: 49'
+    - name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - name: Leandro Antunes Couto
+      position: Wide midfield
+    - name: Vinicius Ferraz de Souza
+      position: Centre forward
+      out: 82'
+    - name: Roberta Medeiros Menezes
+      position: Second striker
+  substitutions:
+    - etime: 56
+      out: Francine Gonçalves Caetano
+      in: Cherise Bey
+    - etime: 49
+      out: Eduardo Damasceno Delgado
+      in: Cherise Bey
+    - etime: 82
+      out: Vinicius Ferraz de Souza
+      in: Gul Bardakci
+  stats:
+    on_target: 3
+    off_target: 4
+    possession: 58
+    corners: 2
+    offsides: 2
+    foul: 6
+    yellow: 6
+

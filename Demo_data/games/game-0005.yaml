@@ -1,0 +1,98 @@
+---
+game-id: 0005
+date: 12/30/2016 11:22 PM
+loc: Mexico City
+live: False
+referrees:
+  - name: Ubon Buasuwan (Thai)
+home:
+  team_id: 0001
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - name: Musaddiq al-Pirani
+      position: Goalkeeper
+    - name: Husni el-Farooqui
+      position: Centre-back
+    - name: Hasan el-Matin
+      position: Sweeper
+    - name: Naseeba al-Yousuf
+      position: Full-back
+    - name: Safwaan el-Koroma
+      position: Wing-back
+    - name: Behzad Mahdavi
+      position: Centre midfield
+      out: 63'
+    - name: Arzhang Moshiri
+      position: Defensive midfield
+    - name: Taghi Taheri
+      position: Attacking midfield
+    - name: Abbas Diba
+      position: Wide midfield
+      out: 82'
+    - name: Siamak Yaghmaei
+      position: Centre forward
+    - name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 63
+      out: Behzad Mahdavi
+      in: Arvid Odegard
+    - etime: 82
+      out: Abbas Diba
+      in: Ebba Vong
+  stats:
+    on_target: 2
+    off_target: 2
+    possession: 54
+    corners: 4
+    offsides: 5
+    foul: 2
+    yellow: 1
+
+
+visitors:
+  team_id: 0006
+  team_name: PXFC
+  coaches:
+    - name: Boonsri (Aom) Thipol
+
+  players:
+    - name: Surin () Wattanasin
+      position: Goalkeeper
+    - name: Akkanee Honghannarong
+      position: Centre-back
+    - name: Arthit Sansurin
+      position: Sweeper
+    - name: Hanuman Klinpraneet
+      position: Full-back
+    - name: Ruangrit Srisati
+      position: Wing-back
+    - name: Duchanee Srisati
+      position: Centre midfield
+    - name: Banthorn Noppachorn
+      position: Defensive midfield
+    - name: Nopjira Gaysorn
+      position: Attacking midfield
+    - name: Jirasak Srichure
+      position: Wide midfield
+    - name: Piyapat Charanachitta
+      position: Centre forward
+    - name: Maliwan Chaiprasit
+      position: Second striker
+      out: 79'
+  substitutions:
+    - etime: 79
+      out: Maliwan Chaiprasit
+      in: Ebba Vong
+  stats:
+    on_target: 0
+    off_target: 7
+    possession: 44
+    corners: 6
+    offsides: 3
+    foul: 6
+    yellow: 0
+

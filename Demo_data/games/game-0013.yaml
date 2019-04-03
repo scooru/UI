@@ -1,0 +1,114 @@
+---
+game-id: 0013
+date: 04/16/2006 01:38 PM
+loc: Oran
+live: False
+referrees:
+  - name: Ubon Buasuwan (Thai)
+home:
+  team_id: 0004
+  team_name: FM91
+  coaches:
+    - name: Claire Angers
+
+  players:
+    - name: Alexis Gaubert
+      position: Goalkeeper
+      out: 61'
+    - name: Georges Solé
+      position: Centre-back
+      out: 45'
+    - name: Marcel Emmanuelli
+      position: Sweeper
+    - name: Pierre-Louis Verninac
+      position: Full-back
+      out: 57'
+    - name: Aymeric Chéreau
+      position: Wing-back
+    - name: Raoul Alarie
+      position: Centre midfield
+      out: 51'
+    - name: Guillemette Pasteur
+      position: Defensive midfield
+    - name: Baptiste Alard
+      position: Attacking midfield
+    - name: Dany Jacquard
+      position: Wide midfield
+      out: 89'
+    - name: Jean-Philippe Paquin
+      position: Centre forward
+    - name: Angélique Ardouin
+      position: Second striker
+  substitutions:
+    - etime: 61
+      out: Alexis Gaubert
+      in: Paithoon Suthikul
+    - etime: 45
+      out: Georges Solé
+      in: Fethee Tenagnework
+    - etime: 57
+      out: Pierre-Louis Verninac
+      in: Farhat Yilmaz
+    - etime: 51
+      out: Raoul Alarie
+      in: Gul Bardakci
+    - etime: 89
+      out: Dany Jacquard
+      in: Pierre-Yves Longe
+  stats:
+    on_target: 4
+    off_target: 4
+    possession: 60
+    corners: 2
+    offsides: 4
+    foul: 8
+    yellow: 0
+
+
+visitors:
+  team_id: 0005
+  team_name: LHFC
+  coaches:
+    - name: Lilly Jernberg
+
+  players:
+    - name: Hildr Dalin
+      position: Goalkeeper
+    - name: Tron Blomquist
+      position: Centre-back
+    - name: Ragnar Lindgren
+      position: Sweeper
+    - name: Joel Lennartsson
+      position: Full-back
+    - name: Nicholas Lundholm
+      position: Wing-back
+    - name: Thomas Borg
+      position: Centre midfield
+    - name: Stefan Lötvall
+      position: Defensive midfield
+    - name: Ögge Jönsson
+      position: Attacking midfield
+      out: 70'
+    - name: Joel Liljeström
+      position: Wide midfield
+    - name: Pia Frisk
+      position: Centre forward
+    - name: Fia Johannesson
+      position: Second striker
+      out: 49'
+  substitutions:
+    - etime: 70
+      out: Ögge Jönsson
+      in: Gul Bardakci
+    - etime: 49
+      out: Fia Johannesson
+      in: Pierre-Yves Longe
+  stats:
+    on_target: 1
+    off_target: 7
+    possession: 55
+    corners: 5
+    offsides: 3
+    foul: 5
+    yellow: 3
+

@@ -1,0 +1,106 @@
+---
+game-id: 0010
+date: 11/09/2006 08:58 PM
+loc: Havana
+live: False
+referrees:
+  - name: Anne Walbruch (Brazilian)
+home:
+  team_id: 0003
+  team_name: ENFT
+  coaches:
+    - name: Abeba Liban
+
+  players:
+    - name: Alemu Bekele Yitay
+      position: Goalkeeper
+    - name: Gulema Yihun Mihret
+      position: Centre-back
+    - name: Zewdnesh Tesfa Galawdeyos
+      position: Sweeper
+    - name: Afewerek Eyoel Abimelech
+      position: Full-back
+      out: 80'
+    - name: Brehan Kidane Meles
+      position: Wing-back
+    - name: Mirabe Nahum Selassie
+      position: Centre midfield
+      out: 55'
+    - name: Girma Natnael Kaleb
+      position: Defensive midfield
+    - name: Wolitigna Adugna Mesay
+      position: Attacking midfield
+    - name: Asamenew Zewedu Gorfu
+      position: Wide midfield
+      out: 48'
+    - name: Chirkos Abimelech Eleazar
+      position: Centre forward
+    - name: Jeneve Dessalegne Tessema
+      position: Second striker
+  substitutions:
+    - etime: 80
+      out: Afewerek Eyoel Abimelech
+      in: Arvid Odegard
+    - etime: 55
+      out: Mirabe Nahum Selassie
+      in: Pierre-Yves Longe
+    - etime: 48
+      out: Asamenew Zewedu Gorfu
+      in: Fethee Tenagnework
+  stats:
+    on_target: 2
+    off_target: 5
+    possession: 48
+    corners: 6
+    offsides: 5
+    foul: 10
+    yellow: 7
+
+
+visitors:
+  team_id: 0004
+  team_name: FM91
+  coaches:
+    - name: Jean-Luc Gareau
+
+  players:
+    - name: Alexis Gaubert
+      position: Goalkeeper
+    - name: Georges Solé
+      position: Centre-back
+    - name: Marcel Emmanuelli
+      position: Sweeper
+    - name: Pierre-Louis Verninac
+      position: Full-back
+    - name: Aymeric Chéreau
+      position: Wing-back
+    - name: Raoul Alarie
+      position: Centre midfield
+    - name: Guillemette Pasteur
+      position: Defensive midfield
+    - name: Baptiste Alard
+      position: Attacking midfield
+      out: 55'
+    - name: Dany Jacquard
+      position: Wide midfield
+    - name: Jean-Philippe Paquin
+      position: Centre forward
+    - name: Angélique Ardouin
+      position: Second striker
+      out: 78'
+  substitutions:
+    - etime: 55
+      out: Baptiste Alard
+      in: Inacio Lacerda
+    - etime: 78
+      out: Angélique Ardouin
+      in: Cherise Bey
+  stats:
+    on_target: 1
+    off_target: 6
+    possession: 57
+    corners: 4
+    offsides: 3
+    foul: 13
+    yellow: 1
+

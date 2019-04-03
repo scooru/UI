@@ -1,0 +1,102 @@
+---
+game-id: 0008
+date: 06/02/2004 05:20 PM
+loc: London
+live: False
+referrees:
+  - name: Inacio Lacerda (Brazilian)
+home:
+  team_id: 0002
+  team_name: PALM
+  coaches:
+    - name: Alondra Caixeta
+
+  players:
+    - name: Túlio Amorim Morais
+      position: Goalkeeper
+      out: 69'
+    - name: Márcio Nascimento Furtado
+      position: Centre-back
+      out: 69'
+    - name: Iago Martins Belluci
+      position: Sweeper
+    - name: Sidnei Amaral Ferraz
+      position: Full-back
+    - name: José Hamada Barros
+      position: Wing-back
+    - name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - name: Leandro Antunes Couto
+      position: Wide midfield
+    - name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - name: Roberta Medeiros Menezes
+      position: Second striker
+  substitutions:
+    - etime: 69
+      out: Túlio Amorim Morais
+      in: Ebba Vong
+    - etime: 69
+      out: Márcio Nascimento Furtado
+      in: Arvid Odegard
+  stats:
+    on_target: 0
+    off_target: 3
+    possession: 44
+    corners: 4
+    offsides: 3
+    foul: 11
+    yellow: 0
+
+
+visitors:
+  team_id: 0005
+  team_name: LHFC
+  coaches:
+    - name: Lilly Jernberg
+
+  players:
+    - name: Hildr Dalin
+      position: Goalkeeper
+    - name: Tron Blomquist
+      position: Centre-back
+    - name: Ragnar Lindgren
+      position: Sweeper
+      out: 74'
+    - name: Joel Lennartsson
+      position: Full-back
+    - name: Nicholas Lundholm
+      position: Wing-back
+    - name: Thomas Borg
+      position: Centre midfield
+    - name: Stefan Lötvall
+      position: Defensive midfield
+    - name: Ögge Jönsson
+      position: Attacking midfield
+      out: 87'
+    - name: Joel Liljeström
+      position: Wide midfield
+    - name: Pia Frisk
+      position: Centre forward
+    - name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 74
+      out: Ragnar Lindgren
+      in: Ebba Vong
+    - etime: 87
+      out: Ögge Jönsson
+      in: Cherise Bey
+  stats:
+    on_target: 1
+    off_target: 4
+    possession: 55
+    corners: 6
+    offsides: 2
+    foul: 7
+    yellow: 7
+

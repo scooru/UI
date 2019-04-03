@@ -1,0 +1,102 @@
+---
+game-id: 0004
+date: 06/09/2013 12:57 PM
+loc: Mexico City
+live: True
+referrees:
+  - name: Gul Bardakci (Turkish)
+home:
+  team_id: 0001
+  team_name: AWFC
+  coaches:
+    - name: Saladin Toma
+
+  players:
+    - name: Musaddiq al-Pirani
+      position: Goalkeeper
+      out: 86'
+    - name: Husni el-Farooqui
+      position: Centre-back
+    - name: Hasan el-Matin
+      position: Sweeper
+    - name: Naseeba al-Yousuf
+      position: Full-back
+    - name: Safwaan el-Koroma
+      position: Wing-back
+    - name: Behzad Mahdavi
+      position: Centre midfield
+    - name: Arzhang Moshiri
+      position: Defensive midfield
+    - name: Taghi Taheri
+      position: Attacking midfield
+    - name: Abbas Diba
+      position: Wide midfield
+    - name: Siamak Yaghmaei
+      position: Centre forward
+    - name: Saman Arabnia
+      position: Second striker
+  substitutions:
+    - etime: 86
+      out: Musaddiq al-Pirani
+      in: Lishan Wube
+  stats:
+    on_target: 3
+    off_target: 7
+    possession: 51
+    corners: 3
+    offsides: 2
+    foul: 12
+    yellow: 7
+
+
+visitors:
+  team_id: 0005
+  team_name: LHFC
+  coaches:
+    - name: Lilly Jernberg
+
+  players:
+    - name: Hildr Dalin
+      position: Goalkeeper
+    - name: Tron Blomquist
+      position: Centre-back
+    - name: Ragnar Lindgren
+      position: Sweeper
+    - name: Joel Lennartsson
+      position: Full-back
+    - name: Nicholas Lundholm
+      position: Wing-back
+      out: 84'
+    - name: Thomas Borg
+      position: Centre midfield
+    - name: Stefan Lötvall
+      position: Defensive midfield
+    - name: Ögge Jönsson
+      position: Attacking midfield
+    - name: Joel Liljeström
+      position: Wide midfield
+      out: 88'
+    - name: Pia Frisk
+      position: Centre forward
+      out: 60'
+    - name: Fia Johannesson
+      position: Second striker
+  substitutions:
+    - etime: 84
+      out: Nicholas Lundholm
+      in: Anne Walbruch
+    - etime: 88
+      out: Joel Liljeström
+      in: Fethee Tenagnework
+    - etime: 60
+      out: Pia Frisk
+      in: Ebba Vong
+  stats:
+    on_target: 1
+    off_target: 5
+    possession: 47
+    corners: 6
+    offsides: 6
+    foul: 13
+    yellow: 7
+

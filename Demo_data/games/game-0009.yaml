@@ -1,0 +1,106 @@
+---
+game-id: 0009
+date: 04/08/2012 05:12 AM
+loc: Mandalay
+live: False
+referrees:
+  - name: Ebba Vong (Swedish)
+home:
+  team_id: 0002
+  team_name: PALM
+  coaches:
+    - name: Ernesto Pires
+
+  players:
+    - name: Túlio Amorim Morais
+      position: Goalkeeper
+      out: 52'
+    - name: Márcio Nascimento Furtado
+      position: Centre-back
+    - name: Iago Martins Belluci
+      position: Sweeper
+    - name: Sidnei Amaral Ferraz
+      position: Full-back
+      out: 74'
+    - name: José Hamada Barros
+      position: Wing-back
+    - name: Francine Gonçalves Caetano
+      position: Centre midfield
+    - name: Eduardo Damasceno Delgado
+      position: Defensive midfield
+    - name: Bernardo Maia Álvarez
+      position: Attacking midfield
+    - name: Leandro Antunes Couto
+      position: Wide midfield
+    - name: Vinicius Ferraz de Souza
+      position: Centre forward
+    - name: Roberta Medeiros Menezes
+      position: Second striker
+      out: 70'
+  substitutions:
+    - etime: 52
+      out: Túlio Amorim Morais
+      in: Pierre-Yves Longe
+    - etime: 74
+      out: Sidnei Amaral Ferraz
+      in: Fethee Tenagnework
+    - etime: 70
+      out: Roberta Medeiros Menezes
+      in: Cherise Bey
+  stats:
+    on_target: 2
+    off_target: 7
+    possession: 58
+    corners: 5
+    offsides: 3
+    foul: 11
+    yellow: 0
+
+
+visitors:
+  team_id: 0006
+  team_name: PXFC
+  coaches:
+    - name: Kulap (Ice) Hatthapradit
+
+  players:
+    - name: Surin () Wattanasin
+      position: Goalkeeper
+    - name: Akkanee Honghannarong
+      position: Centre-back
+    - name: Arthit Sansurin
+      position: Sweeper
+      out: 74'
+    - name: Hanuman Klinpraneet
+      position: Full-back
+    - name: Ruangrit Srisati
+      position: Wing-back
+      out: 46'
+    - name: Duchanee Srisati
+      position: Centre midfield
+    - name: Banthorn Noppachorn
+      position: Defensive midfield
+    - name: Nopjira Gaysorn
+      position: Attacking midfield
+    - name: Jirasak Srichure
+      position: Wide midfield
+    - name: Piyapat Charanachitta
+      position: Centre forward
+    - name: Maliwan Chaiprasit
+      position: Second striker
+  substitutions:
+    - etime: 74
+      out: Arthit Sansurin
+      in: Gul Bardakci
+    - etime: 46
+      out: Ruangrit Srisati
+      in: Paithoon Suthikul
+  stats:
+    on_target: 3
+    off_target: 2
+    possession: 47
+    corners: 7
+    offsides: 3
+    foul: 7
+    yellow: 0
+
