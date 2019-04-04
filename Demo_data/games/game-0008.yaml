@@ -95,19 +95,19 @@ minutes:
   - type: goal
     etime: 32
     home: Francine Gonçalves Caetano
-    assist: Francine Gonçalves Caetano
+    assist: Sidnei Amaral Ferraz
     score: 1:0
   - type: goal
     etime: 36
     visitor: Ögge Jönsson
-    assist: Ögge Jönsson
+    assist: Pia Frisk
     score: 1:1
   - type: half_time
     etime: 45
     score: 1:1
   - type: goal
     etime: 46
-    visitor: Joel Liljeström
+    visitor: Pia Frisk
     assist: Joel Liljeström
     score: 1:2
   - type: yellow
