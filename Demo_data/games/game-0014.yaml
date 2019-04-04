@@ -1,21 +1,22 @@
 ---
 game-id: 0014
-date: 05/23/2007 11:17 PM
-loc: Quanzhou
+date: 10/18/2016 08:19 AM
+loc: Mandalay
 live: False
 referrees:
-  - name: Farhat Yilmaz (Turkish)
+  - name: Lishan Wube (Ethiopian)
 home:
   team_id: 0004
   team_name: FM91
   coaches:
-    - name: Claire Angers
+    - name: Jean-Luc Gareau
 
   players:
     - name: Alexis Gaubert
       position: Goalkeeper
     - name: Georges Solé
       position: Centre-back
+      out: 60'
     - name: Marcel Emmanuelli
       position: Sweeper
     - name: Pierre-Louis Verninac
@@ -30,43 +31,43 @@ home:
       position: Attacking midfield
     - name: Dany Jacquard
       position: Wide midfield
-      out: 50'
     - name: Jean-Philippe Paquin
       position: Centre forward
-      out: 67'
     - name: Angélique Ardouin
       position: Second striker
+      out: 50'
   substitutions:
+    - etime: 60
+      out: Georges Solé
+      in: Paithoon Suthikul
     - etime: 50
-      out: Dany Jacquard
-      in: Cherise Bey
-    - etime: 67
-      out: Jean-Philippe Paquin
-      in: Lishan Wube
+      out: Angélique Ardouin
+      in: Farhat Yilmaz
   stats:
-    on_target: 0
-    off_target: 5
-    possession: 57
-    corners: 6
+    on_target: 1
+    off_target: 4
+    possession: 44
+    corners: 7
     offsides: 7
-    foul: 2
-    yellow: 7
+    foul: 8
+    yellow: 4
 
 
 visitors:
   team_id: 0006
   team_name: PXFC
   coaches:
-    - name: Boonsri (Aom) Thipol
+    - name: Kulap (Ice) Hatthapradit
 
   players:
     - name: Surin () Wattanasin
       position: Goalkeeper
     - name: Akkanee Honghannarong
       position: Centre-back
-      out: 48'
+      out: 45'
     - name: Arthit Sansurin
       position: Sweeper
+      out: 80'
     - name: Hanuman Klinpraneet
       position: Full-back
     - name: Ruangrit Srisati
@@ -75,32 +76,76 @@ visitors:
       position: Centre midfield
     - name: Banthorn Noppachorn
       position: Defensive midfield
-      out: 88'
     - name: Nopjira Gaysorn
       position: Attacking midfield
+      out: 46'
     - name: Jirasak Srichure
       position: Wide midfield
     - name: Piyapat Charanachitta
       position: Centre forward
+      out: 67'
     - name: Maliwan Chaiprasit
       position: Second striker
-      out: 46'
   substitutions:
-    - etime: 48
+    - etime: 45
       out: Akkanee Honghannarong
+      in: Anne Walbruch
+    - etime: 80
+      out: Arthit Sansurin
       in: Paithoon Suthikul
-    - etime: 88
-      out: Banthorn Noppachorn
-      in: Cherise Bey
     - etime: 46
-      out: Maliwan Chaiprasit
+      out: Nopjira Gaysorn
+      in: Farhat Yilmaz
+    - etime: 67
+      out: Piyapat Charanachitta
       in: Pierre-Yves Longe
   stats:
-    on_target: 1
+    on_target: 3
     off_target: 3
-    possession: 52
-    corners: 2
-    offsides: 7
-    foul: 7
-    yellow: 6
+    possession: 40
+    corners: 3
+    offsides: 3
+    foul: 5
+    yellow: 0
 
+minutes:
+  - type: yellow
+    etime: 1
+    visitor: Nopjira Gaysorn
+  - type: yellow
+    etime: 13
+    visitor: Akkanee Honghannarong
+  - type: yellow
+    etime: 15
+    home: Pierre-Louis Verninac
+  - type: yellow
+    etime: 17
+    visitor: Duchanee Srisati
+  - type: yellow
+    etime: 21
+    visitor: Akkanee Honghannarong
+  - type: yellow
+    etime: 26
+    visitor: Maliwan Chaiprasit
+  - type: half_time
+    etime: 45
+    score: 0:0
+  - type: yellow
+    etime: 48
+    home: Baptiste Alard
+  - type: goal
+    etime: 50
+    visitor: Jirasak Srichure
+    assist: Hanuman Klinpraneet
+    score: 0:1
+  - type: yellow
+    etime: 51
+    visitor: Arthit Sansurin
+  - type: goal
+    etime: 70
+    home: Angélique Ardouin
+    assist: Raoul Alarie
+    score: 1:1
+  - type: yellow
+    etime: 77
+    home: Pierre-Louis Verninac

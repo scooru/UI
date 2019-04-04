@@ -1,71 +1,63 @@
 ---
 game-id: 0006
-date: 11/02/2006 06:12 PM
-loc: Bengaluru
-live: True
+date: 06/13/2006 10:30 AM
+loc: Isfahan
+live: False
 referrees:
   - name: Ebba Vong (Swedish)
 home:
   team_id: 0002
   team_name: PALM
   coaches:
-    - name: Alondra Caixeta
+    - name: Ernesto Pires
 
   players:
     - name: Túlio Amorim Morais
       position: Goalkeeper
     - name: Márcio Nascimento Furtado
       position: Centre-back
-      out: 63'
     - name: Iago Martins Belluci
       position: Sweeper
-      out: 46'
+      out: 72'
     - name: Sidnei Amaral Ferraz
       position: Full-back
     - name: José Hamada Barros
       position: Wing-back
-      out: 61'
     - name: Francine Gonçalves Caetano
       position: Centre midfield
     - name: Eduardo Damasceno Delgado
       position: Defensive midfield
     - name: Bernardo Maia Álvarez
       position: Attacking midfield
+      out: 63'
     - name: Leandro Antunes Couto
       position: Wide midfield
     - name: Vinicius Ferraz de Souza
       position: Centre forward
     - name: Roberta Medeiros Menezes
       position: Second striker
-      out: 54'
   substitutions:
-    - etime: 63
-      out: Márcio Nascimento Furtado
-      in: Fethee Tenagnework
-    - etime: 46
+    - etime: 72
       out: Iago Martins Belluci
       in: Inacio Lacerda
-    - etime: 61
-      out: José Hamada Barros
-      in: Paithoon Suthikul
-    - etime: 54
-      out: Roberta Medeiros Menezes
-      in: Fethee Tenagnework
+    - etime: 63
+      out: Bernardo Maia Álvarez
+      in: Inacio Lacerda
   stats:
     on_target: 2
-    off_target: 2
-    possession: 44
-    corners: 3
+    off_target: 4
+    possession: 60
+    corners: 4
     offsides: 2
-    foul: 3
-    yellow: 7
+    foul: 4
+    yellow: 2
 
 
 visitors:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Merille Haroyu
+    - name: Abeba Liban
 
   players:
     - name: Alemu Bekele Yitay
@@ -76,39 +68,73 @@ visitors:
       position: Sweeper
     - name: Afewerek Eyoel Abimelech
       position: Full-back
-      out: 64'
     - name: Brehan Kidane Meles
       position: Wing-back
     - name: Mirabe Nahum Selassie
       position: Centre midfield
     - name: Girma Natnael Kaleb
       position: Defensive midfield
+      out: 79'
     - name: Wolitigna Adugna Mesay
       position: Attacking midfield
+      out: 59'
     - name: Asamenew Zewedu Gorfu
       position: Wide midfield
-      out: 46'
     - name: Chirkos Abimelech Eleazar
       position: Centre forward
+      out: 48'
     - name: Jeneve Dessalegne Tessema
       position: Second striker
-      out: 54'
   substitutions:
-    - etime: 64
-      out: Afewerek Eyoel Abimelech
-      in: Gul Bardakci
-    - etime: 46
-      out: Asamenew Zewedu Gorfu
-      in: Ubon Buasuwan
-    - etime: 54
-      out: Jeneve Dessalegne Tessema
-      in: Cherise Bey
+    - etime: 79
+      out: Girma Natnael Kaleb
+      in: Lishan Wube
+    - etime: 59
+      out: Wolitigna Adugna Mesay
+      in: Anne Walbruch
+    - etime: 48
+      out: Chirkos Abimelech Eleazar
+      in: Farhat Yilmaz
   stats:
     on_target: 5
-    off_target: 5
-    possession: 47
-    corners: 5
-    offsides: 2
-    foul: 2
-    yellow: 1
+    off_target: 6
+    possession: 59
+    corners: 4
+    offsides: 7
+    foul: 4
+    yellow: 2
 
+minutes:
+  - type: goal
+    etime: 22
+    home: Vinicius Ferraz de Souza
+    assist: Eduardo Damasceno Delgado
+    score: 1:0
+  - type: yellow
+    etime: 23
+    home: Iago Martins Belluci
+  - type: yellow
+    etime: 24
+    home: Túlio Amorim Morais
+  - type: goal
+    etime: 32
+    visitor: Zewdnesh Tesfa Galawdeyos
+    assist: Gulema Yihun Mihret
+    score: 1:1
+  - type: yellow
+    etime: 38
+    home: José Hamada Barros
+  - type: half_time
+    etime: 45
+    score: 1:1
+  - type: yellow
+    etime: 48
+    visitor: Alemu Bekele Yitay
+  - type: goal
+    etime: 53
+    visitor: Gulema Yihun Mihret
+    assist: Brehan Kidane Meles
+    score: 1:2
+  - type: yellow
+    etime: 59
+    home: Sidnei Amaral Ferraz

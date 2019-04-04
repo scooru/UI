@@ -1,15 +1,15 @@
 ---
 game-id: 0003
-date: 11/25/2011 11:06 PM
-loc: Buenos Aires
+date: 09/02/2013 10:23 AM
+loc: Tabriz
 live: False
 referrees:
-  - name: Fethee Tenagnework (Ethiopian)
+  - name: Gul Bardakci (Turkish)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Amal Alfarsi
+    - name: Saladin Toma
 
   players:
     - name: Musaddiq al-Pirani
@@ -20,13 +20,13 @@ home:
       position: Sweeper
     - name: Naseeba al-Yousuf
       position: Full-back
-      out: 81'
     - name: Safwaan el-Koroma
       position: Wing-back
     - name: Behzad Mahdavi
       position: Centre midfield
     - name: Arzhang Moshiri
       position: Defensive midfield
+      out: 88'
     - name: Taghi Taheri
       position: Attacking midfield
     - name: Abbas Diba
@@ -36,17 +36,17 @@ home:
     - name: Saman Arabnia
       position: Second striker
   substitutions:
-    - etime: 81
-      out: Naseeba al-Yousuf
+    - etime: 88
+      out: Arzhang Moshiri
       in: Anne Walbruch
   stats:
-    on_target: 2
+    on_target: 4
     off_target: 3
-    possession: 40
+    possession: 45
     corners: 5
-    offsides: 6
-    foul: 14
-    yellow: 4
+    offsides: 7
+    foul: 5
+    yellow: 2
 
 
 visitors:
@@ -60,11 +60,12 @@ visitors:
       position: Goalkeeper
     - name: Georges Solé
       position: Centre-back
+      out: 61'
     - name: Marcel Emmanuelli
       position: Sweeper
-      out: 59'
     - name: Pierre-Louis Verninac
       position: Full-back
+      out: 86'
     - name: Aymeric Chéreau
       position: Wing-back
     - name: Raoul Alarie
@@ -75,24 +76,65 @@ visitors:
       position: Attacking midfield
     - name: Dany Jacquard
       position: Wide midfield
-      out: 70'
     - name: Jean-Philippe Paquin
       position: Centre forward
     - name: Angélique Ardouin
       position: Second striker
+      out: 53'
   substitutions:
-    - etime: 59
-      out: Marcel Emmanuelli
-      in: Cherise Bey
-    - etime: 70
-      out: Dany Jacquard
-      in: Fethee Tenagnework
+    - etime: 61
+      out: Georges Solé
+      in: Arvid Odegard
+    - etime: 86
+      out: Pierre-Louis Verninac
+      in: Arvid Odegard
+    - etime: 53
+      out: Angélique Ardouin
+      in: Gul Bardakci
   stats:
-    on_target: 3
-    off_target: 4
-    possession: 46
-    corners: 7
+    on_target: 1
+    off_target: 3
+    possession: 57
+    corners: 6
     offsides: 6
-    foul: 2
+    foul: 3
     yellow: 4
 
+minutes:
+  - type: goal
+    etime: 27
+    home: Siamak Yaghmaei
+    assist: Arzhang Moshiri
+    score: 1:0
+  - type: goal
+    etime: 32
+    home: Naseeba al-Yousuf
+    assist: Abbas Diba
+    score: 2:0
+  - type: yellow
+    etime: 33
+    visitor: Guillemette Pasteur
+  - type: goal
+    etime: 43
+    home: Siamak Yaghmaei
+    assist: Hasan el-Matin
+    score: 3:0
+  - type: half_time
+    etime: 45
+    score: 3:0
+  - type: goal
+    etime: 53
+    home: Saman Arabnia
+    assist: Hasan el-Matin
+    score: 4:0
+  - type: yellow
+    etime: 64
+    visitor: Georges Solé
+  - type: yellow
+    etime: 71
+    visitor: Aymeric Chéreau
+  - type: goal
+    etime: 82
+    home: Arzhang Moshiri
+    assist: Behzad Mahdavi
+    score: 5:0

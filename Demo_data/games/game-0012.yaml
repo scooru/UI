@@ -1,110 +1,165 @@
 ---
 game-id: 0012
-date: 08/26/2001 06:22 PM
-loc: Mandalay
-live: True
+date: 11/27/2015 04:49 PM
+loc: Isfahan
+live: False
 referrees:
-  - name: Inacio Lacerda (Brazilian)
+  - name: Lishan Wube (Ethiopian)
 home:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Abeba Liban
+    - name: Merille Haroyu
 
   players:
     - name: Alemu Bekele Yitay
       position: Goalkeeper
+      out: 57'
     - name: Gulema Yihun Mihret
       position: Centre-back
     - name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
     - name: Afewerek Eyoel Abimelech
       position: Full-back
+      out: 49'
     - name: Brehan Kidane Meles
       position: Wing-back
+      out: 76'
     - name: Mirabe Nahum Selassie
       position: Centre midfield
-      out: 71'
     - name: Girma Natnael Kaleb
       position: Defensive midfield
     - name: Wolitigna Adugna Mesay
       position: Attacking midfield
     - name: Asamenew Zewedu Gorfu
       position: Wide midfield
-      out: 85'
+      out: 53'
     - name: Chirkos Abimelech Eleazar
       position: Centre forward
     - name: Jeneve Dessalegne Tessema
       position: Second striker
-      out: 51'
   substitutions:
-    - etime: 71
-      out: Mirabe Nahum Selassie
-      in: Inacio Lacerda
-    - etime: 85
-      out: Asamenew Zewedu Gorfu
-      in: Anne Walbruch
-    - etime: 51
-      out: Jeneve Dessalegne Tessema
+    - etime: 57
+      out: Alemu Bekele Yitay
       in: Paithoon Suthikul
+    - etime: 49
+      out: Afewerek Eyoel Abimelech
+      in: Cherise Bey
+    - etime: 76
+      out: Brehan Kidane Meles
+      in: Gul Bardakci
+    - etime: 53
+      out: Asamenew Zewedu Gorfu
+      in: Cherise Bey
   stats:
-    on_target: 5
+    on_target: 3
     off_target: 7
-    possession: 40
+    possession: 57
     corners: 3
-    offsides: 5
-    foul: 12
-    yellow: 0
+    offsides: 7
+    foul: 14
+    yellow: 6
 
 
 visitors:
   team_id: 0006
   team_name: PXFC
   coaches:
-    - name: Boonsri (Aom) Thipol
+    - name: Kulap (Ice) Hatthapradit
 
   players:
     - name: Surin () Wattanasin
       position: Goalkeeper
+      out: 54'
     - name: Akkanee Honghannarong
       position: Centre-back
     - name: Arthit Sansurin
       position: Sweeper
-      out: 48'
     - name: Hanuman Klinpraneet
       position: Full-back
     - name: Ruangrit Srisati
       position: Wing-back
+      out: 68'
     - name: Duchanee Srisati
       position: Centre midfield
-      out: 68'
     - name: Banthorn Noppachorn
       position: Defensive midfield
+      out: 60'
     - name: Nopjira Gaysorn
       position: Attacking midfield
     - name: Jirasak Srichure
       position: Wide midfield
-      out: 89'
     - name: Piyapat Charanachitta
       position: Centre forward
     - name: Maliwan Chaiprasit
       position: Second striker
+      out: 58'
   substitutions:
-    - etime: 48
-      out: Arthit Sansurin
-      in: Fethee Tenagnework
-    - etime: 68
-      out: Duchanee Srisati
+    - etime: 54
+      out: Surin () Wattanasin
       in: Ubon Buasuwan
-    - etime: 89
-      out: Jirasak Srichure
-      in: Anne Walbruch
+    - etime: 68
+      out: Ruangrit Srisati
+      in: Gul Bardakci
+    - etime: 60
+      out: Banthorn Noppachorn
+      in: Ebba Vong
+    - etime: 58
+      out: Maliwan Chaiprasit
+      in: Cherise Bey
   stats:
-    on_target: 0
-    off_target: 4
-    possession: 43
-    corners: 6
-    offsides: 6
-    foul: 8
-    yellow: 7
+    on_target: 5
+    off_target: 3
+    possession: 50
+    corners: 2
+    offsides: 4
+    foul: 7
+    yellow: 0
 
+minutes:
+  - type: yellow
+    etime: 3
+    home: Zewdnesh Tesfa Galawdeyos
+  - type: goal
+    etime: 4
+    home: Zewdnesh Tesfa Galawdeyos
+    assist: Girma Natnael Kaleb
+    score: 1:0
+  - type: yellow
+    etime: 14
+    visitor: Piyapat Charanachitta
+  - type: yellow
+    etime: 17
+    visitor: Maliwan Chaiprasit
+  - type: goal
+    etime: 30
+    home: Girma Natnael Kaleb
+    assist: Zewdnesh Tesfa Galawdeyos
+    score: 2:0
+  - type: yellow
+    etime: 32
+    home: Brehan Kidane Meles
+  - type: yellow
+    etime: 43
+    home: Wolitigna Adugna Mesay
+  - type: half_time
+    etime: 45
+    score: 2:0
+  - type: goal
+    etime: 56
+    visitor: Piyapat Charanachitta
+    assist: Nopjira Gaysorn
+    score: 2:1
+  - type: goal
+    etime: 61
+    visitor: Banthorn Noppachorn
+    assist: Jirasak Srichure
+    score: 2:2
+  - type: yellow
+    etime: 61
+    visitor: Akkanee Honghannarong
+  - type: goal
+    etime: 81
+    visitor: Ruangrit Srisati
+    assist: Ruangrit Srisati
+    score: 2:3

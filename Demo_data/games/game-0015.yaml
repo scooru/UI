@@ -1,28 +1,30 @@
 ---
 game-id: 0015
-date: 01/02/2006 04:44 PM
-loc: Madrid
-live: True
+date: 10/31/2002 10:04 PM
+loc: Cairo
+live: False
 referrees:
-  - name: Paithoon Suthikul (Thai)
+  - name: Fethee Tenagnework (Ethiopian)
 home:
   team_id: 0005
   team_name: LHFC
   coaches:
-    - name: Nils Landin
+    - name: Lilly Jernberg
 
   players:
     - name: Hildr Dalin
       position: Goalkeeper
+      out: 49'
     - name: Tron Blomquist
       position: Centre-back
     - name: Ragnar Lindgren
       position: Sweeper
-      out: 66'
+      out: 78'
     - name: Joel Lennartsson
       position: Full-back
     - name: Nicholas Lundholm
       position: Wing-back
+      out: 84'
     - name: Thomas Borg
       position: Centre midfield
     - name: Stefan Lötvall
@@ -36,17 +38,23 @@ home:
     - name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 66
-      out: Ragnar Lindgren
+    - etime: 49
+      out: Hildr Dalin
       in: Cherise Bey
+    - etime: 78
+      out: Ragnar Lindgren
+      in: Lishan Wube
+    - etime: 84
+      out: Nicholas Lundholm
+      in: Ubon Buasuwan
   stats:
-    on_target: 1
-    off_target: 4
-    possession: 49
-    corners: 6
-    offsides: 7
-    foul: 13
-    yellow: 4
+    on_target: 2
+    off_target: 3
+    possession: 40
+    corners: 7
+    offsides: 5
+    foul: 14
+    yellow: 0
 
 
 visitors:
@@ -68,10 +76,8 @@ visitors:
       position: Wing-back
     - name: Duchanee Srisati
       position: Centre midfield
-      out: 51'
     - name: Banthorn Noppachorn
       position: Defensive midfield
-      out: 56'
     - name: Nopjira Gaysorn
       position: Attacking midfield
     - name: Jirasak Srichure
@@ -81,18 +87,54 @@ visitors:
     - name: Maliwan Chaiprasit
       position: Second striker
   substitutions:
-    - etime: 51
-      out: Duchanee Srisati
-      in: Cherise Bey
-    - etime: 56
-      out: Banthorn Noppachorn
-      in: Farhat Yilmaz
   stats:
-    on_target: 1
+    on_target: 3
     off_target: 3
-    possession: 49
-    corners: 4
-    offsides: 5
-    foul: 2
-    yellow: 5
+    possession: 45
+    corners: 3
+    offsides: 4
+    foul: 9
+    yellow: 0
 
+minutes:
+  - type: goal
+    etime: 11
+    home: Joel Lennartsson
+    assist: Stefan Lötvall
+    score: 1:0
+  - type: goal
+    etime: 36
+    home: Ragnar Lindgren
+    assist: Stefan Lötvall
+    score: 2:0
+  - type: yellow
+    etime: 40
+    home: Nicholas Lundholm
+  - type: half_time
+    etime: 45
+    score: 2:0
+  - type: goal
+    etime: 47
+    visitor: Hanuman Klinpraneet
+    assist: Hanuman Klinpraneet
+    score: 2:1
+  - type: yellow
+    etime: 52
+    visitor: Hanuman Klinpraneet
+  - type: yellow
+    etime: 57
+    visitor: Maliwan Chaiprasit
+  - type: yellow
+    etime: 60
+    home: Nicholas Lundholm
+  - type: yellow
+    etime: 65
+    visitor: Arthit Sansurin
+  - type: yellow
+    etime: 66
+    home: Fia Johannesson
+  - type: goal
+    etime: 78
+    visitor: Nopjira Gaysorn
+    assist: Ruangrit Srisati
+    score: 2:2

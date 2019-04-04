@@ -1,20 +1,19 @@
 ---
 game-id: 0002
-date: 01/24/2011 02:18 PM
-loc: Quanzhou
+date: 02/14/2001 04:35 AM
+loc: Isfahan
 live: False
 referrees:
-  - name: Pierre-Yves Longe (French)
+  - name: Ubon Buasuwan (Thai)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Amal Alfarsi
+    - name: Saladin Toma
 
   players:
     - name: Musaddiq al-Pirani
       position: Goalkeeper
-      out: 73'
     - name: Husni el-Farooqui
       position: Centre-back
     - name: Hasan el-Matin
@@ -27,37 +26,22 @@ home:
       position: Centre midfield
     - name: Arzhang Moshiri
       position: Defensive midfield
-      out: 85'
     - name: Taghi Taheri
       position: Attacking midfield
     - name: Abbas Diba
       position: Wide midfield
     - name: Siamak Yaghmaei
       position: Centre forward
-      out: 48'
     - name: Saman Arabnia
       position: Second striker
-      out: 51'
   substitutions:
-    - etime: 73
-      out: Musaddiq al-Pirani
-      in: Farhat Yilmaz
-    - etime: 85
-      out: Arzhang Moshiri
-      in: Farhat Yilmaz
-    - etime: 48
-      out: Siamak Yaghmaei
-      in: Arvid Odegard
-    - etime: 51
-      out: Saman Arabnia
-      in: Inacio Lacerda
   stats:
-    on_target: 1
-    off_target: 2
-    possession: 46
-    corners: 7
-    offsides: 5
-    foul: 14
+    on_target: 0
+    off_target: 6
+    possession: 47
+    corners: 3
+    offsides: 7
+    foul: 5
     yellow: 5
 
 
@@ -65,26 +49,26 @@ visitors:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Merille Haroyu
+    - name: Abeba Liban
 
   players:
     - name: Alemu Bekele Yitay
       position: Goalkeeper
     - name: Gulema Yihun Mihret
       position: Centre-back
-      out: 57'
     - name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
+      out: 46'
     - name: Afewerek Eyoel Abimelech
       position: Full-back
-      out: 46'
     - name: Brehan Kidane Meles
       position: Wing-back
     - name: Mirabe Nahum Selassie
       position: Centre midfield
-      out: 80'
+      out: 47'
     - name: Girma Natnael Kaleb
       position: Defensive midfield
+      out: 51'
     - name: Wolitigna Adugna Mesay
       position: Attacking midfield
     - name: Asamenew Zewedu Gorfu
@@ -94,21 +78,52 @@ visitors:
     - name: Jeneve Dessalegne Tessema
       position: Second striker
   substitutions:
-    - etime: 57
-      out: Gulema Yihun Mihret
-      in: Fethee Tenagnework
     - etime: 46
-      out: Afewerek Eyoel Abimelech
-      in: Cherise Bey
-    - etime: 80
+      out: Zewdnesh Tesfa Galawdeyos
+      in: Pierre-Yves Longe
+    - etime: 47
       out: Mirabe Nahum Selassie
       in: Pierre-Yves Longe
+    - etime: 51
+      out: Girma Natnael Kaleb
+      in: Cherise Bey
   stats:
-    on_target: 1
-    off_target: 7
-    possession: 58
-    corners: 6
-    offsides: 5
-    foul: 5
-    yellow: 4
+    on_target: 0
+    off_target: 3
+    possession: 54
+    corners: 2
+    offsides: 6
+    foul: 12
+    yellow: 2
 
+minutes:
+  - type: goal
+    etime: 8
+    home: Arzhang Moshiri
+    assist: Arzhang Moshiri
+    score: 1:0
+  - type: goal
+    etime: 20
+    visitor: Afewerek Eyoel Abimelech
+    assist: Alemu Bekele Yitay
+    score: 1:1
+  - type: yellow
+    etime: 31
+    home: Husni el-Farooqui
+  - type: half_time
+    etime: 45
+    score: 1:1
+  - type: goal
+    etime: 61
+    home: Husni el-Farooqui
+    assist: Behzad Mahdavi
+    score: 2:1
+  - type: yellow
+    etime: 63
+    home: Taghi Taheri
+  - type: yellow
+    etime: 63
+    home: Naseeba al-Yousuf
+  - type: yellow
+    etime: 70
+    home: Safwaan el-Koroma

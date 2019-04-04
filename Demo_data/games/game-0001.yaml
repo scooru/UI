@@ -1,15 +1,15 @@
 ---
 game-id: 0001
-date: 10/09/2001 01:02 PM
-loc: Mandalay
+date: 11/18/2012 09:13 PM
+loc: Isfahan
 live: False
 referrees:
-  - name: Pierre-Yves Longe (French)
+  - name: Gul Bardakci (Turkish)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Saladin Toma
+    - name: Amal Alfarsi
 
   players:
     - name: Musaddiq al-Pirani
@@ -18,50 +18,46 @@ home:
       position: Centre-back
     - name: Hasan el-Matin
       position: Sweeper
-      out: 79'
     - name: Naseeba al-Yousuf
       position: Full-back
+      out: 63'
     - name: Safwaan el-Koroma
       position: Wing-back
     - name: Behzad Mahdavi
       position: Centre midfield
-      out: 85'
     - name: Arzhang Moshiri
       position: Defensive midfield
     - name: Taghi Taheri
       position: Attacking midfield
     - name: Abbas Diba
       position: Wide midfield
-      out: 46'
+      out: 57'
     - name: Siamak Yaghmaei
       position: Centre forward
     - name: Saman Arabnia
       position: Second striker
   substitutions:
-    - etime: 79
-      out: Hasan el-Matin
-      in: Gul Bardakci
-    - etime: 85
-      out: Behzad Mahdavi
-      in: Paithoon Suthikul
-    - etime: 46
+    - etime: 63
+      out: Naseeba al-Yousuf
+      in: Ebba Vong
+    - etime: 57
       out: Abbas Diba
-      in: Lishan Wube
+      in: Anne Walbruch
   stats:
     on_target: 1
     off_target: 7
-    possession: 53
-    corners: 6
-    offsides: 4
-    foul: 12
-    yellow: 6
+    possession: 52
+    corners: 3
+    offsides: 7
+    foul: 13
+    yellow: 4
 
 
 visitors:
   team_id: 0002
   team_name: PALM
   coaches:
-    - name: Ernesto Pires
+    - name: Alondra Caixeta
 
   players:
     - name: Túlio Amorim Morais
@@ -76,35 +72,68 @@ visitors:
       position: Wing-back
     - name: Francine Gonçalves Caetano
       position: Centre midfield
-      out: 56'
     - name: Eduardo Damasceno Delgado
       position: Defensive midfield
-      out: 49'
     - name: Bernardo Maia Álvarez
       position: Attacking midfield
     - name: Leandro Antunes Couto
       position: Wide midfield
+      out: 89'
     - name: Vinicius Ferraz de Souza
       position: Centre forward
-      out: 82'
     - name: Roberta Medeiros Menezes
       position: Second striker
   substitutions:
-    - etime: 56
-      out: Francine Gonçalves Caetano
-      in: Cherise Bey
-    - etime: 49
-      out: Eduardo Damasceno Delgado
-      in: Cherise Bey
-    - etime: 82
-      out: Vinicius Ferraz de Souza
-      in: Gul Bardakci
+    - etime: 89
+      out: Leandro Antunes Couto
+      in: Paithoon Suthikul
   stats:
-    on_target: 3
+    on_target: 2
     off_target: 4
-    possession: 58
-    corners: 2
-    offsides: 2
+    possession: 53
+    corners: 4
+    offsides: 5
     foul: 6
-    yellow: 6
+    yellow: 4
 
+minutes:
+  - type: goal
+    etime: 2
+    home: Arzhang Moshiri
+    assist: Siamak Yaghmaei
+    score: 1:0
+  - type: goal
+    etime: 12
+    visitor: Vinicius Ferraz de Souza
+    assist: Roberta Medeiros Menezes
+    score: 1:1
+  - type: goal
+    etime: 17
+    visitor: Roberta Medeiros Menezes
+    assist: Sidnei Amaral Ferraz
+    score: 1:2
+  - type: yellow
+    etime: 18
+    home: Saman Arabnia
+  - type: yellow
+    etime: 27
+    home: Saman Arabnia
+  - type: yellow
+    etime: 35
+    home: Saman Arabnia
+  - type: goal
+    etime: 39
+    home: Behzad Mahdavi
+    assist: Taghi Taheri
+    score: 2:2
+  - type: half_time
+    etime: 45
+    score: 2:2
+  - type: goal
+    etime: 61
+    visitor: Márcio Nascimento Furtado
+    assist: Sidnei Amaral Ferraz
+    score: 2:3
+  - type: yellow
+    etime: 74
+    visitor: Eduardo Damasceno Delgado

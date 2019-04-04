@@ -1,8 +1,8 @@
 ---
 game-id: 0005
-date: 12/30/2016 11:22 PM
+date: 02/24/2017 07:16 PM
 loc: Mexico City
-live: False
+live: True
 referrees:
   - name: Ubon Buasuwan (Thai)
 home:
@@ -18,39 +18,43 @@ home:
       position: Centre-back
     - name: Hasan el-Matin
       position: Sweeper
+      out: 71'
     - name: Naseeba al-Yousuf
       position: Full-back
     - name: Safwaan el-Koroma
       position: Wing-back
     - name: Behzad Mahdavi
       position: Centre midfield
-      out: 63'
     - name: Arzhang Moshiri
       position: Defensive midfield
     - name: Taghi Taheri
       position: Attacking midfield
+      out: 87'
     - name: Abbas Diba
       position: Wide midfield
-      out: 82'
     - name: Siamak Yaghmaei
       position: Centre forward
     - name: Saman Arabnia
       position: Second striker
+      out: 66'
   substitutions:
-    - etime: 63
-      out: Behzad Mahdavi
-      in: Arvid Odegard
-    - etime: 82
-      out: Abbas Diba
-      in: Ebba Vong
+    - etime: 71
+      out: Hasan el-Matin
+      in: Cherise Bey
+    - etime: 87
+      out: Taghi Taheri
+      in: Lishan Wube
+    - etime: 66
+      out: Saman Arabnia
+      in: Lishan Wube
   stats:
     on_target: 2
-    off_target: 2
-    possession: 54
-    corners: 4
-    offsides: 5
-    foul: 2
-    yellow: 1
+    off_target: 4
+    possession: 43
+    corners: 7
+    offsides: 6
+    foul: 3
+    yellow: 2
 
 
 visitors:
@@ -62,8 +66,10 @@ visitors:
   players:
     - name: Surin () Wattanasin
       position: Goalkeeper
+      out: 53'
     - name: Akkanee Honghannarong
       position: Centre-back
+      out: 74'
     - name: Arthit Sansurin
       position: Sweeper
     - name: Hanuman Klinpraneet
@@ -80,19 +86,66 @@ visitors:
       position: Wide midfield
     - name: Piyapat Charanachitta
       position: Centre forward
+      out: 88'
     - name: Maliwan Chaiprasit
       position: Second striker
-      out: 79'
   substitutions:
-    - etime: 79
-      out: Maliwan Chaiprasit
-      in: Ebba Vong
+    - etime: 53
+      out: Surin () Wattanasin
+      in: Cherise Bey
+    - etime: 74
+      out: Akkanee Honghannarong
+      in: Arvid Odegard
+    - etime: 88
+      out: Piyapat Charanachitta
+      in: Arvid Odegard
   stats:
-    on_target: 0
-    off_target: 7
-    possession: 44
-    corners: 6
-    offsides: 3
-    foul: 6
-    yellow: 0
+    on_target: 3
+    off_target: 2
+    possession: 59
+    corners: 7
+    offsides: 6
+    foul: 9
+    yellow: 4
 
+minutes:
+  - type: goal
+    etime: 13
+    visitor: Jirasak Srichure
+    assist: Akkanee Honghannarong
+    score: 0:1
+  - type: yellow
+    etime: 18
+    visitor: Duchanee Srisati
+  - type: goal
+    etime: 22
+    visitor: Arthit Sansurin
+    assist: Maliwan Chaiprasit
+    score: 0:2
+  - type: goal
+    etime: 24
+    home: Abbas Diba
+    assist: Saman Arabnia
+    score: 1:2
+  - type: yellow
+    etime: 31
+    visitor: Banthorn Noppachorn
+  - type: goal
+    etime: 36
+    home: Naseeba al-Yousuf
+    assist: Husni el-Farooqui
+    score: 2:2
+  - type: yellow
+    etime: 42
+    home: Abbas Diba
+  - type: goal
+    etime: 44
+    home: Safwaan el-Koroma
+    assist: Siamak Yaghmaei
+    score: 3:2
+  - type: half_time
+    etime: 45
+    score: 3:2
+  - type: yellow
+    etime: 50
+    visitor: Jirasak Srichure

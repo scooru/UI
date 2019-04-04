@@ -1,15 +1,15 @@
 ---
 game-id: 0011
-date: 02/21/2002 10:16 AM
-loc: Mandalay
+date: 10/06/2012 07:57 AM
+loc: London
 live: False
 referrees:
-  - name: Ebba Vong (Swedish)
+  - name: Anne Walbruch (Brazilian)
 home:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Merille Haroyu
+    - name: Abeba Liban
 
   players:
     - name: Alemu Bekele Yitay
@@ -20,7 +20,6 @@ home:
       position: Sweeper
     - name: Afewerek Eyoel Abimelech
       position: Full-back
-      out: 49'
     - name: Brehan Kidane Meles
       position: Wing-back
     - name: Mirabe Nahum Selassie
@@ -29,32 +28,21 @@ home:
       position: Defensive midfield
     - name: Wolitigna Adugna Mesay
       position: Attacking midfield
-      out: 53'
     - name: Asamenew Zewedu Gorfu
       position: Wide midfield
     - name: Chirkos Abimelech Eleazar
       position: Centre forward
     - name: Jeneve Dessalegne Tessema
       position: Second striker
-      out: 89'
   substitutions:
-    - etime: 49
-      out: Afewerek Eyoel Abimelech
-      in: Fethee Tenagnework
-    - etime: 53
-      out: Wolitigna Adugna Mesay
-      in: Paithoon Suthikul
-    - etime: 89
-      out: Jeneve Dessalegne Tessema
-      in: Inacio Lacerda
   stats:
     on_target: 2
-    off_target: 2
-    possession: 54
-    corners: 3
-    offsides: 6
+    off_target: 4
+    possession: 41
+    corners: 7
+    offsides: 3
     foul: 14
-    yellow: 5
+    yellow: 1
 
 
 visitors:
@@ -68,9 +56,9 @@ visitors:
       position: Goalkeeper
     - name: Tron Blomquist
       position: Centre-back
-      out: 51'
     - name: Ragnar Lindgren
       position: Sweeper
+      out: 73'
     - name: Joel Lennartsson
       position: Full-back
     - name: Nicholas Lundholm
@@ -79,9 +67,9 @@ visitors:
       position: Centre midfield
     - name: Stefan Lötvall
       position: Defensive midfield
-      out: 74'
     - name: Ögge Jönsson
       position: Attacking midfield
+      out: 45'
     - name: Joel Liljeström
       position: Wide midfield
     - name: Pia Frisk
@@ -89,18 +77,58 @@ visitors:
     - name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 51
-      out: Tron Blomquist
-      in: Inacio Lacerda
-    - etime: 74
-      out: Stefan Lötvall
+    - etime: 73
+      out: Ragnar Lindgren
       in: Anne Walbruch
+    - etime: 45
+      out: Ögge Jönsson
+      in: Ebba Vong
   stats:
-    on_target: 4
-    off_target: 5
-    possession: 52
-    corners: 3
+    on_target: 1
+    off_target: 7
+    possession: 48
+    corners: 7
     offsides: 6
-    foul: 11
-    yellow: 1
+    foul: 3
+    yellow: 3
 
+minutes:
+  - type: goal
+    etime: 16
+    visitor: Ögge Jönsson
+    assist: Ragnar Lindgren
+    score: 0:1
+  - type: goal
+    etime: 17
+    visitor: Stefan Lötvall
+    assist: Joel Liljeström
+    score: 0:2
+  - type: goal
+    etime: 19
+    visitor: Stefan Lötvall
+    assist: Nicholas Lundholm
+    score: 0:3
+  - type: goal
+    etime: 39
+    visitor: Stefan Lötvall
+    assist: Ögge Jönsson
+    score: 0:4
+  - type: half_time
+    etime: 45
+    score: 0:4
+  - type: goal
+    etime: 55
+    visitor: Ögge Jönsson
+    assist: Ögge Jönsson
+    score: 0:5
+  - type: goal
+    etime: 56
+    visitor: Nicholas Lundholm
+    assist: Ragnar Lindgren
+    score: 0:6
+  - type: yellow
+    etime: 60
+    home: Afewerek Eyoel Abimelech
+  - type: yellow
+    etime: 79
+    visitor: Pia Frisk

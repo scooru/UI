@@ -1,20 +1,19 @@
 ---
 game-id: 0004
-date: 06/09/2013 12:57 PM
-loc: Mexico City
-live: True
+date: 06/30/2005 10:30 PM
+loc: Busan
+live: False
 referrees:
   - name: Gul Bardakci (Turkish)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Saladin Toma
+    - name: Amal Alfarsi
 
   players:
     - name: Musaddiq al-Pirani
       position: Goalkeeper
-      out: 86'
     - name: Husni el-Farooqui
       position: Centre-back
     - name: Hasan el-Matin
@@ -25,27 +24,36 @@ home:
       position: Wing-back
     - name: Behzad Mahdavi
       position: Centre midfield
+      out: 77'
     - name: Arzhang Moshiri
       position: Defensive midfield
     - name: Taghi Taheri
       position: Attacking midfield
+      out: 74'
     - name: Abbas Diba
       position: Wide midfield
+      out: 83'
     - name: Siamak Yaghmaei
       position: Centre forward
     - name: Saman Arabnia
       position: Second striker
   substitutions:
-    - etime: 86
-      out: Musaddiq al-Pirani
-      in: Lishan Wube
+    - etime: 77
+      out: Behzad Mahdavi
+      in: Ubon Buasuwan
+    - etime: 74
+      out: Taghi Taheri
+      in: Ubon Buasuwan
+    - etime: 83
+      out: Abbas Diba
+      in: Ubon Buasuwan
   stats:
-    on_target: 3
-    off_target: 7
-    possession: 51
-    corners: 3
-    offsides: 2
-    foul: 12
+    on_target: 4
+    off_target: 6
+    possession: 58
+    corners: 4
+    offsides: 7
+    foul: 6
     yellow: 7
 
 
@@ -58,45 +66,98 @@ visitors:
   players:
     - name: Hildr Dalin
       position: Goalkeeper
+      out: 49'
     - name: Tron Blomquist
       position: Centre-back
     - name: Ragnar Lindgren
       position: Sweeper
     - name: Joel Lennartsson
       position: Full-back
+      out: 52'
     - name: Nicholas Lundholm
       position: Wing-back
-      out: 84'
     - name: Thomas Borg
       position: Centre midfield
+      out: 89'
     - name: Stefan Lötvall
       position: Defensive midfield
+      out: 70'
     - name: Ögge Jönsson
       position: Attacking midfield
+      out: 48'
     - name: Joel Liljeström
       position: Wide midfield
-      out: 88'
     - name: Pia Frisk
       position: Centre forward
-      out: 60'
     - name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 84
-      out: Nicholas Lundholm
-      in: Anne Walbruch
-    - etime: 88
-      out: Joel Liljeström
+    - etime: 49
+      out: Hildr Dalin
       in: Fethee Tenagnework
-    - etime: 60
-      out: Pia Frisk
-      in: Ebba Vong
+    - etime: 52
+      out: Joel Lennartsson
+      in: Arvid Odegard
+    - etime: 89
+      out: Thomas Borg
+      in: Paithoon Suthikul
+    - etime: 70
+      out: Stefan Lötvall
+      in: Cherise Bey
+    - etime: 48
+      out: Ögge Jönsson
+      in: Lishan Wube
   stats:
-    on_target: 1
-    off_target: 5
-    possession: 47
-    corners: 6
-    offsides: 6
-    foul: 13
-    yellow: 7
+    on_target: 4
+    off_target: 4
+    possession: 58
+    corners: 3
+    offsides: 2
+    foul: 4
+    yellow: 1
 
+minutes:
+  - type: goal
+    etime: 14
+    home: Arzhang Moshiri
+    assist: Safwaan el-Koroma
+    score: 1:0
+  - type: yellow
+    etime: 15
+    home: Safwaan el-Koroma
+  - type: yellow
+    etime: 18
+    visitor: Fia Johannesson
+  - type: goal
+    etime: 25
+    home: Siamak Yaghmaei
+    assist: Arzhang Moshiri
+    score: 2:0
+  - type: yellow
+    etime: 34
+    visitor: Fia Johannesson
+  - type: yellow
+    etime: 42
+    visitor: Joel Lennartsson
+  - type: half_time
+    etime: 45
+    score: 2:0
+  - type: yellow
+    etime: 46
+    visitor: Fia Johannesson
+  - type: yellow
+    etime: 78
+    visitor: Pia Frisk
+  - type: yellow
+    etime: 83
+    home: Siamak Yaghmaei
+  - type: goal
+    etime: 84
+    visitor: Ragnar Lindgren
+    assist: Ögge Jönsson
+    score: 2:1
+  - type: goal
+    etime: 86
+    home: Hasan el-Matin
+    assist: Musaddiq al-Pirani
+    score: 3:1

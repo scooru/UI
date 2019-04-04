@@ -1,10 +1,10 @@
 ---
 game-id: 0007
-date: 10/29/2001 02:56 PM
-loc: Tabriz
+date: 12/30/2016 03:42 AM
+loc: Cairo
 live: False
 referrees:
-  - name: Inacio Lacerda (Brazilian)
+  - name: Pierre-Yves Longe (French)
 home:
   team_id: 0002
   team_name: PALM
@@ -14,6 +14,7 @@ home:
   players:
     - name: Túlio Amorim Morais
       position: Goalkeeper
+      out: 60'
     - name: Márcio Nascimento Furtado
       position: Centre-back
     - name: Iago Martins Belluci
@@ -24,33 +25,36 @@ home:
       position: Wing-back
     - name: Francine Gonçalves Caetano
       position: Centre midfield
-      out: 50'
     - name: Eduardo Damasceno Delgado
       position: Defensive midfield
     - name: Bernardo Maia Álvarez
       position: Attacking midfield
     - name: Leandro Antunes Couto
       position: Wide midfield
-      out: 53'
+      out: 64'
     - name: Vinicius Ferraz de Souza
       position: Centre forward
+      out: 72'
     - name: Roberta Medeiros Menezes
       position: Second striker
   substitutions:
-    - etime: 50
-      out: Francine Gonçalves Caetano
-      in: Fethee Tenagnework
-    - etime: 53
-      out: Leandro Antunes Couto
+    - etime: 60
+      out: Túlio Amorim Morais
       in: Farhat Yilmaz
+    - etime: 64
+      out: Leandro Antunes Couto
+      in: Pierre-Yves Longe
+    - etime: 72
+      out: Vinicius Ferraz de Souza
+      in: Ebba Vong
   stats:
-    on_target: 0
-    off_target: 3
-    possession: 55
-    corners: 3
-    offsides: 5
-    foul: 10
-    yellow: 4
+    on_target: 1
+    off_target: 2
+    possession: 42
+    corners: 4
+    offsides: 3
+    foul: 13
+    yellow: 1
 
 
 visitors:
@@ -64,47 +68,95 @@ visitors:
       position: Goalkeeper
     - name: Georges Solé
       position: Centre-back
-      out: 84'
     - name: Marcel Emmanuelli
       position: Sweeper
-      out: 83'
+      out: 68'
     - name: Pierre-Louis Verninac
       position: Full-back
     - name: Aymeric Chéreau
       position: Wing-back
     - name: Raoul Alarie
       position: Centre midfield
-      out: 84'
     - name: Guillemette Pasteur
       position: Defensive midfield
     - name: Baptiste Alard
       position: Attacking midfield
-      out: 58'
     - name: Dany Jacquard
       position: Wide midfield
     - name: Jean-Philippe Paquin
       position: Centre forward
+      out: 77'
     - name: Angélique Ardouin
       position: Second striker
   substitutions:
-    - etime: 84
-      out: Georges Solé
-      in: Ubon Buasuwan
-    - etime: 83
+    - etime: 68
       out: Marcel Emmanuelli
-      in: Paithoon Suthikul
-    - etime: 84
-      out: Raoul Alarie
-      in: Paithoon Suthikul
-    - etime: 58
-      out: Baptiste Alard
       in: Arvid Odegard
+    - etime: 77
+      out: Jean-Philippe Paquin
+      in: Inacio Lacerda
   stats:
-    on_target: 5
-    off_target: 6
-    possession: 56
-    corners: 3
+    on_target: 2
+    off_target: 3
+    possession: 40
+    corners: 4
     offsides: 4
-    foul: 2
-    yellow: 2
+    foul: 9
+    yellow: 1
 
+minutes:
+  - type: goal
+    etime: 1
+    visitor: Jean-Philippe Paquin
+    assist: Angélique Ardouin
+    score: 0:1
+  - type: goal
+    etime: 4
+    visitor: Alexis Gaubert
+    assist: Aymeric Chéreau
+    score: 0:2
+  - type: goal
+    etime: 13
+    home: Leandro Antunes Couto
+    assist: Iago Martins Belluci
+    score: 1:2
+  - type: goal
+    etime: 17
+    visitor: Marcel Emmanuelli
+    assist: Marcel Emmanuelli
+    score: 1:3
+  - type: yellow
+    etime: 19
+    visitor: Marcel Emmanuelli
+  - type: yellow
+    etime: 22
+    visitor: Aymeric Chéreau
+  - type: yellow
+    etime: 35
+    home: Eduardo Damasceno Delgado
+  - type: goal
+    etime: 40
+    home: Sidnei Amaral Ferraz
+    assist: José Hamada Barros
+    score: 2:3
+  - type: yellow
+    etime: 41
+    visitor: Raoul Alarie
+  - type: half_time
+    etime: 45
+    score: 2:3
+  - type: goal
+    etime: 55
+    visitor: Marcel Emmanuelli
+    assist: Marcel Emmanuelli
+    score: 2:4
+  - type: goal
+    etime: 59
+    visitor: Jean-Philippe Paquin
+    assist: Aymeric Chéreau
+    score: 2:5
+  - type: goal
+    etime: 68
+    home: Bernardo Maia Álvarez
+    assist: Túlio Amorim Morais
+    score: 3:5
