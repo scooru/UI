@@ -1,51 +1,62 @@
 ---
 game-id: 0013
-date: 11/04/2000 08:37 AM
-loc: Beijing
+date: 08/26/2016 10:36 AM
+loc: Madrid
 live: False
 referrees:
-  - name: Ebba Vong (Swedish)
+  - name: Fethee Tenagnework (Ethiopian)
 home:
   team_id: 0004
   team_name: FM91
   coaches:
-    - name: Claire Angers
+    - name: Jean-Luc Gareau
 
   players:
-    - name: Alexis Gaubert
+    - sname: lexrox
+      full_name: Alexis Gaubert
       position: Goalkeeper
-    - name: Georges Solé
+    - sname: georgess
+      full_name: Georges Solé
       position: Centre-back
-    - name: Marcel Emmanuelli
+    - sname: memman
+      full_name: Marcel Emmanuelli
       position: Sweeper
-    - name: Pierre-Louis Verninac
+    - sname: pierrelv
+      full_name: Pierre-Louis Verninac
       position: Full-back
-    - name: Aymeric Chéreau
+    - sname: aymchill
+      full_name: Aymeric Chéreau
       position: Wing-back
-    - name: Raoul Alarie
+    - sname: ralarie
+      full_name: Raoul Alarie
       position: Centre midfield
-    - name: Guillemette Pasteur
+    - sname: mettepast
+      full_name: Guillemette Pasteur
       position: Defensive midfield
-    - name: Baptiste Alard
+    - sname: baptistea
+      full_name: Baptiste Alard
       position: Attacking midfield
-    - name: Dany Jacquard
+    - sname: danjacq
+      full_name: Dany Jacquard
       position: Wide midfield
-    - name: Jean-Philippe Paquin
+      out: 72'
+    - sname: jeanpp
+      full_name: Jean-Philippe Paquin
       position: Centre forward
-      out: 86'
-    - name: Angélique Ardouin
+    - sname: angelmoi
+      full_name: Angélique Ardouin
       position: Second striker
   substitutions:
-    - etime: 86
-      out: Jean-Philippe Paquin
-      in: Ebba Vong
+    - etime: 72
+      out: Dany Jacquard
+      in: Inacio Lacerda
   stats:
-    on_target: 3
-    off_target: 5
-    possession: 47
+    on_target: 0
+    off_target: 4
+    possession: 42
     corners: 4
-    offsides: 7
-    foul: 14
+    offsides: 5
+    foul: 2
     yellow: 1
 
 
@@ -56,73 +67,99 @@ visitors:
     - name: Nils Landin
 
   players:
-    - name: Hildr Dalin
+    - sname: hildrd
+      full_name: Hildr Dalin
       position: Goalkeeper
-      out: 89'
-    - name: Tron Blomquist
+    - sname: tronblom
+      full_name: Tron Blomquist
       position: Centre-back
-    - name: Ragnar Lindgren
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
       position: Sweeper
-    - name: Joel Lennartsson
+    - sname: joelle
+      full_name: Joel Lennartsson
       position: Full-back
-    - name: Nicholas Lundholm
+    - sname: nicholas
+      full_name: Nicholas Lundholm
       position: Wing-back
-    - name: Thomas Borg
+      out: 73'
+    - sname: tomburg
+      full_name: Thomas Borg
       position: Centre midfield
-    - name: Stefan Lötvall
+      out: 88'
+    - sname: stefilot
+      full_name: Stefan Lötvall
       position: Defensive midfield
-    - name: Ögge Jönsson
+      out: 45'
+    - sname: ojonss
+      full_name: Ögge Jönsson
       position: Attacking midfield
-    - name: Joel Liljeström
+      out: 65'
+    - sname: joelljs
+      full_name: Joel Liljeström
       position: Wide midfield
-    - name: Pia Frisk
+      out: 78'
+    - sname: pipifri
+      full_name: Pia Frisk
       position: Centre forward
-    - name: Fia Johannesson
+    - sname: fjohanss
+      full_name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 89
-      out: Hildr Dalin
-      in: Anne Walbruch
+    - etime: 73
+      out: Nicholas Lundholm
+      in: Inacio Lacerda
+    - etime: 88
+      out: Thomas Borg
+      in: Gul Bardakci
+    - etime: 45
+      out: Stefan Lötvall
+      in: Ubon Buasuwan
+    - etime: 65
+      out: Ögge Jönsson
+      in: Ubon Buasuwan
+    - etime: 78
+      out: Joel Liljeström
+      in: Cherise Bey
   stats:
-    on_target: 1
+    on_target: 5
     off_target: 7
-    possession: 46
-    corners: 2
-    offsides: 5
-    foul: 6
-    yellow: 0
+    possession: 53
+    corners: 6
+    offsides: 3
+    foul: 8
+    yellow: 6
 
 minutes:
   - type: goal
-    etime: 7
-    visitor: Ragnar Lindgren
-    assist: Joel Lennartsson
-    score: 0:1
+    etime: 9
+    home: Alexis Gaubert
+    assist: Pierre-Louis Verninac
+    score: 1:0
+  - type: goal
+    etime: 17
+    home: Aymeric Chéreau
+    assist: Angélique Ardouin
+    score: 2:0
   - type: yellow
-    etime: 24
-    home: Angélique Ardouin
-  - type: yellow
-    etime: 33
-    visitor: Nicholas Lundholm
+    etime: 19
+    visitor: Stefan Lötvall
   - type: half_time
     etime: 45
-    score: 0:1
+    score: 2:0
   - type: yellow
-    etime: 49
-    home: Pierre-Louis Verninac
+    etime: 52
+    visitor: Joel Liljeström
+  - type: yellow
+    etime: 55
+    home: Jean-Philippe Paquin
   - type: goal
-    etime: 59
-    home: Dany Jacquard
-    assist: Alexis Gaubert
-    score: 1:1
-  - type: goal
-    etime: 66
-    home: Aymeric Chéreau
-    assist: Baptiste Alard
+    etime: 58
+    visitor: Ragnar Lindgren
+    assist: Nicholas Lundholm
     score: 2:1
-  - type: yellow
-    etime: 83
-    visitor: Joel Liljeström
-  - type: yellow
-    etime: 85
-    visitor: Joel Liljeström
+  - type: goal
+    etime: 74
+    home: Dany Jacquard
+    assist: Marcel Emmanuelli
+    score: 3:1

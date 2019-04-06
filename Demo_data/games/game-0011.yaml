@@ -1,134 +1,162 @@
 ---
 game-id: 0011
-date: 10/06/2012 07:57 AM
-loc: London
+date: 10/09/2002 02:02 PM
+loc: Madrid
 live: False
 referrees:
-  - name: Anne Walbruch (Brazilian)
+  - name: Pierre-Yves Longe (French)
 home:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Abeba Liban
+    - name: Merille Haroyu
 
   players:
-    - name: Alemu Bekele Yitay
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
       position: Goalkeeper
-    - name: Gulema Yihun Mihret
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
       position: Centre-back
-    - name: Zewdnesh Tesfa Galawdeyos
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
-    - name: Afewerek Eyoel Abimelech
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
       position: Full-back
-    - name: Brehan Kidane Meles
+    - sname: brekime
+      full_name: Brehan Kidane Meles
       position: Wing-back
-    - name: Mirabe Nahum Selassie
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
       position: Centre midfield
-    - name: Girma Natnael Kaleb
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
       position: Defensive midfield
-    - name: Wolitigna Adugna Mesay
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
       position: Attacking midfield
-    - name: Asamenew Zewedu Gorfu
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
       position: Wide midfield
-    - name: Chirkos Abimelech Eleazar
+      out: 59'
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
       position: Centre forward
-    - name: Jeneve Dessalegne Tessema
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
       position: Second striker
   substitutions:
+    - etime: 59
+      out: Asamenew Zewedu Gorfu
+      in: Anne Walbruch
   stats:
-    on_target: 2
-    off_target: 4
-    possession: 41
-    corners: 7
-    offsides: 3
+    on_target: 5
+    off_target: 5
+    possession: 60
+    corners: 5
+    offsides: 4
     foul: 14
-    yellow: 1
+    yellow: 2
 
 
 visitors:
   team_id: 0005
   team_name: LHFC
   coaches:
-    - name: Nils Landin
+    - name: Lilly Jernberg
 
   players:
-    - name: Hildr Dalin
+    - sname: hildrd
+      full_name: Hildr Dalin
       position: Goalkeeper
-    - name: Tron Blomquist
+    - sname: tronblom
+      full_name: Tron Blomquist
       position: Centre-back
-    - name: Ragnar Lindgren
+      out: 71'
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
       position: Sweeper
-      out: 73'
-    - name: Joel Lennartsson
+    - sname: joelle
+      full_name: Joel Lennartsson
       position: Full-back
-    - name: Nicholas Lundholm
+      out: 69'
+    - sname: nicholas
+      full_name: Nicholas Lundholm
       position: Wing-back
-    - name: Thomas Borg
+      out: 53'
+    - sname: tomburg
+      full_name: Thomas Borg
       position: Centre midfield
-    - name: Stefan Lötvall
+    - sname: stefilot
+      full_name: Stefan Lötvall
       position: Defensive midfield
-    - name: Ögge Jönsson
+    - sname: ojonss
+      full_name: Ögge Jönsson
       position: Attacking midfield
-      out: 45'
-    - name: Joel Liljeström
+    - sname: joelljs
+      full_name: Joel Liljeström
       position: Wide midfield
-    - name: Pia Frisk
+    - sname: pipifri
+      full_name: Pia Frisk
       position: Centre forward
-    - name: Fia Johannesson
+    - sname: fjohanss
+      full_name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 73
-      out: Ragnar Lindgren
-      in: Anne Walbruch
-    - etime: 45
-      out: Ögge Jönsson
-      in: Ebba Vong
+    - etime: 71
+      out: Tron Blomquist
+      in: Cherise Bey
+    - etime: 69
+      out: Joel Lennartsson
+      in: Cherise Bey
+    - etime: 53
+      out: Nicholas Lundholm
+      in: Inacio Lacerda
   stats:
     on_target: 1
-    off_target: 7
-    possession: 48
-    corners: 7
-    offsides: 6
-    foul: 3
-    yellow: 3
+    off_target: 4
+    possession: 40
+    corners: 5
+    offsides: 2
+    foul: 8
+    yellow: 1
 
 minutes:
   - type: goal
-    etime: 16
-    visitor: Ögge Jönsson
-    assist: Ragnar Lindgren
+    etime: 23
+    visitor: Joel Lennartsson
+    assist: Thomas Borg
     score: 0:1
   - type: goal
-    etime: 17
-    visitor: Stefan Lötvall
-    assist: Joel Liljeström
-    score: 0:2
+    etime: 24
+    home: Mirabe Nahum Selassie
+    assist: Alemu Bekele Yitay
+    score: 1:1
+  - type: yellow
+    etime: 26
+    visitor: Ögge Jönsson
   - type: goal
-    etime: 19
-    visitor: Stefan Lötvall
-    assist: Nicholas Lundholm
-    score: 0:3
-  - type: goal
-    etime: 39
-    visitor: Stefan Lötvall
-    assist: Ögge Jönsson
-    score: 0:4
+    etime: 38
+    home: Alemu Bekele Yitay
+    assist: Mirabe Nahum Selassie
+    score: 2:1
   - type: half_time
     etime: 45
-    score: 0:4
+    score: 2:1
+  - type: yellow
+    etime: 59
+    home: Girma Natnael Kaleb
   - type: goal
-    etime: 55
-    visitor: Ögge Jönsson
+    etime: 64
+    visitor: Tron Blomquist
     assist: Nicholas Lundholm
-    score: 0:5
+    score: 2:2
+  - type: yellow
+    etime: 70
+    home: Mirabe Nahum Selassie
   - type: goal
-    etime: 56
-    visitor: Nicholas Lundholm
-    assist: Ragnar Lindgren
-    score: 0:6
-  - type: yellow
-    etime: 60
-    home: Afewerek Eyoel Abimelech
-  - type: yellow
-    etime: 79
-    visitor: Pia Frisk
+    etime: 71
+    visitor: Ragnar Lindgren
+    assist: Fia Johannesson
+    score: 2:3

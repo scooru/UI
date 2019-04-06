@@ -1,63 +1,74 @@
 ---
 game-id: 0012
-date: 11/27/2015 04:49 PM
-loc: Isfahan
+date: 12/31/2001 08:53 PM
+loc: Bengaluru
 live: False
 referrees:
-  - name: Lishan Wube (Ethiopian)
+  - name: Ubon Buasuwan (Thai)
 home:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Merille Haroyu
+    - name: Abeba Liban
 
   players:
-    - name: Alemu Bekele Yitay
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
       position: Goalkeeper
-      out: 57'
-    - name: Gulema Yihun Mihret
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
       position: Centre-back
-    - name: Zewdnesh Tesfa Galawdeyos
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
-    - name: Afewerek Eyoel Abimelech
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
       position: Full-back
-      out: 49'
-    - name: Brehan Kidane Meles
+      out: 85'
+    - sname: brekime
+      full_name: Brehan Kidane Meles
       position: Wing-back
-      out: 76'
-    - name: Mirabe Nahum Selassie
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
       position: Centre midfield
-    - name: Girma Natnael Kaleb
+      out: 69'
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
       position: Defensive midfield
-    - name: Wolitigna Adugna Mesay
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
       position: Attacking midfield
-    - name: Asamenew Zewedu Gorfu
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
       position: Wide midfield
-      out: 53'
-    - name: Chirkos Abimelech Eleazar
+      out: 58'
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
       position: Centre forward
-    - name: Jeneve Dessalegne Tessema
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
       position: Second striker
+      out: 61'
   substitutions:
-    - etime: 57
-      out: Alemu Bekele Yitay
-      in: Paithoon Suthikul
-    - etime: 49
+    - etime: 85
       out: Afewerek Eyoel Abimelech
-      in: Cherise Bey
-    - etime: 76
-      out: Brehan Kidane Meles
       in: Gul Bardakci
-    - etime: 53
+    - etime: 69
+      out: Mirabe Nahum Selassie
+      in: Inacio Lacerda
+    - etime: 58
       out: Asamenew Zewedu Gorfu
-      in: Cherise Bey
+      in: Arvid Odegard
+    - etime: 61
+      out: Jeneve Dessalegne Tessema
+      in: Ubon Buasuwan
   stats:
-    on_target: 3
-    off_target: 7
-    possession: 57
-    corners: 3
+    on_target: 0
+    off_target: 4
+    possession: 46
+    corners: 7
     offsides: 7
-    foul: 14
+    foul: 5
     yellow: 6
 
 
@@ -65,101 +76,89 @@ visitors:
   team_id: 0006
   team_name: PXFC
   coaches:
-    - name: Kulap (Ice) Hatthapradit
+    - name: Boonsri (Aom) Thipol
 
   players:
-    - name: Surin () Wattanasin
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
       position: Goalkeeper
-      out: 54'
-    - name: Akkanee Honghannarong
+      out: 76'
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
       position: Centre-back
-    - name: Arthit Sansurin
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
       position: Sweeper
-    - name: Hanuman Klinpraneet
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
       position: Full-back
-    - name: Ruangrit Srisati
+    - sname: ruangri
+      full_name: Ruangrit Srisati
       position: Wing-back
-      out: 68'
-    - name: Duchanee Srisati
+    - sname: duchan
+      full_name: Duchanee Srisati
       position: Centre midfield
-    - name: Banthorn Noppachorn
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
       position: Defensive midfield
-      out: 60'
-    - name: Nopjira Gaysorn
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
       position: Attacking midfield
-    - name: Jirasak Srichure
+    - sname: bossjira
+      full_name: Jirasak Srichure
       position: Wide midfield
-    - name: Piyapat Charanachitta
+      out: 69'
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
       position: Centre forward
-    - name: Maliwan Chaiprasit
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
       position: Second striker
-      out: 58'
+      out: 54'
   substitutions:
+    - etime: 76
+      out: Surin (Aek) Wattanasin
+      in: Pierre-Yves Longe
+    - etime: 69
+      out: Jirasak Srichure
+      in: Inacio Lacerda
     - etime: 54
-      out: Surin () Wattanasin
-      in: Ubon Buasuwan
-    - etime: 68
-      out: Ruangrit Srisati
-      in: Gul Bardakci
-    - etime: 60
-      out: Banthorn Noppachorn
-      in: Ebba Vong
-    - etime: 58
       out: Maliwan Chaiprasit
-      in: Cherise Bey
+      in: Ebba Vong
   stats:
-    on_target: 5
-    off_target: 3
-    possession: 50
-    corners: 2
-    offsides: 4
-    foul: 7
-    yellow: 0
+    on_target: 1
+    off_target: 2
+    possession: 55
+    corners: 6
+    offsides: 5
+    foul: 10
+    yellow: 7
 
 minutes:
-  - type: yellow
-    etime: 3
-    home: Zewdnesh Tesfa Galawdeyos
   - type: goal
-    etime: 4
-    home: Zewdnesh Tesfa Galawdeyos
-    assist: Girma Natnael Kaleb
+    etime: 1
+    home: Jeneve Dessalegne Tessema
+    assist: Mirabe Nahum Selassie
     score: 1:0
   - type: yellow
-    etime: 14
-    visitor: Piyapat Charanachitta
-  - type: yellow
-    etime: 17
-    visitor: Maliwan Chaiprasit
-  - type: goal
-    etime: 30
-    home: Girma Natnael Kaleb
-    assist: Zewdnesh Tesfa Galawdeyos
-    score: 2:0
-  - type: yellow
-    etime: 32
-    home: Brehan Kidane Meles
-  - type: yellow
-    etime: 43
-    home: Wolitigna Adugna Mesay
+    etime: 4
+    visitor: Surin (Aek) Wattanasin
   - type: half_time
     etime: 45
-    score: 2:0
-  - type: goal
-    etime: 56
-    visitor: Piyapat Charanachitta
-    assist: Nopjira Gaysorn
-    score: 2:1
-  - type: goal
-    etime: 61
-    visitor: Banthorn Noppachorn
-    assist: Jirasak Srichure
-    score: 2:2
+    score: 1:0
   - type: yellow
-    etime: 61
-    visitor: Akkanee Honghannarong
+    etime: 59
+    visitor: Nopjira (Ploy) Gaysorn
   - type: goal
-    etime: 81
-    visitor: Ruangrit Srisati
-    assist: Duchanee Srisati
-    score: 2:3
+    etime: 65
+    home: Mirabe Nahum Selassie
+    assist: Jeneve Dessalegne Tessema
+    score: 2:0
+  - type: yellow
+    etime: 80
+    visitor: Nopjira (Ploy) Gaysorn
+  - type: goal
+    etime: 85
+    visitor: Duchanee Srisati
+    assist: Piyapat Charanachitta
+    score: 2:1

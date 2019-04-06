@@ -1,10 +1,10 @@
 ---
 game-id: 0009
-date: 03/26/2014 07:35 PM
-loc: Bengaluru
+date: 03/06/2012 11:11 AM
+loc: Busan
 live: False
 referrees:
-  - name: Ubon Buasuwan (Thai)
+  - name: Ebba Vong (Swedish)
 home:
   team_id: 0002
   team_name: PALM
@@ -12,52 +12,47 @@ home:
     - name: Ernesto Pires
 
   players:
-    - name: Túlio Amorim Morais
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
       position: Goalkeeper
-    - name: Márcio Nascimento Furtado
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
       position: Centre-back
-      out: 80'
-    - name: Iago Martins Belluci
+    - sname: iabellu
+      full_name: Iago Martins Belluci
       position: Sweeper
-      out: 45'
-    - name: Sidnei Amaral Ferraz
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
       position: Full-back
-    - name: José Hamada Barros
+    - sname: josehey
+      full_name: José Hamada Barros
       position: Wing-back
-    - name: Francine Gonçalves Caetano
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
       position: Centre midfield
-      out: 82'
-    - name: Eduardo Damasceno Delgado
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
       position: Defensive midfield
-      out: 73'
-    - name: Bernardo Maia Álvarez
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
       position: Attacking midfield
-    - name: Leandro Antunes Couto
+    - sname: leandac
+      full_name: Leandro Antunes Couto
       position: Wide midfield
-    - name: Vinicius Ferraz de Souza
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
       position: Centre forward
-    - name: Roberta Medeiros Menezes
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
       position: Second striker
   substitutions:
-    - etime: 80
-      out: Márcio Nascimento Furtado
-      in: Cherise Bey
-    - etime: 45
-      out: Iago Martins Belluci
-      in: Fethee Tenagnework
-    - etime: 82
-      out: Francine Gonçalves Caetano
-      in: Pierre-Yves Longe
-    - etime: 73
-      out: Eduardo Damasceno Delgado
-      in: Ubon Buasuwan
   stats:
-    on_target: 2
-    off_target: 2
-    possession: 59
-    corners: 4
-    offsides: 6
-    foul: 10
+    on_target: 4
+    off_target: 5
+    possession: 41
+    corners: 6
+    offsides: 4
+    foul: 11
     yellow: 1
 
 
@@ -65,86 +60,98 @@ visitors:
   team_id: 0006
   team_name: PXFC
   coaches:
-    - name: Boonsri (Aom) Thipol
+    - name: Kulap (Ice) Hatthapradit
 
   players:
-    - name: Surin () Wattanasin
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
       position: Goalkeeper
-    - name: Akkanee Honghannarong
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
       position: Centre-back
-    - name: Arthit Sansurin
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
       position: Sweeper
-      out: 78'
-    - name: Hanuman Klinpraneet
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
       position: Full-back
-    - name: Ruangrit Srisati
+    - sname: ruangri
+      full_name: Ruangrit Srisati
       position: Wing-back
-    - name: Duchanee Srisati
+    - sname: duchan
+      full_name: Duchanee Srisati
       position: Centre midfield
-    - name: Banthorn Noppachorn
+      out: 85'
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
       position: Defensive midfield
-    - name: Nopjira Gaysorn
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
       position: Attacking midfield
-      out: 46'
-    - name: Jirasak Srichure
+      out: 62'
+    - sname: bossjira
+      full_name: Jirasak Srichure
       position: Wide midfield
-    - name: Piyapat Charanachitta
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
       position: Centre forward
-    - name: Maliwan Chaiprasit
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
       position: Second striker
-      out: 57'
   substitutions:
-    - etime: 78
-      out: Arthit Sansurin
+    - etime: 85
+      out: Duchanee Srisati
       in: Ubon Buasuwan
-    - etime: 46
-      out: Nopjira Gaysorn
-      in: Inacio Lacerda
-    - etime: 57
-      out: Maliwan Chaiprasit
-      in: Paithoon Suthikul
+    - etime: 62
+      out: Nopjira (Ploy) Gaysorn
+      in: Ebba Vong
   stats:
-    on_target: 3
-    off_target: 2
-    possession: 47
-    corners: 7
-    offsides: 5
-    foul: 11
-    yellow: 5
+    on_target: 1
+    off_target: 3
+    possession: 56
+    corners: 2
+    offsides: 4
+    foul: 5
+    yellow: 6
 
 minutes:
   - type: yellow
-    etime: 14
-    home: Túlio Amorim Morais
-  - type: goal
+    etime: 18
+    visitor: Surin (Aek) Wattanasin
+  - type: yellow
     etime: 21
-    visitor: Banthorn Noppachorn
-    assist: Duchanee Srisati
+    visitor: Ruangrit Srisati
+  - type: yellow
+    etime: 39
+    home: Iago Martins Belluci
+  - type: goal
+    etime: 42
+    visitor: Nopjira (Ploy) Gaysorn
+    assist: Hanuman Klinpraneet
     score: 0:1
   - type: goal
-    etime: 21
-    home: Francine Gonçalves Caetano
-    assist: Bernardo Maia Álvarez
-    score: 1:1
-  - type: yellow
-    etime: 23
-    visitor: Arthit Sansurin
+    etime: 42
+    visitor: Duchanee Srisati
+    assist: Maliwan Chaiprasit
+    score: 0:2
   - type: half_time
     etime: 45
-    score: 1:1
-  - type: yellow
-    etime: 47
-    home: Sidnei Amaral Ferraz
-  - type: yellow
-    etime: 48
-    home: Bernardo Maia Álvarez
+    score: 0:2
   - type: goal
-    etime: 76
-    visitor: Duchanee Srisati
-    assist: Hanuman Klinpraneet
+    etime: 46
+    home: Túlio Amorim Morais
+    assist: Márcio Nascimento Furtado
     score: 1:2
   - type: goal
-    etime: 83
-    home: Leandro Antunes Couto
-    assist: Iago Martins Belluci
-    score: 2:2
+    etime: 63
+    visitor: Maliwan Chaiprasit
+    assist: Hanuman Klinpraneet
+    score: 1:3
+  - type: goal
+    etime: 65
+    visitor: Akkanee Honghannarong
+    assist: Hanuman Klinpraneet
+    score: 1:4
+  - type: yellow
+    etime: 88
+    visitor: Banthorn Noppachorn

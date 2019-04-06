@@ -1,129 +1,140 @@
 ---
 game-id: 0002
-date: 02/14/2001 04:35 AM
-loc: Isfahan
+date: 07/06/2003 11:47 AM
+loc: Kawasaki
 live: False
 referrees:
-  - name: Ubon Buasuwan (Thai)
+  - name: Lishan Wube (Ethiopian)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Saladin Toma
+    - name: Amal Alfarsi
 
   players:
-    - name: Musaddiq al-Pirani
+    - sname: musad
+      full_name: Musaddiq al-Pirani
       position: Goalkeeper
-    - name: Husni el-Farooqui
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
       position: Centre-back
-    - name: Hasan el-Matin
+    - sname: hasan
+      full_name: Hasan el-Matin
       position: Sweeper
-    - name: Naseeba al-Yousuf
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
       position: Full-back
-    - name: Safwaan el-Koroma
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
       position: Wing-back
-    - name: Behzad Mahdavi
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
       position: Centre midfield
-    - name: Arzhang Moshiri
+    - sname: arzhang
+      full_name: Arzhang Moshiri
       position: Defensive midfield
-    - name: Taghi Taheri
+    - sname: MrTaheri
+      full_name: Taghi Taheri
       position: Attacking midfield
-    - name: Abbas Diba
+    - sname: dibadiba
+      full_name: Abbas Diba
       position: Wide midfield
-    - name: Siamak Yaghmaei
+    - sname: siamak
+      full_name: Siamak Yaghmaei
       position: Centre forward
-    - name: Saman Arabnia
+    - sname: samana
+      full_name: Saman Arabnia
       position: Second striker
   substitutions:
   stats:
-    on_target: 0
-    off_target: 6
+    on_target: 3
+    off_target: 3
     possession: 47
     corners: 3
-    offsides: 7
-    foul: 5
-    yellow: 5
+    offsides: 3
+    foul: 4
+    yellow: 7
 
 
 visitors:
   team_id: 0003
   team_name: ENFT
   coaches:
-    - name: Abeba Liban
+    - name: Merille Haroyu
 
   players:
-    - name: Alemu Bekele Yitay
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
       position: Goalkeeper
-    - name: Gulema Yihun Mihret
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
       position: Centre-back
-    - name: Zewdnesh Tesfa Galawdeyos
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
-      out: 46'
-    - name: Afewerek Eyoel Abimelech
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
       position: Full-back
-    - name: Brehan Kidane Meles
+    - sname: brekime
+      full_name: Brehan Kidane Meles
       position: Wing-back
-    - name: Mirabe Nahum Selassie
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
       position: Centre midfield
-      out: 47'
-    - name: Girma Natnael Kaleb
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
       position: Defensive midfield
-      out: 51'
-    - name: Wolitigna Adugna Mesay
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
       position: Attacking midfield
-    - name: Asamenew Zewedu Gorfu
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
       position: Wide midfield
-    - name: Chirkos Abimelech Eleazar
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
       position: Centre forward
-    - name: Jeneve Dessalegne Tessema
+      out: 76'
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
       position: Second striker
   substitutions:
-    - etime: 46
-      out: Zewdnesh Tesfa Galawdeyos
+    - etime: 76
+      out: Chirkos Abimelech Eleazar
       in: Pierre-Yves Longe
-    - etime: 47
-      out: Mirabe Nahum Selassie
-      in: Pierre-Yves Longe
-    - etime: 51
-      out: Girma Natnael Kaleb
-      in: Cherise Bey
   stats:
     on_target: 0
-    off_target: 3
-    possession: 54
+    off_target: 2
+    possession: 56
     corners: 2
     offsides: 6
-    foul: 12
-    yellow: 2
+    foul: 11
+    yellow: 6
 
 minutes:
   - type: goal
-    etime: 8
-    home: Arzhang Moshiri
-    assist: Hasan el-Matin
-    score: 1:0
-  - type: goal
-    etime: 20
-    visitor: Afewerek Eyoel Abimelech
+    etime: 15
+    visitor: Jeneve Dessalegne Tessema
     assist: Alemu Bekele Yitay
-    score: 1:1
+    score: 0:1
   - type: yellow
-    etime: 31
-    home: Husni el-Farooqui
+    etime: 18
+    visitor: Asamenew Zewedu Gorfu
+  - type: yellow
+    etime: 19
+    home: Abbas Diba
+  - type: goal
+    etime: 42
+    visitor: Girma Natnael Kaleb
+    assist: Gulema Yihun Mihret
+    score: 0:2
   - type: half_time
     etime: 45
-    score: 1:1
+    score: 0:2
   - type: goal
-    etime: 61
-    home: Husni el-Farooqui
-    assist: Behzad Mahdavi
-    score: 2:1
+    etime: 47
+    visitor: Wolitigna Adugna Mesay
+    assist: Girma Natnael Kaleb
+    score: 0:3
   - type: yellow
-    etime: 63
-    home: Taghi Taheri
-  - type: yellow
-    etime: 63
-    home: Naseeba al-Yousuf
-  - type: yellow
-    etime: 70
+    etime: 75
     home: Safwaan el-Koroma

@@ -1,10 +1,10 @@
 ---
 game-id: 0015
-date: 10/31/2002 10:04 PM
-loc: Cairo
+date: 05/16/2013 10:45 PM
+loc: Havana
 live: False
 referrees:
-  - name: Fethee Tenagnework (Ethiopian)
+  - name: Inacio Lacerda (Brazilian)
 home:
   team_id: 0005
   team_name: LHFC
@@ -12,48 +12,55 @@ home:
     - name: Lilly Jernberg
 
   players:
-    - name: Hildr Dalin
+    - sname: hildrd
+      full_name: Hildr Dalin
       position: Goalkeeper
-      out: 49'
-    - name: Tron Blomquist
+    - sname: tronblom
+      full_name: Tron Blomquist
       position: Centre-back
-    - name: Ragnar Lindgren
+      out: 52'
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
       position: Sweeper
-      out: 78'
-    - name: Joel Lennartsson
+    - sname: joelle
+      full_name: Joel Lennartsson
       position: Full-back
-    - name: Nicholas Lundholm
+    - sname: nicholas
+      full_name: Nicholas Lundholm
       position: Wing-back
-      out: 84'
-    - name: Thomas Borg
+    - sname: tomburg
+      full_name: Thomas Borg
       position: Centre midfield
-    - name: Stefan Lötvall
+    - sname: stefilot
+      full_name: Stefan Lötvall
       position: Defensive midfield
-    - name: Ögge Jönsson
+    - sname: ojonss
+      full_name: Ögge Jönsson
       position: Attacking midfield
-    - name: Joel Liljeström
+    - sname: joelljs
+      full_name: Joel Liljeström
       position: Wide midfield
-    - name: Pia Frisk
+    - sname: pipifri
+      full_name: Pia Frisk
       position: Centre forward
-    - name: Fia Johannesson
+      out: 65'
+    - sname: fjohanss
+      full_name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 49
-      out: Hildr Dalin
-      in: Cherise Bey
-    - etime: 78
-      out: Ragnar Lindgren
-      in: Lishan Wube
-    - etime: 84
-      out: Nicholas Lundholm
-      in: Ubon Buasuwan
+    - etime: 52
+      out: Tron Blomquist
+      in: Anne Walbruch
+    - etime: 65
+      out: Pia Frisk
+      in: Farhat Yilmaz
   stats:
-    on_target: 2
-    off_target: 3
-    possession: 40
-    corners: 7
-    offsides: 5
-    foul: 14
+    on_target: 5
+    off_target: 6
+    possession: 52
+    corners: 3
+    offsides: 3
+    foul: 5
     yellow: 0
 
 
@@ -64,77 +71,96 @@ visitors:
     - name: Kulap (Ice) Hatthapradit
 
   players:
-    - name: Surin () Wattanasin
+    - sname: surinw
+      full_name: Surin (Aek) Wattanasin
       position: Goalkeeper
-    - name: Akkanee Honghannarong
+    - sname: ahongha
+      full_name: Akkanee Honghannarong
       position: Centre-back
-    - name: Arthit Sansurin
+    - sname: arthits
+      full_name: Arthit (New) Sansurin
       position: Sweeper
-    - name: Hanuman Klinpraneet
+      out: 55'
+    - sname: hanuman
+      full_name: Hanuman Klinpraneet
       position: Full-back
-    - name: Ruangrit Srisati
+    - sname: ruangri
+      full_name: Ruangrit Srisati
       position: Wing-back
-    - name: Duchanee Srisati
+    - sname: duchan
+      full_name: Duchanee Srisati
       position: Centre midfield
-    - name: Banthorn Noppachorn
+      out: 78'
+    - sname: banthornn
+      full_name: Banthorn Noppachorn
       position: Defensive midfield
-    - name: Nopjira Gaysorn
+    - sname: nopjira
+      full_name: Nopjira (Ploy) Gaysorn
       position: Attacking midfield
-    - name: Jirasak Srichure
+    - sname: bossjira
+      full_name: Jirasak Srichure
       position: Wide midfield
-    - name: Piyapat Charanachitta
+    - sname: piyachar
+      full_name: Piyapat Charanachitta
       position: Centre forward
-    - name: Maliwan Chaiprasit
+    - sname: maliwanc
+      full_name: Maliwan Chaiprasit
       position: Second striker
   substitutions:
+    - etime: 55
+      out: Arthit (New) Sansurin
+      in: Anne Walbruch
+    - etime: 78
+      out: Duchanee Srisati
+      in: Anne Walbruch
   stats:
     on_target: 3
-    off_target: 3
-    possession: 45
-    corners: 3
-    offsides: 4
-    foul: 9
-    yellow: 0
+    off_target: 2
+    possession: 59
+    corners: 2
+    offsides: 5
+    foul: 13
+    yellow: 6
 
 minutes:
   - type: goal
-    etime: 11
+    etime: 8
     home: Joel Lennartsson
-    assist: Stefan Lötvall
+    assist: Nicholas Lundholm
     score: 1:0
   - type: goal
-    etime: 36
-    home: Ragnar Lindgren
-    assist: Stefan Lötvall
-    score: 2:0
+    etime: 9
+    visitor: Nopjira (Ploy) Gaysorn
+    assist: Hanuman Klinpraneet
+    score: 1:1
   - type: yellow
-    etime: 40
-    home: Nicholas Lundholm
+    etime: 20
+    home: Stefan Lötvall
   - type: half_time
     etime: 45
-    score: 2:0
-  - type: goal
+    score: 1:1
+  - type: yellow
     etime: 47
-    visitor: Hanuman Klinpraneet
-    assist: Nopjira Gaysorn
-    score: 2:1
-  - type: yellow
-    etime: 52
-    visitor: Hanuman Klinpraneet
-  - type: yellow
-    etime: 57
-    visitor: Maliwan Chaiprasit
-  - type: yellow
-    etime: 60
-    home: Nicholas Lundholm
-  - type: yellow
-    etime: 65
-    visitor: Arthit Sansurin
-  - type: yellow
-    etime: 66
     home: Fia Johannesson
+  - type: yellow
+    etime: 55
+    visitor: Surin (Aek) Wattanasin
+  - type: yellow
+    etime: 67
+    visitor: Arthit (New) Sansurin
+  - type: yellow
+    etime: 67
+    visitor: Arthit (New) Sansurin
   - type: goal
-    etime: 78
-    visitor: Nopjira Gaysorn
-    assist: Ruangrit Srisati
+    etime: 85
+    home: Nicholas Lundholm
+    assist: Fia Johannesson
+    score: 2:1
+  - type: goal
+    etime: 86
+    visitor: Hanuman Klinpraneet
+    assist: Maliwan Chaiprasit
     score: 2:2
+  - type: yellow
+    etime: 87
+    home: Hildr Dalin

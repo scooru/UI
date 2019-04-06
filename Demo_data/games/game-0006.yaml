@@ -1,56 +1,67 @@
 ---
 game-id: 0006
-date: 06/13/2006 10:30 AM
-loc: Isfahan
+date: 10/20/2016 01:15 AM
+loc: Cairo
 live: False
 referrees:
-  - name: Ebba Vong (Swedish)
+  - name: Farhat Yilmaz (Turkish)
 home:
   team_id: 0002
   team_name: PALM
   coaches:
-    - name: Ernesto Pires
+    - name: Alondra Caixeta
 
   players:
-    - name: Túlio Amorim Morais
+    - sname: tuuliioo
+      full_name: Túlio Amorim Morais
       position: Goalkeeper
-    - name: Márcio Nascimento Furtado
+    - sname: marcionf
+      full_name: Márcio Nascimento Furtado
       position: Centre-back
-    - name: Iago Martins Belluci
+    - sname: iabellu
+      full_name: Iago Martins Belluci
       position: Sweeper
-      out: 72'
-    - name: Sidnei Amaral Ferraz
+    - sname: sidneife
+      full_name: Sidnei Amaral Ferraz
       position: Full-back
-    - name: José Hamada Barros
+      out: 61'
+    - sname: josehey
+      full_name: José Hamada Barros
       position: Wing-back
-    - name: Francine Gonçalves Caetano
+    - sname: francieg
+      full_name: Francine Gonçalves Caetano
       position: Centre midfield
-    - name: Eduardo Damasceno Delgado
+    - sname: ddeduardo
+      full_name: Eduardo Damasceno Delgado
       position: Defensive midfield
-    - name: Bernardo Maia Álvarez
+      out: 51'
+    - sname: bernarcool
+      full_name: Bernardo Maia Álvarez
       position: Attacking midfield
-      out: 63'
-    - name: Leandro Antunes Couto
+    - sname: leandac
+      full_name: Leandro Antunes Couto
       position: Wide midfield
-    - name: Vinicius Ferraz de Souza
+    - sname: vfds
+      full_name: Vinicius Ferraz de Souza
       position: Centre forward
-    - name: Roberta Medeiros Menezes
+    - sname: robertam
+      full_name: Roberta Medeiros Menezes
       position: Second striker
   substitutions:
-    - etime: 72
-      out: Iago Martins Belluci
-      in: Inacio Lacerda
-    - etime: 63
-      out: Bernardo Maia Álvarez
-      in: Inacio Lacerda
+    - etime: 61
+      out: Sidnei Amaral Ferraz
+      in: Ebba Vong
+    - etime: 51
+      out: Eduardo Damasceno Delgado
+      in: Paithoon Suthikul
   stats:
-    on_target: 2
-    off_target: 4
-    possession: 60
-    corners: 4
-    offsides: 2
-    foul: 4
-    yellow: 2
+    on_target: 3
+    off_target: 7
+    possession: 42
+    corners: 6
+    offsides: 6
+    foul: 9
+    yellow: 7
 
 
 visitors:
@@ -60,81 +71,107 @@ visitors:
     - name: Abeba Liban
 
   players:
-    - name: Alemu Bekele Yitay
+    - sname: alemu1
+      full_name: Alemu Bekele Yitay
       position: Goalkeeper
-    - name: Gulema Yihun Mihret
+    - sname: gulemaym
+      full_name: Gulema Yihun Mihret
       position: Centre-back
-    - name: Zewdnesh Tesfa Galawdeyos
+      out: 67'
+    - sname: zewdster
+      full_name: Zewdnesh Tesfa Galawdeyos
       position: Sweeper
-    - name: Afewerek Eyoel Abimelech
+    - sname: afewer
+      full_name: Afewerek Eyoel Abimelech
       position: Full-back
-    - name: Brehan Kidane Meles
+    - sname: brekime
+      full_name: Brehan Kidane Meles
       position: Wing-back
-    - name: Mirabe Nahum Selassie
+    - sname: mirabe
+      full_name: Mirabe Nahum Selassie
       position: Centre midfield
-    - name: Girma Natnael Kaleb
+    - sname: imgirma
+      full_name: Girma Natnael Kaleb
       position: Defensive midfield
-      out: 79'
-    - name: Wolitigna Adugna Mesay
+    - sname: wolitna
+      full_name: Wolitigna Adugna Mesay
       position: Attacking midfield
-      out: 59'
-    - name: Asamenew Zewedu Gorfu
+    - sname: asamenzg
+      full_name: Asamenew Zewedu Gorfu
       position: Wide midfield
-    - name: Chirkos Abimelech Eleazar
+      out: 83'
+    - sname: chirkobi
+      full_name: Chirkos Abimelech Eleazar
       position: Centre forward
-      out: 48'
-    - name: Jeneve Dessalegne Tessema
+      out: 80'
+    - sname: jeneve
+      full_name: Jeneve Dessalegne Tessema
       position: Second striker
   substitutions:
-    - etime: 79
-      out: Girma Natnael Kaleb
-      in: Lishan Wube
-    - etime: 59
-      out: Wolitigna Adugna Mesay
-      in: Anne Walbruch
-    - etime: 48
+    - etime: 67
+      out: Gulema Yihun Mihret
+      in: Fethee Tenagnework
+    - etime: 83
+      out: Asamenew Zewedu Gorfu
+      in: Paithoon Suthikul
+    - etime: 80
       out: Chirkos Abimelech Eleazar
-      in: Farhat Yilmaz
+      in: Arvid Odegard
   stats:
-    on_target: 5
-    off_target: 6
-    possession: 59
-    corners: 4
-    offsides: 7
-    foul: 4
-    yellow: 2
+    on_target: 3
+    off_target: 3
+    possession: 45
+    corners: 7
+    offsides: 2
+    foul: 5
+    yellow: 5
 
 minutes:
+  - type: yellow
+    etime: 2
+    home: Vinicius Ferraz de Souza
   - type: goal
-    etime: 22
+    etime: 7
     home: Vinicius Ferraz de Souza
     assist: Eduardo Damasceno Delgado
     score: 1:0
-  - type: yellow
-    etime: 23
-    home: Iago Martins Belluci
-  - type: yellow
-    etime: 24
-    home: Túlio Amorim Morais
   - type: goal
-    etime: 32
-    visitor: Zewdnesh Tesfa Galawdeyos
-    assist: Gulema Yihun Mihret
+    etime: 12
+    visitor: Alemu Bekele Yitay
+    assist: Wolitigna Adugna Mesay
     score: 1:1
   - type: yellow
-    etime: 38
-    home: José Hamada Barros
+    etime: 26
+    home: Roberta Medeiros Menezes
+  - type: goal
+    etime: 27
+    visitor: Jeneve Dessalegne Tessema
+    assist: Wolitigna Adugna Mesay
+    score: 1:2
   - type: half_time
     etime: 45
-    score: 1:1
-  - type: yellow
-    etime: 48
-    visitor: Alemu Bekele Yitay
-  - type: goal
-    etime: 53
-    visitor: Gulema Yihun Mihret
-    assist: Brehan Kidane Meles
     score: 1:2
   - type: yellow
-    etime: 59
-    home: Sidnei Amaral Ferraz
+    etime: 52
+    home: Leandro Antunes Couto
+  - type: goal
+    etime: 52
+    home: Francine Gonçalves Caetano
+    assist: Bernardo Maia Álvarez
+    score: 2:2
+  - type: goal
+    etime: 60
+    home: Eduardo Damasceno Delgado
+    assist: Francine Gonçalves Caetano
+    score: 3:2
+  - type: yellow
+    etime: 78
+    home: Márcio Nascimento Furtado
+  - type: yellow
+    etime: 80
+    home: José Hamada Barros
+  - type: goal
+    etime: 84
+    home: Márcio Nascimento Furtado
+    assist: Eduardo Damasceno Delgado
+    score: 4:2

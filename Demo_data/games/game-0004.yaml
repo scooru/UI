@@ -1,163 +1,167 @@
 ---
 game-id: 0004
-date: 06/30/2005 10:30 PM
-loc: Busan
+date: 06/27/2002 11:12 AM
+loc: Quezon City
 live: False
 referrees:
-  - name: Gul Bardakci (Turkish)
+  - name: Arvid Odegard (Swedish)
 home:
   team_id: 0001
   team_name: AWFC
   coaches:
-    - name: Amal Alfarsi
+    - name: Saladin Toma
 
   players:
-    - name: Musaddiq al-Pirani
+    - sname: musad
+      full_name: Musaddiq al-Pirani
       position: Goalkeeper
-    - name: Husni el-Farooqui
+    - sname: HeFaroo
+      full_name: Husni el-Farooqui
       position: Centre-back
-    - name: Hasan el-Matin
+    - sname: hasan
+      full_name: Hasan el-Matin
       position: Sweeper
-    - name: Naseeba al-Yousuf
+    - sname: Naseeb
+      full_name: Naseeba al-Yousuf
       position: Full-back
-    - name: Safwaan el-Koroma
+    - sname: Safwa
+      full_name: Safwaan el-Koroma
       position: Wing-back
-    - name: Behzad Mahdavi
+    - sname: mahdaviB
+      full_name: Behzad Mahdavi
       position: Centre midfield
-      out: 77'
-    - name: Arzhang Moshiri
+      out: 52'
+    - sname: arzhang
+      full_name: Arzhang Moshiri
       position: Defensive midfield
-    - name: Taghi Taheri
+    - sname: MrTaheri
+      full_name: Taghi Taheri
       position: Attacking midfield
       out: 74'
-    - name: Abbas Diba
+    - sname: dibadiba
+      full_name: Abbas Diba
       position: Wide midfield
-      out: 83'
-    - name: Siamak Yaghmaei
+    - sname: siamak
+      full_name: Siamak Yaghmaei
       position: Centre forward
-    - name: Saman Arabnia
+    - sname: samana
+      full_name: Saman Arabnia
       position: Second striker
   substitutions:
-    - etime: 77
+    - etime: 52
       out: Behzad Mahdavi
-      in: Ubon Buasuwan
+      in: Inacio Lacerda
     - etime: 74
       out: Taghi Taheri
-      in: Ubon Buasuwan
-    - etime: 83
-      out: Abbas Diba
-      in: Ubon Buasuwan
+      in: Farhat Yilmaz
   stats:
-    on_target: 4
-    off_target: 6
-    possession: 58
-    corners: 4
+    on_target: 5
+    off_target: 3
+    possession: 54
+    corners: 3
     offsides: 7
-    foul: 6
-    yellow: 7
+    foul: 9
+    yellow: 4
 
 
 visitors:
   team_id: 0005
   team_name: LHFC
   coaches:
-    - name: Lilly Jernberg
+    - name: Nils Landin
 
   players:
-    - name: Hildr Dalin
+    - sname: hildrd
+      full_name: Hildr Dalin
       position: Goalkeeper
-      out: 49'
-    - name: Tron Blomquist
+    - sname: tronblom
+      full_name: Tron Blomquist
       position: Centre-back
-    - name: Ragnar Lindgren
+    - sname: ragnarlin
+      full_name: Ragnar Lindgren
       position: Sweeper
-    - name: Joel Lennartsson
+    - sname: joelle
+      full_name: Joel Lennartsson
       position: Full-back
-      out: 52'
-    - name: Nicholas Lundholm
+    - sname: nicholas
+      full_name: Nicholas Lundholm
       position: Wing-back
-    - name: Thomas Borg
+    - sname: tomburg
+      full_name: Thomas Borg
       position: Centre midfield
-      out: 89'
-    - name: Stefan Lötvall
+    - sname: stefilot
+      full_name: Stefan Lötvall
       position: Defensive midfield
-      out: 70'
-    - name: Ögge Jönsson
+    - sname: ojonss
+      full_name: Ögge Jönsson
       position: Attacking midfield
-      out: 48'
-    - name: Joel Liljeström
+      out: 62'
+    - sname: joelljs
+      full_name: Joel Liljeström
       position: Wide midfield
-    - name: Pia Frisk
+    - sname: pipifri
+      full_name: Pia Frisk
       position: Centre forward
-    - name: Fia Johannesson
+    - sname: fjohanss
+      full_name: Fia Johannesson
       position: Second striker
   substitutions:
-    - etime: 49
-      out: Hildr Dalin
-      in: Fethee Tenagnework
-    - etime: 52
-      out: Joel Lennartsson
-      in: Arvid Odegard
-    - etime: 89
-      out: Thomas Borg
-      in: Paithoon Suthikul
-    - etime: 70
-      out: Stefan Lötvall
-      in: Cherise Bey
-    - etime: 48
+    - etime: 62
       out: Ögge Jönsson
-      in: Lishan Wube
+      in: Gul Bardakci
   stats:
-    on_target: 4
-    off_target: 4
-    possession: 58
-    corners: 3
-    offsides: 2
-    foul: 4
-    yellow: 1
+    on_target: 0
+    off_target: 6
+    possession: 53
+    corners: 4
+    offsides: 3
+    foul: 9
+    yellow: 4
 
 minutes:
+  - type: yellow
+    etime: 2
+    visitor: Ögge Jönsson
+  - type: yellow
+    etime: 3
+    visitor: Hildr Dalin
   - type: goal
-    etime: 14
-    home: Arzhang Moshiri
-    assist: Safwaan el-Koroma
+    etime: 17
+    home: Hasan el-Matin
+    assist: Behzad Mahdavi
     score: 1:0
   - type: yellow
-    etime: 15
-    home: Safwaan el-Koroma
-  - type: yellow
-    etime: 18
-    visitor: Fia Johannesson
+    etime: 19
+    visitor: Pia Frisk
   - type: goal
-    etime: 25
-    home: Siamak Yaghmaei
-    assist: Arzhang Moshiri
-    score: 2:0
+    etime: 24
+    visitor: Hildr Dalin
+    assist: Ögge Jönsson
+    score: 1:1
   - type: yellow
-    etime: 34
-    visitor: Fia Johannesson
+    etime: 30
+    visitor: Hildr Dalin
   - type: yellow
     etime: 42
-    visitor: Joel Lennartsson
+    visitor: Stefan Lötvall
+  - type: goal
+    etime: 44
+    home: Husni el-Farooqui
+    assist: Abbas Diba
+    score: 2:1
   - type: half_time
     etime: 45
-    score: 2:0
-  - type: yellow
-    etime: 46
-    visitor: Fia Johannesson
-  - type: yellow
-    etime: 78
-    visitor: Pia Frisk
-  - type: yellow
-    etime: 83
-    home: Siamak Yaghmaei
-  - type: goal
-    etime: 84
-    visitor: Ragnar Lindgren
-    assist: Ögge Jönsson
     score: 2:1
   - type: goal
-    etime: 86
-    home: Hasan el-Matin
-    assist: Musaddiq al-Pirani
+    etime: 53
+    home: Arzhang Moshiri
+    assist: Saman Arabnia
     score: 3:1
+  - type: goal
+    etime: 57
+    home: Behzad Mahdavi
+    assist: Musaddiq al-Pirani
+    score: 4:1
+  - type: yellow
+    etime: 62
+    home: Siamak Yaghmaei
