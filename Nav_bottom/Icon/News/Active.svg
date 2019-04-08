@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav_bottom / Icon_with_text / News / Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation" transform="translate(-297.000000, -1339.000000)" fill="#FFFFFF">
+            <g id="Bottom-Navigation-/-Primary-Color-/-Active-/-Resting-Copy-7" transform="translate(81.000000, 1310.000000)">
+                <g id="Bottom-Navigation-/-4-up-/-Primary-Color-Copy-5">
+                    <g id="Nav_bottom-/-Icon_with_text-/-News-/-Active" transform="translate(216.000000, 29.000000)">
+                        <path d="M9.25697046,6.40278818 C10.8900752,6.40278818 12.2083645,5.08449882 12.2083645,3.45139409 C12.2083645,1.81828936 10.8900752,0.5 9.25697046,0.5 C7.62386573,0.5 6.30557637,1.81828936 6.30557637,3.45139409 C6.30557637,5.08449882 7.62386573,6.40278818 9.25697046,6.40278818 M9.25697046,9.89527119 C6.9352071,7.73091552 3.82640533,6.40278818 0.402788183,6.40278818 L0.402788183,17.2245665 C3.82640533,17.2245665 6.9352071,18.5526939 9.25697046,20.7170495 C11.57775,18.561548 14.6875356,17.2245665 18.1111527,17.2245665 L18.1111527,6.40278818 C14.6875356,6.40278818 11.57775,7.73091552 9.25697046,9.89527119" id="News"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

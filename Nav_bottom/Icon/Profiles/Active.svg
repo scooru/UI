@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav_bottom / Icon_with_text / Profiles / Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation" transform="translate(-206.000000, -1339.000000)" fill="#FFFFFF">
+            <g id="Bottom-Navigation-/-Primary-Color-/-Active-/-Resting-Copy-7" transform="translate(81.000000, 1310.000000)">
+                <g id="Bottom-Navigation-/-4-up-/-Primary-Color-Copy-5">
+                    <g id="Nav_bottom-/-Icon_with_text-/-Profiles-/-Active" transform="translate(125.000000, 29.000000)">
+                        <path d="M10.2838638,0.5 C4.82067671,0.5 0.386785778,4.99374502 0.386785778,10.5306808 C0.386785778,16.0676167 4.82067671,20.5613617 10.2838638,20.5613617 C15.7470508,20.5613617 20.1809417,16.0676167 20.1809417,10.5306808 C20.1809417,4.99374502 15.7470508,0.5 10.2838638,0.5 Z M10.2838638,3.50920425 C11.9267787,3.50920425 13.2529872,4.85331549 13.2529872,6.51840851 C13.2529872,8.18350153 11.9267787,9.52761276 10.2838638,9.52761276 C8.64094881,9.52761276 7.31474036,8.18350153 7.31474036,6.51840851 C7.31474036,4.85331549 8.64094881,3.50920425 10.2838638,3.50920425 Z M10.2838638,17.8530779 C7.80959426,17.8530779 5.62234003,16.5691507 4.34561697,14.6231986 C4.3753082,12.6270931 8.30444816,11.5337489 10.2838638,11.5337489 C12.2533823,11.5337489 16.1924193,12.6270931 16.2221105,14.6231986 C14.9453875,16.5691507 12.7581333,17.8530779 10.2838638,17.8530779 Z" id="Profiles"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
